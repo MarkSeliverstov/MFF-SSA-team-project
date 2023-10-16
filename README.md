@@ -13,12 +13,6 @@
   - viewing schedules
   - statistical reports (occupancy of rooms,...)
 
-## Squad list
-
-- Mark Seliverstov
-- ...
-- ...
-
 ## Useful links and info
 
 - [Lectures](https://cunicz-my.sharepoint.com/personal/11165798_cuni_cz/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F11165798%5Fcuni%5Fcz%2FDocuments%2FNSWI130%2FNSWI130%2Dstudents%2D23%2Flectures&ga=1)
