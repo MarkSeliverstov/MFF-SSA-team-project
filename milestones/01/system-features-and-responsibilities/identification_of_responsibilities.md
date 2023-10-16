@@ -43,10 +43,29 @@ As a scheduling committee, I want to create schedules for each class in the seme
 
 ### Feature: Viewing schedules for teachers
 
-As a teacher, I want to view my schedule for all my classes so that can see my teaching time, students can see my available time.
+As a teacher, I want to view my schedule for all my classes so that I can see my teaching time, students can see my available time.
 
 #### Feature breakdown
+1. Teacher go the the dashboard and click on "Schedule" button
+2. The system will show a list of subjects (title, schedule, room, building, number of students enrolled) that the teacher will teach in the current semester by:
+    - Day by day view (Default view)
+    - Calendar view (weekly view)
+3. The system will notify the student via email when there is a time conflict. 
+4. The teacher can also export their schedule as a PDF, Excel, or ICS file extension. 
+5. The teacher can accept the new schedules assigned by the committee or request a new schedule with comments to the committee. 
+
 #### Responsibilities
+
+##### Data collection responsibilities
+* Retrieve a list of subjects that the teacher will teach in the current semester from the database.
+* Ensure that data is syntactically correct.
+
+##### Visualization responsibilities
+* Display a calendar with a list of subjects.
+* Add the created schedule to the calendar view.
+
+##### Notification responsibilities
+* Notify the student if there is a time conflict.
 
 ### Feature: Viewing schedules for students
 
