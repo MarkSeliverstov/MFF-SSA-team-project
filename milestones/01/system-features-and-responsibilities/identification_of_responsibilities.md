@@ -50,8 +50,25 @@ As a teacher, I want to view my schedule for all my classes so that can see my t
 
 ### Feature: Viewing schedules for students
 
-As a student, I want to vew my schedule for all the classes so that I can see my studying time.
+As a student, I want to vew my schedule for all the classes so that I can manage and plan my studying time accordingly.
 
 #### Feature breakdown
+1. Student go to the dashboard and click on "Schedule" button 
+2. The system will show a list of subjects (title, schedule, room, building, and professor) that the student has enrolled by:
+    - Day by day view (Default view)
+    - Calendar view (weekly view)
+3. The system will notify the student via email when there is a time conflict. 
+4. Student can also export their schedule as a PDF, Excel, or ICS file extension. 
 #### Responsibilities
+
+##### Data collection responsibilities
+* Retrieve a list of subjects that the student has enrolled for the current semester from the database.
+* Ensure that data is syntactically correct.
+
+##### Visualization responsibilities
+* Display a calendar with a list of subjects.
+* Add the created schedule to the calendar view.
+
+##### Notification responsibilities
+* Notify the student if there is a time conflict.
 

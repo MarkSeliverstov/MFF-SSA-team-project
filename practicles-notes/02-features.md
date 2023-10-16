@@ -38,9 +38,19 @@
     - As a teacher, I want to view my schedule for all my classes so that I can see my available time.
 
 5. **Schedule View (MVP)**
-    - As a student, I want to vew my schedule for all the classes so that I can see my time.
+    - User Story: As a student, I want to vew my schedule for all the classes so that I can manage and plan my time accordingly.
+    - _Feature breakdowns:_
+        1. Student go to the dashboard and click on "Schedule" button 
+        2. The system will show a list of subjects including their times, rooms, and buildings by each day (vertical list)
+        3. The system will send notication to student via email when there is any overlaps in the schedule. 
+        4. Student can also export their schedule as a PDF, Excel, or ICS file extension. 
 
-### Responsibility
+    - _Responsibilities:_
+        1. Data Collection Responsibilites
+            - Fetch data about subjects, buildings from DB
+        2. Data View Responsibilites     
+
+ ### Responsibility
 
 
 
