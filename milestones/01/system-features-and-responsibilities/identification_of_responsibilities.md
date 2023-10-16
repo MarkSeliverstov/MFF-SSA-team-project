@@ -58,14 +58,10 @@ As a teacher, I want to view my schedule for all my classes so that I can see my
 
 ##### Data collection responsibilities
 * Retrieve a list of subjects that the teacher will teach in the current semester from the database.
-* Ensure that data is syntactically correct.
 
 ##### Visualization responsibilities
 * Display a calendar with a list of subjects.
 * Add the created schedule to the calendar view.
-
-##### Notification responsibilities
-* Notify the student if there is a time conflict.
 
 ### Feature: Viewing schedules for students
 
@@ -82,12 +78,13 @@ As a student, I want to vew my schedule for all the classes so that I can manage
 
 ##### Data collection responsibilities
 * Retrieve a list of subjects that the student has enrolled for the current semester from the database.
-* Ensure that data is syntactically correct.
-
+  
 ##### Visualization responsibilities
 * Display a calendar with a list of subjects.
 * Add the created schedule to the calendar view.
 
 ##### Notification responsibilities
-* Notify the student if there is a time conflict.
+* Canceling of classes
 
+##### Exporting responsibilities
+* Export schedule as csv/pdf/ics
