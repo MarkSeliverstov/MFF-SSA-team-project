@@ -75,7 +75,56 @@ schedule changes, which are then processed by the system.
 
 ![](embed:clientDiagram)
 
-## API Decomposition View
+### API
+
+#### Overview
+
+The API container serves as the integrative core of the Schedule System, orchestrating the flow of data between internal components and external systems. It manages incoming and outgoing requests, ensuring that each component of the Schedule System communicates effectively. The API container's role encompasses the authentication of requests, validation of data, and the provision of a structured conduit through which all data passes, thus maintaining the system's integrity and operational efficiency.
+
+#### Responsibilities
+
+The API container is responsible for:
+
+- Managing the bidirectional routing of requests and data between the Client Application and the Web Application.
+- Offering the means for the Web Application to interface with the Schedule Database, allowing for efficient data querying and updates.
+- Handling authentication and authorization to ensure secure access to the system's functionalities.
+- Serving as an intermediary between the system and external systems, such as the Enrollment, Student, and Building Systems.
+- Validating incoming data to maintain the integrity of the information processed by the system.
+
+#### Components
+
+**Authentication and Authorization (A&A)**
+
+- **Description:** Enforces security by managing user access rights.
+- **Functionality:** Validates user credentials and determines the user's permissions for specific actions within the system. Upon confirming that the user is permitted to perform the requested operation, A&A forwards the request to the Internal API.
+
+**Internal API**
+
+- **Description:** Manages communication between the Client Application and the Web Application.
+- **Functionality:**
+    - Receives data requests that have been validated and authorized by A&A from the Client Application.
+    - Directs these verified requests to the Web Application and conveys the results back to the originating Client Application.
+
+**External API**
+
+- **Description:** Manages the exchange of data between the Schedule System and external systems.
+- **Functionality:**
+    - Sends requests from Web Application to and receives responses from external systems like the Enrollment, Student, and Building Systems.
+    - Coordinates with the External Data Validation component to ensure data integrity.
+
+**External Data Validation**
+
+- **Description:** Validates the correctness and completeness of incoming data.
+- **Functionality:**
+    - Validates and reformats data from external sources to meet the Web Application's requirements.
+    - Once validated and formatted, forwards the data to the Web Application for further processing.
+
+**Database API**
+
+- **Description:** Handles all interactions with the Schedule Database.
+- **Functionality:**
+    - Performs read and write operations to the database.
+    - Processes requests for data retrieval and storage from the Web Application.
 
 ![](embed:apiDiagram)
 
