@@ -1,0 +1,1990 @@
+{
+    "id": 87570,
+    "name": "SIS",
+    "description": "Description",
+    "revision": 84,
+    "lastModifiedDate": "2023-11-24T09:37:55Z",
+    "lastModifiedUser": "smdmrr00@gmail.com",
+    "lastModifiedAgent": "structurizr-cloud",
+    "properties": {
+        "structurizr.dsl": "d29ya3NwYWNlICJTSVMiICJEZXNjcmlwdGlvbiJ7CgogICAgbW9kZWwgewogICAgICAgIAogICAgICAgICMgYWN0b3IKICAgICAgICB1c2VyID0gcGVyc29uICJVc2VyIiAiQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50IgogICAgICAgIGNvbW1pdHRlZSA9IHBlcnNvbiAiQ29tbWl0dGVlIiAiQXNzZXNzZXMgZW5yb2xsbWVudCBhbmQgYnVpbGRpbmcgZGF0YSB0byBjcmVhdGUgdGhlIHNjaGVkdWxlIgogICAgICAgIHRlYWNoZXIgPSBwZXJzb24gIlRlYWNoZXIiICJWaWV3IHNjaGVkdWxlIGFuZCByZXF1ZXN0IGZvciBzY2hlZHVsZSBjaGFuZ2UgIgogICAgICAgIHN0dWRlbnQgPSBwZXJzb24gIlN0dWRlbnQiICJWaWV3IFNjaGVkdWxlIgogICAgICAgIGFkbWluID0gcGVyc29uICJUZWNobmljYWwgYWRtaW5pc3RyYXRvciIgIkFkbWluaXN0ZXJzIG1lYXN1cmluZyBkZXZpY2VzLiIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHNvZnR3YXJlIHN5c3RlbQogICAgICAgIHNjaGVkdWxlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNjaGVkdWxlIFN5c3RlbSIgIkNyZWF0ZSBhbmQgdmlldyBzY2hlZHVsZSIgewogICAgICAgICAgICB3ZWJhcHAgPSBjb250YWluZXIgIldlYiBBcHBsaWNhdGlvbiIgIkNyZWF0ZSwgYW5hbHl6ZSwgYW5kIHZhbGlkYXRlIHNjaGVkdWxlLiIgewogICAgICAgICAgICAgICAgZm9ybU1hbmFnZXIgPSBjb21wb25lbnQgIkZvcm0gTWFuYWdlciIgIkZvcm1zIHN1Ym1pdHRlZCBieSB1c2VycyIKICAgICAgICAgICAgICAgIHNjaGVkdWxlQW5hbHl6ZXIgPSBjb21wb25lbnQgIlNjaGVkdWxlIGFuYWx5emVyIiAiQW5hbHl6ZSBzY2hlZHVsZS4iICJQeXRob24gYW5hbHl6ZXIiCiAgICAgICAgICAgICAgICBub3RpZmljYXRvciA9IGNvbXBvbmVudCAiTm90aWZpY2F0b3IiICJHZW5lcmF0ZSBub3RpZmljYXRpb25zIGFuZCBzZW5kIGl0IiAKICAgICAgICAgICAgICAgIHNjaGVkdWxlTWFuYWdlciA9IGNvbXBvbmVudCAiU2NoZWR1bGUgTWFuYWdlciIgIkNyZWF0ZS9EZWxldGUvVXBkYXRlIFNjaGVkdWxlIgogICAgICAgICAgICAgICAgZW1haWxTZW5kZXIgPSBjb21wb25lbnQgIkVtYWlsIFNlbmRlciIgIlNlbmRzIG5vdGlmaWNhdGlvbnMgdmlhIGVtYWlscyIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIGNsaWVudCA9IGNvbnRhaW5lciAiQ2xpZW50IEFwcGxpY2F0aW9uIiAiRGFzaGJvYXJkLCBDYWxlbmRhciwgRm9ybXMiIHsKICAgICAgICAgICAgICAgIHZpZXdDb250cm9sbGVyID0gY29tcG9uZW50ICJWaWV3IENvbnRyb2xsZXIiICJQcm92aWRlIHZpZXcgZm9yIGRpZmZlcmVudCB1c2VycyAoQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50KSIKICAgICAgICAgICAgICAgIGNvbW1pdHRlZVZpZXcgPSBjb21wb25lbnQgIkNvbW1pdHRlZSBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciBjb21taXR0ZWUgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyBjcmVhdGUsIHZhbGlkYXRlLCBvciBjaGFuZ2Ugc2NoZWR1bGUiCiAgICAgICAgICAgICAgICB0ZWFjaGVyVmlldyA9IGNvbXBvbmVudCAiVGVhY2hlciBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciB0ZWFjaGVyIGluIHdlYiBicm93c2VyIHN1Y2ggYXMgcmVxdWVzdGluZyBzY2hlZHVsZSIKICAgICAgICAgICAgICAgIHN0dWRlbnRWaWV3ID0gY29tcG9uZW50ICJTdHVkZW50IFZpZXciICJQcm92aWRlIGZ1bmN0aW9uYWxpdHkgZm9yIHN0dWRlbnQgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyB2aWV3aW5nIHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBjYWxlbmRhciA9IGNvbXBvbmVudCAiQ2FsZW5kYXIgKGZvciBDb21taXR0ZWUpIiAiRGlzcGxheSBzY2hlZHVsZSB3aXRoIGNhbGVuZGFyIHZpZXciCiAgICAgICAgICAgICAgICBzdWJqZWN0cyA9IGNvbXBvbmVudCAiTGlzdCBvZiBTdWJqZWN0cyAoZm9yIENvbW1pdHRlZSkiICJEaXNwbGF5IGEgbGlzdCBvZiBzdWJqZWN0cyIKICAgICAgICAgICAgICAgIHNldHRpbmdzID0gY29tcG9uZW50ICJVc2VyIFNldHRpbmdzIgogICAgICAgICAgICAgICAgc2NoZWR1bGUgPSBjb21wb25lbnQgIlNjaGVkdWxlIiAiRGlzcGxheSB0ZWFjaGVyIGFuZCBzdHVkZW50IHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBub3RpZmljYXRpb25DbGllbnQgPSBjb21wb25lbnQgIk5vdGlmaWNhdGlvbnMiICJBIHBhcnQgb2YgdGhlIHZpZXcgZGlzcGxheWluZyBhbGVydHMgdmlhIEFQSSIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9ybSA9IGNvbXBvbmVudCAiUmVxdWVzdGVkIEZvcm0iICJSZXF1ZXN0IHByZWZlcnJlZCBzY2hlZHVsZSBieSB0ZWFjaGVyIHRvIGNvbW1pdHRlZSIKICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHVzZXIgLT4gdGhpcyAiSW50ZXJhY3Qgd2l0aCBhcHAiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXBpID0gY29udGFpbmVyICJBUEkiICJEZWZpbmVzIHRoZSBtZXRob2RzIGFuZCBkYXRhIGZvcm1hdHMgdGhhdCB1c2UgdG8gY29tbXVuaWNhdGUgd2l0aCBzeXN0ZW1zIGFuZCBkYXRhYmFzZS4gSXQgaXMgYSBjb21tdW5pY2F0aW9uIGNlbnRlciBmb3IgdGhlIHN5c3RlbS4iIHsKICAgICAgICAgICAgICAgIGludGVybmFsQVBJID0gY29tcG9uZW50ICJJbnRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIFNjaGVkdWxlIFN5c3RlbSIKICAgICAgICAgICAgICAgIGV4dGVybmFsQVBJID0gY29tcG9uZW50ICJFeHRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIGV4dGVybmFsIHN5c3RlbXMiCiAgICAgICAgICAgICAgICBkYXRhYmFzZUFQSSA9IGNvbXBvbmVudCAiRGF0YUJhc2UgQVBJIiAiQ29tbXVuaWNhdGUgd2l0aCBTY2hlZHVsZSBEYXRhQmFzZSIKICAgICAgICAgICAgICAgIGFuYSA9IGNvbXBvbmVudCAiQXV0aGVudGljYXRpb24gYW5kIEF1dGhvcml6YXRpb24iICJJbXBsZW1lbnQgc2VjdXJpdHkgbWVhc3VyZXMgdG8gZW5zdXJlIHRoYXQgb25seSBhdXRob3JpemVkIHVzZXJzIGNhbiBhY2Nlc3Mgb3IgbW9kaWZ5IGRhdGEuIFRoaXMgbWlnaHQgaW52b2x2ZSBPQXV0aCB0b2tlbnMsIEFQSSBrZXlzLCBvciBvdGhlciBzZWN1cml0eSBwcm90b2NvbHMuIgogICAgICAgICAgICAgICAgZGF0YVZhbGlkYXRpb24gPSBjb21wb25lbnQgIkV4dGVybmFsIERhdGEgVmFsaWRhdGlvbiIgIlZhbGlkYXRlIGluY29taW5nIGRhdGEgZm9yIGNvcnJlY3RuZXNzIGFuZCBjb21wbGV0ZW5lc3MgYmVmb3JlIGl0IGlzIHByb2Nlc3NlZCBvciBzdG9yZWQiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIGV4dGVybmFsIHN5c3RlbQogICAgICAgIGVucm9sbG1lbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiRW5yb2xsbWVudCBTeXN0ZW0iICJTdG9yZSBlbnJvbGxtZW50IHJlY29yZHMgc3VjaCBhcyBhdmFpbGFibGUgc3ViamVjdHMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgZW5yb2xsREIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiCiAgICAgICAgfQogICAgICAgIHN0dWRlbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU3R1ZGVudCBTeXN0ZW0iICJTdG9yZSBzdHVkZW50IHJlY29yZHMgc3VjaCBhcyBuYW1lLCBhZ2UsIGRlcGFydG1lbnQsIGV0Yy4iICJFeGlzdGluZyBTeXN0ZW0iewogICAgICAgICAgICBzdHVkZW50REIgPSBjb250YWluZXIgIlN0dWRlbnQgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRpbmcgU3lzdGVtIiAiU3RvcmUgcmVjb3JkcyBzdWNoIGFzIGF2YWlsYWJsZSBidWlsZGluZ3MsIHJvb21zLCBldGMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgYnVpbGRpbmdEQiA9IGNvbnRhaW5lciAiQnVpbGRpbmcgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGJldHdlZW4gZXh0ZXJuYWwgc3lzdGVtcyBhbmQgc2NoZWR1bGVTeXN0ZW0KICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBlbnJvbGxtZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgZW5yb2xsbWVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBzdHVkZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgc3R1ZGVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBidWlsZGluZ1N5c3RlbSAiTWFrZSBBUEkgY2FsbHMgdG8gZ2V0IGJ1aWxkaW5nIGRhdGEuIgogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHVzZXJzIGFuZCBzY2hlZHVsZVN5c3RlbQogICAgICAgIGNvbW1pdHRlZSAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldywgY3JlYXRlLCBhbmQgdmFsaWRhdGUgc2NoZWR1bGUiCiAgICAgICAgdGVhY2hlciAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBhbmQgcmVxdWVzdCBhIGNoYW5nZWQgc2NoZWR1bGUiCiAgICAgICAgc3R1ZGVudCAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBzY2hlZHVsZSIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHJlbGF0aW9uc2hpcHMgYmV0d2VlbiBjb250YWluZXJzCiAgICAgICAgYXBpIC0+IGRiICJGZXRjaGVzIGFuZCBzdG9yZXMgZGF0YSBmcm9tIERCIgogICAgICAgIGFwaSAtPiBlbnJvbGxtZW50U3lzdGVtICJGZXRjaGVzIGRhdGEgZnJvbSBzeXN0ZW0iCiAgICAgICAgYXBpIC0+IHN0dWRlbnRTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICBhcGkgLT4gYnVpbGRpbmdTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICAKICAgICAgICBlbnJvbGxtZW50U3lzdGVtIC0+IGFwaSAiUmVxdWVzdCBkYXRhIGZyb20gc2NoZWR1bGUgc3lzdGVtIgogICAgICAgIHN0dWRlbnRTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgY2xpZW50IC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgYXBpIC0+IHdlYmFwcCAiSW50ZXJhY3RzIHdpdGggYXBwbGljYXRpb24iCiAgICAgICAgCiAgICAgICAgd2ViYXBwIC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIFdlYiBhcHAKICAgICAgICBhcGkgLT4gZm9ybU1hbmFnZXIgIlJldHJpZXZlIGZvcm0iCiAgICAgICAgZm9ybU1hbmFnZXIgLT4gc2NoZWR1bGVNYW5hZ2VyICJSZXF1ZXN0IHNjaGVkdWxlIHVwZGF0ZSIKICAgICAgICBzY2hlZHVsZU1hbmFnZXIgLT4gYXBpICJGZXRjaCBkYXRhIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBzY2hlZHVsZUFuYWx5emVyICJWYWxpZGF0ZSBzY2hlZHVsZSIKICAgICAgICBzY2hlZHVsZUFuYWx5emVyIC0+IHNjaGVkdWxlTWFuYWdlciAiU2VuZCByZXNwb25zZSIKICAgICAgICBub3RpZmljYXRvciAtPiBhcGkgIlNlbmQgYWxlcnRzIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBub3RpZmljYXRvciAiUmVxdWVzdCB0byBjcmVhdGUgbm90aWZpY2F0aW9uIgogICAgICAgIGFwaSAtPiBzY2hlZHVsZU1hbmFnZXIgIlJlcXVlc3QgY2hhbmdlcyBpbiB0aGUgc2NoZWR1bGUiCiAgICAgICAgbm90aWZpY2F0b3IgLT4gZW1haWxTZW5kZXIgIlJlcXVlc3QgdG8gc2VuZCBlbWFpbCIKICAgICAgICBlbWFpbFNlbmRlciAtPiBhcGkgIkZldGNoIEVtYWlscyIKICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIEFQSSBhcHAKICAgICAgICBjbGllbnQgLT4gYW5hICJSZXF1ZXN0IGRhdGEiCiAgICAgICAgaW50ZXJuYWxBUEkgLT4gY2xpZW50ICJSZXNwb25zZSBkYXRhIgogICAgICAgIGFuYSAtPiBpbnRlcm5hbEFQSSAiQXV0aGVudGljYXRlIFVzZXIgUmVxdWVzdCIKICAgICAgICBpbnRlcm5hbEFQSSAtPiB3ZWJhcHAgIlNlbmQgUmVxdWVzdCIKICAgICAgICAKICAgICAgICBkYXRhYmFzZUFQSSAtPiBkYiAiUmVhZCBhbmQgd3JpdGUgZGF0YSIKICAgICAgICB3ZWJhcHAgLT4gZGF0YWJhc2VBUEkgIlJlcXVlc3QgZGF0YSIKICAgICAgICBkYXRhYmFzZUFQSSAtPiB3ZWJhcHAgIlNlbmQgZGF0YSIKICAgICAgICAKICAgICAgICB3ZWJhcHAgLT4gaW50ZXJuYWxBUEkgIlNlbmQgYSByZXNwb25kIgogICAgICAgIHdlYmFwcCAtPiBleHRlcm5hbEFQSSAiUmVxdWVzdCBkYXRhIgogICAgICAgIAogICAgICAgIGV4dGVybmFsQVBJIC0+IGRhdGFWYWxpZGF0aW9uICJTZW5kIEV4dGVybmFsIERhdGEiCiAgICAgICAgZGF0YVZhbGlkYXRpb24gLT4gd2ViYXBwICJFeHRlcm5hbCBEYXRhIFZhbGlkYXRpb24gUmVzdWx0cyIKICAgICAgICAKICAgICAgICBleHRlcm5hbEFQSSAtPiBlbnJvbGxtZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZW5yb2xsbWVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBzdHVkZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgc3R1ZGVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBidWlsZGluZ1N5c3RlbSAiUmVxdWVzdCBEYXRhIgogICAgICAgIGJ1aWxkaW5nU3lzdGVtIC0+IGV4dGVybmFsQVBJICJSZXNwb25zZSBEYXRhIgogICAgICAgIAogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBpbiBDbGllbnQgYXBwCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gY2FsZW5kYXIgIkdldHMgY29tcG9uZW50IgogICAgICAgIHZpZXdDb250cm9sbGVyIC0+IHN1YmplY3RzICJHZXRzIGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzZXR0aW5ncyAiR2V0cyB1c2VyIGRhdGEiCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gZm9ybSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzY2hlZHVsZSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBub3RpZmljYXRpb25DbGllbnQgIkdldCBjb21wb25lbnQiCiAgICAgICAgCiAgICAgICAgY29tbWl0dGVlVmlldyAtPiB2aWV3Q29udHJvbGxlciAiR2V0IGNvbnRlbnQiCiAgICAgICAgdGVhY2hlclZpZXcgLT4gdmlld0NvbnRyb2xsZXIgIkdldCBjb250ZW50IgogICAgICAgIHN0dWRlbnRWaWV3IC0+IHZpZXdDb250cm9sbGVyIEdldCBjb250ZW50IgogICAgIAogICAgICAgIGZvcm0gLT4gYXBpICJQb3N0IHJlcXVlc3QiCiAgICAgICAgc2V0dGluZ3MgLT4gYXBpICJHZXRzL1NldHMgc2V0dGluZ3MiCiAgICAgICAgc3ViamVjdHMgLT4gYXBpICJGZXRjaGVzIHN1YmplY3RzIgogICAgICAgIGNhbGVuZGFyIC0+IGFwaSAiRmV0Y2hlcyBzdWJqZWN0cyIKICAgICAgICBzY2hlZHVsZSAtPiBhcGkgIkZldGNoZXMgZGF0YSIKICAgICAgICBub3RpZmljYXRpb25DbGllbnQgLT4gYXBpICJTZW5kIHJlcXVlc3QgZm9yIGFueSBhbGVydHMiCiAgICAgICAgCiAgICAgICAgIyBkZXBsb3ltZW50IAogICAgICAgIGRlcGxveW1lbnRFbnZpcm9ubWVudCAiTGl2ZSIgICAgewogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiVXNlcidzIFdlYiBTZXJ2ZXIiICIiICIiICAgIHsKICAgICAgICAgICAgICAgIGNsaWVudEFwcEluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2UgY2xpZW50CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGVwbG95bWVudE5vZGUgIkFwcGxpY2F0aW9uIFNlcnZlciAxIiAiIiAiVWJ1bnR1IDE4LjA0IExUUyIgICB7CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiV2ViIHNlcnZlciIgIiIgIkFwYWNoZSBUb21jYXQgMTAuMS4xNSIgIHsKICAgICAgICAgICAgICAgICAgICB3ZWJhcHBJbnN0YW5jZSA9IGNvbnRhaW5lckluc3RhbmNlIHdlYmFwcAogICAgICAgICAgICAgICAgICAgICMgYXBpSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBhcGkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQXBwbGljYXRpb24gU2VydmVyIDIiICIiICJVYnVudHUgMTguMDQgTFRTIiAgIHsKICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJXZWIgc2VydmVyIiAiIiAiQXBhY2hlIFRvbWNhdCAxMC4xLjE1IiAgewogICAgICAgICAgICAgICAgICAgICMgd2ViYXBwSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSB3ZWJhcHAKICAgICAgICAgICAgICAgICAgICBhcGlJbnN0YW5jZSA9IGNvbnRhaW5lckluc3RhbmNlIGFwaQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGF0YWJhc2UgU2VydmVyIiAiIiAiVWJ1bnR1IDE4LjA0IExUUyIgICB7CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUmVsYXRpb25hbCBEQiIgIiIgIk9yYWNsZSAxOS4xLjAiIHsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZURCSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBkYgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0KICAgICAgICAKICAgICAgICAKICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzY2hlZHVsZVN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIgLT4gc2NoZWR1bGVTeXN0ZW0iCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIiCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc2NoZWR1bGVTeXN0ZW0gIkNvbnRhaW5lcnMiewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgIyBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbXBvbmVudCBjbGllbnQgImNsaWVudCJ7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIGNvbXBvbmVudCB3ZWJhcHAgIndlYmFwcCJ7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICAjIGF1dG9sYXlvdXQgbHIKICAgICAgICB9CiAgICAgICAgY29tcG9uZW50IGFwaSAiYXBpInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBkZXBsb3ltZW50IHNjaGVkdWxlU3lzdGVtICJMaXZlIiAiTGl2ZV9EZXBsb3ltZW50IiAgIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGF1dG9sYXlvdXQgbHIKICAgICAgICB9CgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgICAgICAKICAgICAgICBzdHlsZXMgewogICAgICAgICAgICBlbGVtZW50ICJFeGlzdGluZyBTeXN0ZW0iIHsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQgIzk5OTk5OQogICAgICAgICAgICAgICAgY29sb3IgI2ZmZmZmZgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIldlYiBGcm9udC1FbmQiICB7CiAgICAgICAgICAgICAgICBzaGFwZSBXZWJCcm93c2VyCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxlbWVudCAiRGF0YWJhc2UiICB7CiAgICAgICAgICAgICAgICBzaGFwZSBDeWxpbmRlcgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKCiMgU2NvcGVzOgojIFdlYiBhcHBsaWNhdGlvbiAoYmFjay1lbmQpCiAgICAjIFByaW1hcnkgZWxlbWVudDogU2NoZWR1bGUgYW5hbHl6ZXIgCiAgICAjIFN1cHBvcnRpbmcgZWxlbWVudHM6IFNpbmdsZS1wYWdlIGFwcGxpY2F0aW9uLCBkYXRhYmFzZSwgYXBpIGFwcGxpY2F0aW9uCiAgICAjIEludGVuZGVkIGF1ZGllbmNlOiBzb2Z0d2FyZSBhcmNoaXRlY3RzIGFuZCBiYWNrLWVuZCBkZXZlbG9wZXJzCiMgU2luZ2xlLXBhZ2UgYXBwbGljYXRpb24gKGZyb250LWVuZCkKICAgICMgUHJpbWFyeSBlbGVtZW50czogRGFzaGJvYXJkIEludGVyZmFjZSAoQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50KSwgZm9ybSBpbnRlcmZhY2UsIGxvZ2luIGludGVyZmFjZSwgcHJvZmlsZSwgCiAgICAjIFN1cHBvcnRpbmcgZWxlbWVudHM6IFdlYiBhcHBsaWNhdGlvbiwgZGF0YWJhc2UsIGFwaSBhcHBsaWNhdGlvbgogICAgIyBJbnRlbmRlZCBhdWRpZW5jZTogc29mdHdhcmUgYXJjaGl0ZWN0cyBhbmQgZnJvbnQtZW5kIGRldmVsb3BlcnMKIyBEYXRhYmFzZQogICAgIyBQcmltYXJ5IGVsZW1lbnRzOiBEYXRhYmFzZQogICAgIyBTdXBwb3J0aW5nIGVsZW1lbnRzOiBXZWIgYXBwbGljYXRpb24sIFNpbmdsZS1wYWdlIGFwcGxpY2F0aW9uLCBBcGkgYXBwbGljYXRpb24KICAgICMgSW50ZW5kZWQgYXVkaWVuY2U6IERhdGFiYXNlIGFyY2hpdGVjdHMKIyBBUEkgQXBwbGljYXRpb24gCiAgICAjIFByaW1hcnkgZWxlbWVudDogQVBJIGZvciBXZWIgYXBwbGljYXRpb24sIEFQSSBmb3IgZXh0ZXJuYWwgYXBwbGljYXRpb25zLCBBUEkgZm9yIERhdGFiYXNlLCBzaWduaW4sIGFjY291bnRzIGNvbnRyb2xsZXIsIHNlY3VyaXR5IChjaGFuZ2UgcGFzc3dvcmQpCg=="
+    },
+    "model": {
+        "people": [
+            {
+                "id": "1",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "user"
+                },
+                "name": "User",
+                "description": "Committee, Teacher, Student",
+                "relationships": [
+                    {
+                        "id": "25",
+                        "sourceId": "1",
+                        "destinationId": "6",
+                        "description": "Interact with app",
+                        "linkedRelationshipId": "24"
+                    },
+                    {
+                        "id": "24",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "3dbc3810-6ea7-4b21-8bba-be22dc923360"
+                        },
+                        "sourceId": "1",
+                        "destinationId": "13",
+                        "description": "Interact with app"
+                    }
+                ],
+                "location": "Unspecified"
+            },
+            {
+                "id": "4",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "student"
+                },
+                "name": "Student",
+                "description": "View Schedule",
+                "relationships": [
+                    {
+                        "id": "44",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "6b4fd329-2e0b-4a10-b508-0eba78e642a0"
+                        },
+                        "sourceId": "4",
+                        "destinationId": "6",
+                        "description": "View schedule"
+                    }
+                ],
+                "location": "Unspecified"
+            },
+            {
+                "id": "2",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "committee"
+                },
+                "name": "Committee",
+                "description": "Assesses enrollment and building data to create the schedule",
+                "relationships": [
+                    {
+                        "id": "42",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "37fe31c0-3a62-4fdd-b311-b29dfb28f648"
+                        },
+                        "sourceId": "2",
+                        "destinationId": "6",
+                        "description": "View, create, and validate schedule"
+                    }
+                ],
+                "location": "Unspecified"
+            },
+            {
+                "id": "5",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "admin"
+                },
+                "name": "Technical administrator",
+                "description": "Administers measuring devices.",
+                "location": "Unspecified"
+            },
+            {
+                "id": "3",
+                "tags": "Element,Person",
+                "properties": {
+                    "structurizr.dsl.identifier": "teacher"
+                },
+                "name": "Teacher",
+                "description": "View schedule and request for schedule change",
+                "relationships": [
+                    {
+                        "id": "43",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "c31e8484-e8ea-4f37-94ae-4a92c054d0b9"
+                        },
+                        "sourceId": "3",
+                        "destinationId": "6",
+                        "description": "View and request a changed schedule"
+                    }
+                ],
+                "location": "Unspecified"
+            }
+        ],
+        "softwareSystems": [
+            {
+                "id": "35",
+                "tags": "Element,Software System,Existing System",
+                "properties": {
+                    "structurizr.dsl.identifier": "studentsystem"
+                },
+                "name": "Student System",
+                "description": "Store student records such as name, age, department, etc.",
+                "relationships": [
+                    {
+                        "id": "51",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "301cf1ae-cd2a-48ca-af77-10d006e3d0bd"
+                        },
+                        "sourceId": "35",
+                        "destinationId": "26",
+                        "description": "Request data from schedule system"
+                    },
+                    {
+                        "id": "83",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "a7872ecb-b9b9-4d2d-90f6-825f9cb55593"
+                        },
+                        "sourceId": "35",
+                        "destinationId": "28",
+                        "description": "Response Data"
+                    },
+                    {
+                        "id": "52",
+                        "sourceId": "35",
+                        "destinationId": "6",
+                        "description": "Request data from schedule system",
+                        "linkedRelationshipId": "51"
+                    }
+                ],
+                "location": "Unspecified",
+                "containers": [
+                    {
+                        "id": "36",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "studentdb"
+                        },
+                        "name": "Student Database",
+                        "technology": "Database",
+                        "documentation": {}
+                    }
+                ],
+                "documentation": {}
+            },
+            {
+                "id": "37",
+                "tags": "Element,Software System,Existing System",
+                "properties": {
+                    "structurizr.dsl.identifier": "buildingsystem"
+                },
+                "name": "Building System",
+                "description": "Store records such as available buildings, rooms, etc.",
+                "relationships": [
+                    {
+                        "id": "54",
+                        "sourceId": "37",
+                        "destinationId": "6",
+                        "description": "Request data from schedule system",
+                        "linkedRelationshipId": "53"
+                    },
+                    {
+                        "id": "53",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "29f22d12-6e6e-4053-be5b-6a3523347130"
+                        },
+                        "sourceId": "37",
+                        "destinationId": "26",
+                        "description": "Request data from schedule system"
+                    },
+                    {
+                        "id": "85",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "0f2095d4-37bc-438f-bb76-d4c337065e0e"
+                        },
+                        "sourceId": "37",
+                        "destinationId": "28",
+                        "description": "Response Data"
+                    }
+                ],
+                "location": "Unspecified",
+                "containers": [
+                    {
+                        "id": "38",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "buildingdb"
+                        },
+                        "name": "Building Database",
+                        "technology": "Database",
+                        "documentation": {}
+                    }
+                ],
+                "documentation": {}
+            },
+            {
+                "id": "6",
+                "tags": "Element,Software System",
+                "properties": {
+                    "structurizr.dsl.identifier": "schedulesystem"
+                },
+                "name": "Schedule System",
+                "description": "Create and view schedule",
+                "relationships": [
+                    {
+                        "id": "40",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "5f2589dd-86e5-4e90-8a5c-d495308a86ed"
+                        },
+                        "sourceId": "6",
+                        "destinationId": "35",
+                        "description": "Make API calls to get student data."
+                    },
+                    {
+                        "id": "39",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "f1bbdba3-cc47-4dfb-9aff-ed13fe9357ba"
+                        },
+                        "sourceId": "6",
+                        "destinationId": "33",
+                        "description": "Make API calls to get enrollment data."
+                    },
+                    {
+                        "id": "41",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "0e75041d-0eea-4b89-b003-6631d33f1d65"
+                        },
+                        "sourceId": "6",
+                        "destinationId": "37",
+                        "description": "Make API calls to get building data."
+                    }
+                ],
+                "location": "Unspecified",
+                "containers": [
+                    {
+                        "id": "32",
+                        "tags": "Element,Container,Database",
+                        "properties": {
+                            "structurizr.dsl.identifier": "db"
+                        },
+                        "name": "Schedule Database",
+                        "description": "Store schedule, history, forms",
+                        "documentation": {}
+                    },
+                    {
+                        "id": "7",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "webapp"
+                        },
+                        "name": "Web Application",
+                        "description": "Create, analyze, and validate schedule.",
+                        "relationships": [
+                            {
+                                "id": "74",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "a8e7e64f-f4a8-408f-8885-6891c078ff9c"
+                                },
+                                "sourceId": "7",
+                                "destinationId": "29",
+                                "description": "Request data"
+                            },
+                            {
+                                "id": "76",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "d403a6e2-7450-4455-b1e9-01db031c3848"
+                                },
+                                "sourceId": "7",
+                                "destinationId": "27",
+                                "description": "Send a respond"
+                            },
+                            {
+                                "id": "77",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "b52931dc-2786-42de-9f2f-d2c10020eab4"
+                                },
+                                "sourceId": "7",
+                                "destinationId": "28",
+                                "description": "Request data"
+                            },
+                            {
+                                "id": "57",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "795539a0-33a1-4b1a-8321-f5d1d91da535"
+                                },
+                                "sourceId": "7",
+                                "destinationId": "26",
+                                "description": "Communication with app API"
+                            }
+                        ],
+                        "components": [
+                            {
+                                "id": "11",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "schedulemanager"
+                                },
+                                "name": "Schedule Manager",
+                                "description": "Create/Delete/Update Schedule",
+                                "relationships": [
+                                    {
+                                        "id": "61",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "18748d79-c7c1-4b99-919c-ba2c176f7223"
+                                        },
+                                        "sourceId": "11",
+                                        "destinationId": "9",
+                                        "description": "Validate schedule"
+                                    },
+                                    {
+                                        "id": "64",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "7acbbdcc-fa7f-4909-8a7f-eb81e543ca9e"
+                                        },
+                                        "sourceId": "11",
+                                        "destinationId": "10",
+                                        "description": "Request to create notification"
+                                    },
+                                    {
+                                        "id": "60",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "f3eb9706-36bc-42b2-a5d7-0b2b2ea90b80"
+                                        },
+                                        "sourceId": "11",
+                                        "destinationId": "26",
+                                        "description": "Fetch data"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "8",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "formmanager"
+                                },
+                                "name": "Form Manager",
+                                "description": "Forms submitted by users",
+                                "relationships": [
+                                    {
+                                        "id": "59",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "8791b718-77a7-42dc-a818-22ecdffd87b4"
+                                        },
+                                        "sourceId": "8",
+                                        "destinationId": "11",
+                                        "description": "Request schedule update"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "10",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "notificator"
+                                },
+                                "name": "Notificator",
+                                "description": "Generate notifications and send it",
+                                "relationships": [
+                                    {
+                                        "id": "66",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "69dbbd2a-99ea-4bb5-9bb9-e663f3883496"
+                                        },
+                                        "sourceId": "10",
+                                        "destinationId": "12",
+                                        "description": "Request to send email"
+                                    },
+                                    {
+                                        "id": "63",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "003657eb-0fca-4343-8bba-274a29e81b9c"
+                                        },
+                                        "sourceId": "10",
+                                        "destinationId": "26",
+                                        "description": "Send alerts"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "9",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "scheduleanalyzer"
+                                },
+                                "name": "Schedule analyzer",
+                                "description": "Analyze schedule.",
+                                "relationships": [
+                                    {
+                                        "id": "62",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "65a50b61-2650-47b1-a39b-072bda048999"
+                                        },
+                                        "sourceId": "9",
+                                        "destinationId": "11",
+                                        "description": "Send response"
+                                    }
+                                ],
+                                "technology": "Python analyzer",
+                                "documentation": {}
+                            },
+                            {
+                                "id": "12",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "emailsender"
+                                },
+                                "name": "Email Sender",
+                                "description": "Sends notifications via emails",
+                                "relationships": [
+                                    {
+                                        "id": "67",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "dc8291e6-7d69-45fb-bedb-4a197ed121d5"
+                                        },
+                                        "sourceId": "12",
+                                        "destinationId": "26",
+                                        "description": "Fetch Emails"
+                                    }
+                                ],
+                                "documentation": {}
+                            }
+                        ],
+                        "documentation": {}
+                    },
+                    {
+                        "id": "13",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "client"
+                        },
+                        "name": "Client Application",
+                        "description": "Dashboard, Calendar, Forms",
+                        "relationships": [
+                            {
+                                "id": "68",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "3d14bc9a-d270-4cd7-82e6-9bb01067193e"
+                                },
+                                "sourceId": "13",
+                                "destinationId": "30",
+                                "description": "Request data"
+                            },
+                            {
+                                "id": "55",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "02624602-5ed1-4023-aed4-0ca3f38d7634"
+                                },
+                                "sourceId": "13",
+                                "destinationId": "26",
+                                "description": "Communication with app API"
+                            }
+                        ],
+                        "components": [
+                            {
+                                "id": "16",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "teacherview"
+                                },
+                                "name": "Teacher View",
+                                "description": "Provide functionality for teacher in web browser such as requesting schedule",
+                                "relationships": [
+                                    {
+                                        "id": "93",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "0580596a-6224-4d8b-a73e-45b52570b8ae"
+                                        },
+                                        "sourceId": "16",
+                                        "destinationId": "14",
+                                        "description": "Get content"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "21",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "schedule"
+                                },
+                                "name": "Schedule",
+                                "description": "Display teacher and student schedule",
+                                "relationships": [
+                                    {
+                                        "id": "99",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "b647f699-6f98-4a6c-a85c-d4e8a0bda6a5"
+                                        },
+                                        "sourceId": "21",
+                                        "destinationId": "26",
+                                        "description": "Fetches data"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "17",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "studentview"
+                                },
+                                "name": "Student View",
+                                "description": "Provide functionality for student in web browser such as viewing schedule",
+                                "relationships": [
+                                    {
+                                        "id": "94",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "86581067-16ca-44e8-bdd4-00c8b545cd54"
+                                        },
+                                        "sourceId": "17",
+                                        "destinationId": "14",
+                                        "description": "Get",
+                                        "technology": "content\""
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "19",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "subjects"
+                                },
+                                "name": "List of Subjects (for Committee)",
+                                "description": "Display a list of subjects",
+                                "relationships": [
+                                    {
+                                        "id": "97",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "8a1c082c-b769-484c-bfab-a0c5e4fed577"
+                                        },
+                                        "sourceId": "19",
+                                        "destinationId": "26",
+                                        "description": "Fetches subjects"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "22",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "notificationclient"
+                                },
+                                "name": "Notifications",
+                                "description": "A part of the view displaying alerts via API",
+                                "relationships": [
+                                    {
+                                        "id": "100",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "57c69b17-3d42-4d8e-b559-59591838fe88"
+                                        },
+                                        "sourceId": "22",
+                                        "destinationId": "26",
+                                        "description": "Send request for any alerts"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "14",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "viewcontroller"
+                                },
+                                "name": "View Controller",
+                                "description": "Provide view for different users (Committee, Teacher, Student)",
+                                "relationships": [
+                                    {
+                                        "id": "87",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "42ff77fe-6621-4045-b799-3cec14e6ca3e"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "19",
+                                        "description": "Gets component"
+                                    },
+                                    {
+                                        "id": "89",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "3172866f-de8d-40e5-adb3-1b3af088ed0a"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "23",
+                                        "description": "Get component"
+                                    },
+                                    {
+                                        "id": "88",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "e4c29826-bbdf-4e9b-8dea-20b0385e5a6d"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "20",
+                                        "description": "Gets user data"
+                                    },
+                                    {
+                                        "id": "86",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "ec9ae4a3-09df-4159-9f55-9af9079c5d17"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "18",
+                                        "description": "Gets component"
+                                    },
+                                    {
+                                        "id": "90",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "bc582d56-528c-4037-a0c0-b76256011f68"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "21",
+                                        "description": "Get component"
+                                    },
+                                    {
+                                        "id": "91",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "3c3b86c7-8c80-4992-87a7-ed8b8528501e"
+                                        },
+                                        "sourceId": "14",
+                                        "destinationId": "22",
+                                        "description": "Get component"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "20",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "settings"
+                                },
+                                "name": "User Settings",
+                                "relationships": [
+                                    {
+                                        "id": "96",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "27d8b8da-a89d-4ea2-85a1-493da9806b8b"
+                                        },
+                                        "sourceId": "20",
+                                        "destinationId": "26",
+                                        "description": "Gets/Sets settings"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "23",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "form"
+                                },
+                                "name": "Requested Form",
+                                "description": "Request preferred schedule by teacher to committee",
+                                "relationships": [
+                                    {
+                                        "id": "95",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "1f7a1662-727e-45b2-be90-8944e83e8124"
+                                        },
+                                        "sourceId": "23",
+                                        "destinationId": "26",
+                                        "description": "Post request"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "18",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "calendar"
+                                },
+                                "name": "Calendar (for Committee)",
+                                "description": "Display schedule with calendar view",
+                                "relationships": [
+                                    {
+                                        "id": "98",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "b139e077-b893-40dd-9e5e-54f2c85e9645"
+                                        },
+                                        "sourceId": "18",
+                                        "destinationId": "26",
+                                        "description": "Fetches subjects"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "15",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "committeeview"
+                                },
+                                "name": "Committee View",
+                                "description": "Provide functionality for committee in web browser such as create, validate, or change schedule",
+                                "relationships": [
+                                    {
+                                        "id": "92",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "d9ba1b3f-2513-4981-be9f-2428496d90f2"
+                                        },
+                                        "sourceId": "15",
+                                        "destinationId": "14",
+                                        "description": "Get content"
+                                    }
+                                ],
+                                "documentation": {}
+                            }
+                        ],
+                        "documentation": {}
+                    },
+                    {
+                        "id": "26",
+                        "tags": "Element,Container",
+                        "properties": {
+                            "structurizr.dsl.identifier": "api"
+                        },
+                        "name": "API",
+                        "description": "Defines the methods and data formats that use to communicate with systems and database. It is a communication center for the system.",
+                        "relationships": [
+                            {
+                                "id": "45",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "2b035018-8b88-44ff-9cd2-03f277d9202e"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "32",
+                                "description": "Fetches and stores data from DB"
+                            },
+                            {
+                                "id": "58",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "7fb5fd73-69e8-4d09-8fe8-9bca25e9474c"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "8",
+                                "description": "Retrieve form"
+                            },
+                            {
+                                "id": "47",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "64c02a46-febf-4e2a-8209-d91f4b4530f4"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "35",
+                                "description": "Fetches data from system"
+                            },
+                            {
+                                "id": "56",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "08447e8d-af9d-4242-bc14-3aab92f0220c"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "7",
+                                "description": "Interacts with application"
+                            },
+                            {
+                                "id": "70",
+                                "sourceId": "26",
+                                "destinationId": "13",
+                                "description": "Response data",
+                                "linkedRelationshipId": "69"
+                            },
+                            {
+                                "id": "48",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "a29d8efc-102a-490c-870d-ff79a515c435"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "37",
+                                "description": "Fetches data from system"
+                            },
+                            {
+                                "id": "65",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "6b53c871-049b-4b31-aec1-4a75dd44becf"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "11",
+                                "description": "Request changes in the schedule"
+                            },
+                            {
+                                "id": "46",
+                                "tags": "Relationship",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "49f00341-cafa-449c-832d-5bb21b142679"
+                                },
+                                "sourceId": "26",
+                                "destinationId": "33",
+                                "description": "Fetches data from system"
+                            }
+                        ],
+                        "components": [
+                            {
+                                "id": "29",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "databaseapi"
+                                },
+                                "name": "DataBase API",
+                                "description": "Communicate with Schedule DataBase",
+                                "relationships": [
+                                    {
+                                        "id": "75",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "29400310-6a19-43ec-a3f6-1a255f576d73"
+                                        },
+                                        "sourceId": "29",
+                                        "destinationId": "7",
+                                        "description": "Send data"
+                                    },
+                                    {
+                                        "id": "73",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "9cce4347-1bab-4c06-812a-9fdedb276227"
+                                        },
+                                        "sourceId": "29",
+                                        "destinationId": "32",
+                                        "description": "Read and write data"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "30",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "ana"
+                                },
+                                "name": "Authentication and Authorization",
+                                "description": "Implement security measures to ensure that only authorized users can access or modify data. This might involve OAuth tokens, API keys, or other security protocols.",
+                                "relationships": [
+                                    {
+                                        "id": "71",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "7b982257-c610-4df6-bbd5-4c18f2403541"
+                                        },
+                                        "sourceId": "30",
+                                        "destinationId": "27",
+                                        "description": "Authenticate User Request"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "27",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "internalapi"
+                                },
+                                "name": "Internal API",
+                                "description": "Communicate with Schedule System",
+                                "relationships": [
+                                    {
+                                        "id": "72",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "5390b01d-62dd-40a2-b365-10330382af06"
+                                        },
+                                        "sourceId": "27",
+                                        "destinationId": "7",
+                                        "description": "Send Request"
+                                    },
+                                    {
+                                        "id": "69",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "03e27112-ffb4-47cf-968a-20063b6c268e"
+                                        },
+                                        "sourceId": "27",
+                                        "destinationId": "13",
+                                        "description": "Response data"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "31",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "datavalidation"
+                                },
+                                "name": "External Data Validation",
+                                "description": "Validate incoming data for correctness and completeness before it is processed or stored",
+                                "relationships": [
+                                    {
+                                        "id": "79",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "b9e0c2ab-3b45-472c-9cd2-dd1fc050affd"
+                                        },
+                                        "sourceId": "31",
+                                        "destinationId": "7",
+                                        "description": "External Data Validation Results"
+                                    }
+                                ],
+                                "documentation": {}
+                            },
+                            {
+                                "id": "28",
+                                "tags": "Element,Component",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "externalapi"
+                                },
+                                "name": "External API",
+                                "description": "Communicate with external systems",
+                                "relationships": [
+                                    {
+                                        "id": "80",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "4957447b-c2ee-4663-9f89-50e7bb9e4d34"
+                                        },
+                                        "sourceId": "28",
+                                        "destinationId": "33",
+                                        "description": "Request Data"
+                                    },
+                                    {
+                                        "id": "84",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "4bdf5347-ba60-49ea-94d5-2b62ef5965cd"
+                                        },
+                                        "sourceId": "28",
+                                        "destinationId": "37",
+                                        "description": "Request Data"
+                                    },
+                                    {
+                                        "id": "82",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "94921b51-4243-4184-a2a5-ddb977b63ccd"
+                                        },
+                                        "sourceId": "28",
+                                        "destinationId": "35",
+                                        "description": "Request Data"
+                                    },
+                                    {
+                                        "id": "78",
+                                        "tags": "Relationship",
+                                        "properties": {
+                                            "structurizr.dsl.identifier": "65fd062d-81aa-4b6d-9cba-893b503c691d"
+                                        },
+                                        "sourceId": "28",
+                                        "destinationId": "31",
+                                        "description": "Send External Data"
+                                    }
+                                ],
+                                "documentation": {}
+                            }
+                        ],
+                        "documentation": {}
+                    }
+                ],
+                "documentation": {}
+            },
+            {
+                "id": "33",
+                "tags": "Element,Software System,Existing System",
+                "properties": {
+                    "structurizr.dsl.identifier": "enrollmentsystem"
+                },
+                "name": "Enrollment System",
+                "description": "Store enrollment records such as available subjects.",
+                "relationships": [
+                    {
+                        "id": "50",
+                        "sourceId": "33",
+                        "destinationId": "6",
+                        "description": "Request data from schedule system",
+                        "linkedRelationshipId": "49"
+                    },
+                    {
+                        "id": "81",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "5f91b2dc-f948-44f8-8ec0-e08b92df025e"
+                        },
+                        "sourceId": "33",
+                        "destinationId": "28",
+                        "description": "Response Data"
+                    },
+                    {
+                        "id": "49",
+                        "tags": "Relationship",
+                        "properties": {
+                            "structurizr.dsl.identifier": "b073f683-fb30-4c63-aa6b-9982d9f583ef"
+                        },
+                        "sourceId": "33",
+                        "destinationId": "26",
+                        "description": "Request data from schedule system"
+                    }
+                ],
+                "location": "Unspecified",
+                "containers": [
+                    {
+                        "id": "34",
+                        "tags": "Element,Container,Database",
+                        "properties": {
+                            "structurizr.dsl.identifier": "enrolldb"
+                        },
+                        "name": "Schedule Database",
+                        "description": "Store schedule, history, forms",
+                        "documentation": {}
+                    }
+                ],
+                "documentation": {}
+            }
+        ],
+        "deploymentNodes": [
+            {
+                "id": "101",
+                "tags": "Element,Deployment Node",
+                "properties": {
+                    "structurizr.dsl.identifier": "b1e92396-ce29-4f9c-8e45-54f3de4780a9"
+                },
+                "name": "User's Web Server",
+                "environment": "Live",
+                "instances": "1",
+                "containerInstances": [
+                    {
+                        "id": "102",
+                        "tags": "Container Instance",
+                        "properties": {
+                            "structurizr.dsl.identifier": "clientappinstance"
+                        },
+                        "relationships": [
+                            {
+                                "id": "112",
+                                "sourceId": "102",
+                                "destinationId": "108",
+                                "description": "Communication with app API",
+                                "linkedRelationshipId": "55"
+                            }
+                        ],
+                        "environment": "Live",
+                        "deploymentGroups": [
+                            "Default"
+                        ],
+                        "instanceId": 1,
+                        "containerId": "13"
+                    }
+                ]
+            },
+            {
+                "id": "103",
+                "tags": "Element,Deployment Node",
+                "properties": {
+                    "structurizr.dsl.identifier": "cc3b06a1-3817-4484-8c90-70406c4b80f9"
+                },
+                "name": "Application Server 1",
+                "environment": "Live",
+                "technology": "Ubuntu 18.04 LTS",
+                "instances": "1",
+                "children": [
+                    {
+                        "id": "104",
+                        "tags": "Element,Deployment Node",
+                        "properties": {
+                            "structurizr.dsl.identifier": "220b6b74-6515-47d6-9a1e-df00fad45782"
+                        },
+                        "name": "Web server",
+                        "environment": "Live",
+                        "technology": "Apache Tomcat 10.1.15",
+                        "instances": "1",
+                        "containerInstances": [
+                            {
+                                "id": "105",
+                                "tags": "Container Instance",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "webappinstance"
+                                },
+                                "relationships": [
+                                    {
+                                        "id": "110",
+                                        "sourceId": "105",
+                                        "destinationId": "108",
+                                        "description": "Communication with app API",
+                                        "linkedRelationshipId": "57"
+                                    }
+                                ],
+                                "environment": "Live",
+                                "deploymentGroups": [
+                                    "Default"
+                                ],
+                                "instanceId": 1,
+                                "containerId": "7"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "106",
+                "tags": "Element,Deployment Node",
+                "properties": {
+                    "structurizr.dsl.identifier": "3ff7b7b1-b780-4929-885a-be3a257e8a51"
+                },
+                "name": "Application Server 2",
+                "environment": "Live",
+                "technology": "Ubuntu 18.04 LTS",
+                "instances": "1",
+                "children": [
+                    {
+                        "id": "107",
+                        "tags": "Element,Deployment Node",
+                        "properties": {
+                            "structurizr.dsl.identifier": "a9310033-ffef-4577-b8b4-b21b3994ae3d"
+                        },
+                        "name": "Web server",
+                        "environment": "Live",
+                        "technology": "Apache Tomcat 10.1.15",
+                        "instances": "1",
+                        "containerInstances": [
+                            {
+                                "id": "108",
+                                "tags": "Container Instance",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "apiinstance"
+                                },
+                                "relationships": [
+                                    {
+                                        "id": "111",
+                                        "sourceId": "108",
+                                        "destinationId": "102",
+                                        "description": "Response data",
+                                        "linkedRelationshipId": "70"
+                                    },
+                                    {
+                                        "id": "109",
+                                        "sourceId": "108",
+                                        "destinationId": "105",
+                                        "description": "Interacts with application",
+                                        "linkedRelationshipId": "56"
+                                    },
+                                    {
+                                        "id": "116",
+                                        "sourceId": "108",
+                                        "destinationId": "115",
+                                        "description": "Fetches and stores data from DB",
+                                        "linkedRelationshipId": "45"
+                                    }
+                                ],
+                                "environment": "Live",
+                                "deploymentGroups": [
+                                    "Default"
+                                ],
+                                "instanceId": 1,
+                                "containerId": "26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "113",
+                "tags": "Element,Deployment Node",
+                "properties": {
+                    "structurizr.dsl.identifier": "5808a151-bc69-4a45-8cec-d1c59f113dd1"
+                },
+                "name": "Database Server",
+                "environment": "Live",
+                "technology": "Ubuntu 18.04 LTS",
+                "instances": "1",
+                "children": [
+                    {
+                        "id": "114",
+                        "tags": "Element,Deployment Node",
+                        "properties": {
+                            "structurizr.dsl.identifier": "3e103824-708b-44cc-b4fe-2bfedd45f9c5"
+                        },
+                        "name": "Relational DB",
+                        "environment": "Live",
+                        "technology": "Oracle 19.1.0",
+                        "instances": "1",
+                        "containerInstances": [
+                            {
+                                "id": "115",
+                                "tags": "Container Instance",
+                                "properties": {
+                                    "structurizr.dsl.identifier": "scheduledbinstance"
+                                },
+                                "environment": "Live",
+                                "deploymentGroups": [
+                                    "Default"
+                                ],
+                                "instanceId": 1,
+                                "containerId": "32"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "documentation": {},
+    "views": {
+        "systemContextViews": [
+            {
+                "key": "SystemContext-001",
+                "order": 1,
+                "softwareSystemId": "6",
+                "automaticLayout": {
+                    "implementation": "Graphviz",
+                    "rankDirection": "LeftRight",
+                    "rankSeparation": 300,
+                    "nodeSeparation": 300,
+                    "edgeSeparation": 0,
+                    "vertices": false
+                },
+                "enterpriseBoundaryVisible": true,
+                "elements": [
+                    {
+                        "id": "33",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "2",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "35",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "3",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "4",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "37",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "6",
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "50"
+                    },
+                    {
+                        "id": "40"
+                    },
+                    {
+                        "id": "52"
+                    },
+                    {
+                        "id": "41"
+                    },
+                    {
+                        "id": "42"
+                    },
+                    {
+                        "id": "43"
+                    },
+                    {
+                        "id": "54"
+                    },
+                    {
+                        "id": "44"
+                    },
+                    {
+                        "id": "39"
+                    }
+                ]
+            }
+        ],
+        "containerViews": [
+            {
+                "key": "Containers",
+                "order": 2,
+                "softwareSystemId": "6",
+                "dimensions": {
+                    "width": 3070,
+                    "height": 3120
+                },
+                "externalSoftwareSystemBoundariesVisible": true,
+                "elements": [
+                    {
+                        "id": "33",
+                        "x": 615,
+                        "y": 1765
+                    },
+                    {
+                        "id": "1",
+                        "x": 200,
+                        "y": 769
+                    },
+                    {
+                        "id": "35",
+                        "x": 2110,
+                        "y": 1770
+                    },
+                    {
+                        "id": "13",
+                        "x": 900,
+                        "y": 819
+                    },
+                    {
+                        "id": "26",
+                        "x": 1650,
+                        "y": 819
+                    },
+                    {
+                        "id": "37",
+                        "x": 1395,
+                        "y": 1775
+                    },
+                    {
+                        "id": "7",
+                        "x": 2400,
+                        "y": 219
+                    },
+                    {
+                        "id": "32",
+                        "x": 2400,
+                        "y": 819
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "70",
+                        "vertices": [
+                            {
+                                "x": 1500,
+                                "y": 819
+                            }
+                        ]
+                    },
+                    {
+                        "id": "51",
+                        "vertices": [
+                            {
+                                "x": 2395,
+                                "y": 1500
+                            }
+                        ]
+                    },
+                    {
+                        "id": "53",
+                        "vertices": [
+                            {
+                                "x": 1490,
+                                "y": 1565
+                            }
+                        ]
+                    },
+                    {
+                        "id": "24"
+                    },
+                    {
+                        "id": "55",
+                        "vertices": [
+                            {
+                                "x": 1500,
+                                "y": 1119
+                            }
+                        ]
+                    },
+                    {
+                        "id": "56",
+                        "vertices": [
+                            {
+                                "x": 2343,
+                                "y": 786
+                            }
+                        ]
+                    },
+                    {
+                        "id": "45"
+                    },
+                    {
+                        "id": "46"
+                    },
+                    {
+                        "id": "57",
+                        "vertices": [
+                            {
+                                "x": 2156,
+                                "y": 551
+                            }
+                        ]
+                    },
+                    {
+                        "id": "47"
+                    },
+                    {
+                        "id": "48"
+                    },
+                    {
+                        "id": "49",
+                        "vertices": [
+                            {
+                                "x": 990,
+                                "y": 1455
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "componentViews": [
+            {
+                "key": "api",
+                "order": 5,
+                "dimensions": {
+                    "width": 3100,
+                    "height": 3128
+                },
+                "containerId": "26",
+                "externalContainerBoundariesVisible": true,
+                "elements": [
+                    {
+                        "id": "33",
+                        "x": 125,
+                        "y": 170
+                    },
+                    {
+                        "id": "13",
+                        "x": 1315,
+                        "y": 25
+                    },
+                    {
+                        "id": "35",
+                        "x": 110,
+                        "y": 875
+                    },
+                    {
+                        "id": "37",
+                        "x": 160,
+                        "y": 1650
+                    },
+                    {
+                        "id": "27",
+                        "x": 1750,
+                        "y": 600
+                    },
+                    {
+                        "id": "28",
+                        "x": 1000,
+                        "y": 1200
+                    },
+                    {
+                        "id": "7",
+                        "x": 2400,
+                        "y": 2460
+                    },
+                    {
+                        "id": "29",
+                        "x": 1000,
+                        "y": 1800
+                    },
+                    {
+                        "id": "30",
+                        "x": 1000,
+                        "y": 600
+                    },
+                    {
+                        "id": "31",
+                        "x": 1750,
+                        "y": 1200
+                    },
+                    {
+                        "id": "32",
+                        "x": 155,
+                        "y": 2515
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "82",
+                        "vertices": [
+                            {
+                                "x": 840,
+                                "y": 1075
+                            }
+                        ]
+                    },
+                    {
+                        "id": "83",
+                        "vertices": [
+                            {
+                                "x": 775,
+                                "y": 1240
+                            }
+                        ]
+                    },
+                    {
+                        "id": "72",
+                        "vertices": [
+                            {
+                                "x": 2575,
+                                "y": 1330
+                            }
+                        ]
+                    },
+                    {
+                        "id": "80",
+                        "vertices": [
+                            {
+                                "x": 805,
+                                "y": 595
+                            }
+                        ]
+                    },
+                    {
+                        "id": "81"
+                    },
+                    {
+                        "id": "71"
+                    },
+                    {
+                        "id": "74"
+                    },
+                    {
+                        "id": "73"
+                    },
+                    {
+                        "id": "76",
+                        "vertices": [
+                            {
+                                "x": 2355,
+                                "y": 1365
+                            }
+                        ]
+                    },
+                    {
+                        "id": "84",
+                        "vertices": [
+                            {
+                                "x": 756,
+                                "y": 1532
+                            }
+                        ]
+                    },
+                    {
+                        "id": "75",
+                        "vertices": [
+                            {
+                                "x": 1680,
+                                "y": 2310
+                            }
+                        ]
+                    },
+                    {
+                        "id": "85",
+                        "vertices": [
+                            {
+                                "x": 870,
+                                "y": 1685
+                            }
+                        ]
+                    },
+                    {
+                        "id": "78"
+                    },
+                    {
+                        "id": "77"
+                    },
+                    {
+                        "id": "69"
+                    },
+                    {
+                        "id": "68"
+                    },
+                    {
+                        "id": "79"
+                    }
+                ]
+            },
+            {
+                "key": "client",
+                "order": 3,
+                "automaticLayout": {
+                    "implementation": "Graphviz",
+                    "rankDirection": "LeftRight",
+                    "rankSeparation": 300,
+                    "nodeSeparation": 300,
+                    "edgeSeparation": 0,
+                    "vertices": false
+                },
+                "containerId": "13",
+                "externalContainerBoundariesVisible": true,
+                "elements": [
+                    {
+                        "id": "22",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "23",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "14",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "26",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "15",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "16",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "17",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "18",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "19",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "20",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "21",
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "93"
+                    },
+                    {
+                        "id": "94"
+                    },
+                    {
+                        "id": "91"
+                    },
+                    {
+                        "id": "92"
+                    },
+                    {
+                        "id": "86"
+                    },
+                    {
+                        "id": "97"
+                    },
+                    {
+                        "id": "98"
+                    },
+                    {
+                        "id": "87"
+                    },
+                    {
+                        "id": "95"
+                    },
+                    {
+                        "id": "96"
+                    },
+                    {
+                        "id": "90"
+                    },
+                    {
+                        "id": "100"
+                    },
+                    {
+                        "id": "88"
+                    },
+                    {
+                        "id": "99"
+                    },
+                    {
+                        "id": "89"
+                    }
+                ]
+            },
+            {
+                "key": "webapp",
+                "order": 4,
+                "dimensions": {
+                    "width": 3140,
+                    "height": 1828
+                },
+                "containerId": "7",
+                "externalContainerBoundariesVisible": true,
+                "elements": [
+                    {
+                        "id": "11",
+                        "x": 960,
+                        "y": 790
+                    },
+                    {
+                        "id": "12",
+                        "x": 2469,
+                        "y": 820
+                    },
+                    {
+                        "id": "26",
+                        "x": 1395,
+                        "y": 1450
+                    },
+                    {
+                        "id": "8",
+                        "x": 130,
+                        "y": 815
+                    },
+                    {
+                        "id": "9",
+                        "x": 1695,
+                        "y": 315
+                    },
+                    {
+                        "id": "10",
+                        "x": 1719,
+                        "y": 820
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "61",
+                        "vertices": [
+                            {
+                                "x": 1652,
+                                "y": 746
+                            }
+                        ]
+                    },
+                    {
+                        "id": "60",
+                        "vertices": [
+                            {
+                                "x": 1085,
+                                "y": 1270
+                            }
+                        ]
+                    },
+                    {
+                        "id": "63"
+                    },
+                    {
+                        "id": "62",
+                        "vertices": [
+                            {
+                                "x": 1485,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "id": "65"
+                    },
+                    {
+                        "id": "64"
+                    },
+                    {
+                        "id": "67"
+                    },
+                    {
+                        "id": "66"
+                    },
+                    {
+                        "id": "58",
+                        "vertices": [
+                            {
+                                "x": 715,
+                                "y": 1285
+                            }
+                        ]
+                    },
+                    {
+                        "id": "59"
+                    }
+                ]
+            }
+        ],
+        "deploymentViews": [
+            {
+                "key": "Live_Deployment",
+                "order": 6,
+                "softwareSystemId": "6",
+                "automaticLayout": {
+                    "implementation": "Graphviz",
+                    "rankDirection": "LeftRight",
+                    "rankSeparation": 300,
+                    "nodeSeparation": 300,
+                    "edgeSeparation": 0,
+                    "vertices": false
+                },
+                "environment": "Live",
+                "elements": [
+                    {
+                        "id": "101",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "102",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "113",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "103",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "114",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "104",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "115",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "105",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "106",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "107",
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "id": "108",
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "relationships": [
+                    {
+                        "id": "109"
+                    },
+                    {
+                        "id": "111"
+                    },
+                    {
+                        "id": "110"
+                    },
+                    {
+                        "id": "112"
+                    },
+                    {
+                        "id": "116"
+                    }
+                ]
+            }
+        ],
+        "configuration": {
+            "branding": {},
+            "styles": {
+                "elements": [
+                    {
+                        "tag": "Existing System",
+                        "background": "#999999",
+                        "color": "#ffffff"
+                    },
+                    {
+                        "tag": "Web Front-End",
+                        "shape": "WebBrowser"
+                    },
+                    {
+                        "tag": "Database",
+                        "shape": "Cylinder"
+                    }
+                ]
+            },
+            "themes": [
+                "https://static.structurizr.com/themes/default/theme.json"
+            ],
+            "terminology": {},
+            "metadataSymbols": "SquareBrackets",
+            "lastSavedView": "api"
+        }
+    }
+}
