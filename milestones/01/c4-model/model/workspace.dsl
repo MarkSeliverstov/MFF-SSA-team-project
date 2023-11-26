@@ -184,15 +184,15 @@ workspace "SIS" "Description"{
             # autolayout lr
         }
         
-        component client "client"{
+        component client "clientDiagram"{
             include *
             autolayout lr
         }
-        component webapp "webapp"{
+        component webapp "webappDiagram"{
             include *
             # autolayout lr
         }
-        component api "api"{
+        component api "apiDiagram"{
             include *
             # autolayout lr
         }
