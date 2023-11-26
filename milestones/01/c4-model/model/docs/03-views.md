@@ -78,3 +78,7 @@ schedule changes, which are then processed by the system.
 ## API Decomposition View
 
 ![](embed:apiDiagram)
+
+## Deployment
+
+![](embed:deploymentDiagram)

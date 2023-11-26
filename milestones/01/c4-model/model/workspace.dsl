@@ -144,7 +144,7 @@ workspace "SIS" "Description"{
         notificationClient -> api "Send request for any alerts"
         
         # deployment 
-        deploymentEnvironment "Live"    {
+        deploymentEnvironment "deploymentDiagram"    {
             deploymentNode "User's Web Server" "" ""    {
                 clientAppInstance = containerInstance client
             }
@@ -196,7 +196,7 @@ workspace "SIS" "Description"{
             include *
             # autolayout lr
         }
-        deployment scheduleSystem "Live" "Live_Deployment"   {
+        deployment scheduleSystem "deploymentDiagram" {
             include *
             autolayout lr
         }
