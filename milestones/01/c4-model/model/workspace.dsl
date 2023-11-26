@@ -1,7 +1,6 @@
 workspace "SIS" "Description"{
 
     model {
-        
         # actor
         user = person "User" "Committee, Teacher, Student"
         committee = person "Committee" "Assesses enrollment and building data to create the schedule"
@@ -48,6 +47,8 @@ workspace "SIS" "Description"{
             }
             db = container "Schedule Database" "Store schedule, history, forms" "" "Database" {
             }
+
+            !docs docs
         }
         
         # external system
@@ -133,7 +134,7 @@ workspace "SIS" "Description"{
         
         committeeView -> viewController "Get content"
         teacherView -> viewController "Get content"
-        studentView -> viewController Get content"
+        studentView -> viewController "Get content"
      
         form -> api "Post request"
         settings -> api "Gets/Sets settings"
@@ -168,8 +169,6 @@ workspace "SIS" "Description"{
      
             
         }
-        
-        
     }
 
     views {
@@ -217,20 +216,3 @@ workspace "SIS" "Description"{
             }
         }
     }
-
-
-# Scopes:
-# Web application (back-end)
-    # Primary element: Schedule analyzer 
-    # Supporting elements: Single-page application, database, api application
-    # Intended audience: software architects and back-end developers
-# Single-page application (front-end)
-    # Primary elements: Dashboard Interface (Committee, Teacher, Student), form interface, login interface, profile, 
-    # Supporting elements: Web application, database, api application
-    # Intended audience: software architects and front-end developers
-# Database
-    # Primary elements: Database
-    # Supporting elements: Web application, Single-page application, Api application
-    # Intended audience: Database architects
-# API Application 
-    # Primary element: API for Web application, API for external applications, API for Database, signin, accounts controller, security (change password)
