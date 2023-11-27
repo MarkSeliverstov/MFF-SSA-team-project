@@ -9,4 +9,4 @@
 2. **Teacher Schedule Management:** Teachers can conveniently access their assigned schedules and submit requests for modifications when necessary.
 3. **Student Schedule Access:** Students can view their schedule and keep track of their study time accordingly.
 
-### C4 Mode: [link](https://github.com/MarkSeliverstov/MFF-SSA-team-project/tree/main/milestones/01/c4-model)
+### C4 Model: [Link](./c4-model/)
