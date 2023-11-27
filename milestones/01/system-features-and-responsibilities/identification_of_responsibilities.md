@@ -1,8 +1,8 @@
 # Schedule System
 
-## Core features and responsibilities
+# Core features and responsibilities
 
-### Feature: Creating schedule
+## Feature 1: Schedule Creation
 
 As a scheduling committee, I want to create schedules for each class in the semester for teachers and students so that a schedule exists.
 
@@ -41,7 +41,7 @@ As a scheduling committee, I want to create schedules for each class in the seme
 * Notify the Committee if the schedule is not created due to an error.
 
 
-### Feature: Viewing schedules for teachers
+## Feature 2: Teacher Schedule Management
 
 As a teacher, I want to view my schedule for all my classes so that I can see my teaching time, students can see my available time.
 
@@ -50,7 +50,7 @@ As a teacher, I want to view my schedule for all my classes so that I can see my
 2. The system will show a list of subjects (title, schedule, room, building, number of students enrolled) that the teacher will teach in the current semester by:
     - Day by day view (Default view)
     - Calendar view (weekly view)
-3. The system will notify the student via email when there is a time conflict. 
+3. The system will notify the teachers via email when there is a time conflict. 
 4. The teacher can also export their schedule as a PDF, Excel, or ICS file extension. 
 5. The teacher can accept the new schedules assigned by the committee or request a new schedule with comments to the committee. 
 
@@ -63,7 +63,7 @@ As a teacher, I want to view my schedule for all my classes so that I can see my
 * Display a calendar with a list of subjects.
 * Add the created schedule to the calendar view.
 
-### Feature: Viewing schedules for students
+## Feature 3: Student Schedule Access
 
 As a student, I want to vew my schedule for all the classes so that I can manage and plan my studying time accordingly.
 
