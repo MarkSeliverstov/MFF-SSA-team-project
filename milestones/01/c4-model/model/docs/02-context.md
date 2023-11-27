@@ -10,3 +10,5 @@
 1. **Enrollment System:** Real-time enrollment data is extracted to ensure accurate schedule creation.
 2. **Building System:** Building availability and capacity are considered during schedule creation to prevent scheduling conflicts.
 3. **Student System:** Student information is integrated to retrieve information and display schedules.
+
+![](embed:ScheduleStystem)
