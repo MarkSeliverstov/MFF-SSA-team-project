@@ -61,7 +61,9 @@ workspace "SIS" "Description"{
         buildingSystem = softwareSystem "Building System" "Store records such as available buildings, rooms, etc." "Existing System"{
             buildingDB = container "Building Database" "" "Database"
         }
-        
+        committee -> committeeView "Request committe view"
+        teacher -> teacherView "Request teachers view"
+        student -> studentView "Request students view"
         
         # relationships between external systems and scheduleSystem
         scheduleSystem -> enrollmentSystem "Make API calls to get enrollment data."
