@@ -1,6 +1,4 @@
-# Mileston 1
-
-### Title: Schedule system
+# Schedule system
 ### Description: 
 
 **Schedule System** is a comprehensive scheduling solution that allows users to effectively manage and view academic schedules. The system provides three core [features](./system-features-and-responsibilities/identification_of_responsibilities.md):
@@ -9,4 +7,6 @@
 2. **Teacher Schedule Management:** Teachers can conveniently access their assigned schedules and submit requests for modifications when necessary.
 3. **Student Schedule Access:** Students can view their schedule and keep track of their study time accordingly.
 
-### C4 Model: [Link](./c4-model/)
+### C4 Model:
+
+Also you can see the *c4-model* and *documentation* of our application - [Link](./c4-model/).
