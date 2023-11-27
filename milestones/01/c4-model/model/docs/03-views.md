@@ -29,52 +29,6 @@ dissemination.
 
 ![](embed:webappDiagram)
 
-### Client Application
-
-The Client Application in the Schedule System serves as a presentation layer of our 
-System, providing an interactive and intuitive interface for Committee members, Teachers, 
-and Students.The controller determines which component to show to the user, constructs 
-components using data from database extracted via the API and shows the user
-
-**Components of the Client Application**
-
-- **View Controller**: This component acts as the central hub for managing the user interface. 
-It dynamically provides the appropriate view based on the user type – Committee, Teacher, 
-or Student.
-
-- **Committee View**: Tailored for committee members, this component offers functionalities 
-like creating, validating, or changing schedules. It's designed for users who manage and 
-oversee the scheduling process.
-
-- **Teacher View**: This component is customized for teachers, allowing them to view their 
-schedules and submit requests for schedule changes.
-
-- **Student View**: Designed for students, this component enables them to view their class 
-schedules. It's a straightforward interface focused on accessibility and clarity.
-
-- **Calendar**: Specifically for Committee use, this component displays the schedule in a 
-calendar view, making it easier to visualize and manage time slots and assignments.
-
-- **List of Subjects**: Another feature for the Committee, this component displays a 
-comprehensive list of subjects, aiding in the scheduling process. Upon selecting a 
-subject, Committee members can seamlessly switch to the Calendar component. This integration 
-allows for a smooth transition from viewing the list of subjects to visualizing them in the 
-calendar, aiding in efficient schedule planning.
-
-- **User Settings**: This component allows all users to customize settings, manage profiles,
- and configure preferences, enhancing the overall user experience.
-
-- **Schedule Display**: A vital component for Teachers and Students, it shows their respective 
-schedules in an easy-to-understand format.
-
-- **Notifications**: Integrated within the application, this component alerts users about schedule 
-changes, updates, or other important information.
-
-- **Requested Form**: Available to Teachers, this component allows them to submit forms requesting
-schedule changes, which are then processed by the system.
-
-![](embed:clientDiagram)
-
 ### API
 
 #### Overview
@@ -127,6 +81,52 @@ The API container is responsible for:
     - Processes requests for data retrieval and storage from the Web Application.
 
 ![](embed:apiDiagram)
+
+### Client Application
+
+The Client Application in the Schedule System serves as a presentation layer of our 
+System, providing an interactive and intuitive interface for Committee members, Teachers, 
+and Students.The controller determines which component to show to the user, constructs 
+components using data from database extracted via the API and shows the user
+
+**Components of the Client Application**
+
+- **View Controller**: This component acts as the central hub for managing the user interface. 
+It dynamically provides the appropriate view based on the user type – Committee, Teacher, 
+or Student.
+
+- **Committee View**: Tailored for committee members, this component offers functionalities 
+like creating, validating, or changing schedules. It's designed for users who manage and 
+oversee the scheduling process.
+
+- **Teacher View**: This component is customized for teachers, allowing them to view their 
+schedules and submit requests for schedule changes.
+
+- **Student View**: Designed for students, this component enables them to view their class 
+schedules. It's a straightforward interface focused on accessibility and clarity.
+
+- **Calendar**: Specifically for Committee use, this component displays the schedule in a 
+calendar view, making it easier to visualize and manage time slots and assignments.
+
+- **List of Subjects**: Another feature for the Committee, this component displays a 
+comprehensive list of subjects, aiding in the scheduling process. Upon selecting a 
+subject, Committee members can seamlessly switch to the Calendar component. This integration 
+allows for a smooth transition from viewing the list of subjects to visualizing them in the 
+calendar, aiding in efficient schedule planning.
+
+- **User Settings**: This component allows all users to customize settings, manage profiles,
+ and configure preferences, enhancing the overall user experience.
+
+- **Schedule Display**: A vital component for Teachers and Students, it shows their respective 
+schedules in an easy-to-understand format.
+
+- **Notifications**: Integrated within the application, this component alerts users about schedule 
+changes, updates, or other important information.
+
+- **Requested Form**: Available to Teachers, this component allows them to submit forms requesting
+schedule changes, which are then processed by the system.
+
+![](embed:clientDiagram)
 
 ### Deployment
 

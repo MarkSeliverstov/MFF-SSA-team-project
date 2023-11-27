@@ -166,7 +166,7 @@ workspace "SIS" "Description"{
     }
 
     views {
-        systemContext scheduleSystem {
+        systemContext scheduleSystem "ScheduleStystem" "ScheduleStystem" {
             include *
             autolayout lr
             exclude "user -> scheduleSystem"

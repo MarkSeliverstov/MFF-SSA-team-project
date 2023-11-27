@@ -2,9 +2,9 @@
   "id" : 1,
   "name" : "SIS",
   "description" : "Description",
-  "lastModifiedDate" : "2023-11-27T13:22:11Z",
+  "lastModifiedDate" : "2023-11-27T13:25:20Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlICJTSVMiICJEZXNjcmlwdGlvbiJ7CgogICAgbW9kZWwgewogICAgICAgICMgYWN0b3IKICAgICAgICB1c2VyID0gcGVyc29uICJVc2VyIiAiQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50IgogICAgICAgIGNvbW1pdHRlZSA9IHBlcnNvbiAiQ29tbWl0dGVlIiAiQXNzZXNzZXMgZW5yb2xsbWVudCBhbmQgYnVpbGRpbmcgZGF0YSB0byBjcmVhdGUgdGhlIHNjaGVkdWxlIgogICAgICAgIHRlYWNoZXIgPSBwZXJzb24gIlRlYWNoZXIiICJWaWV3IHNjaGVkdWxlIGFuZCByZXF1ZXN0IGZvciBzY2hlZHVsZSBjaGFuZ2UgIgogICAgICAgIHN0dWRlbnQgPSBwZXJzb24gIlN0dWRlbnQiICJWaWV3IFNjaGVkdWxlIgogICAgICAgIGFkbWluID0gcGVyc29uICJUZWNobmljYWwgYWRtaW5pc3RyYXRvciIgIkFkbWluaXN0ZXJzIG1lYXN1cmluZyBkZXZpY2VzLiIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHNvZnR3YXJlIHN5c3RlbQogICAgICAgIHNjaGVkdWxlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNjaGVkdWxlIFN5c3RlbSIgIkNyZWF0ZSBhbmQgdmlldyBzY2hlZHVsZSIgewogICAgICAgICAgICB3ZWJhcHAgPSBjb250YWluZXIgIldlYiBBcHBsaWNhdGlvbiIgIkNyZWF0ZSwgYW5hbHl6ZSwgYW5kIHZhbGlkYXRlIHNjaGVkdWxlLiIgewogICAgICAgICAgICAgICAgZm9ybU1hbmFnZXIgPSBjb21wb25lbnQgIkZvcm0gTWFuYWdlciIgIkZvcm1zIHN1Ym1pdHRlZCBieSB1c2VycyIKICAgICAgICAgICAgICAgIHNjaGVkdWxlQW5hbHl6ZXIgPSBjb21wb25lbnQgIlNjaGVkdWxlIGFuYWx5emVyIiAiQW5hbHl6ZSBzY2hlZHVsZS4iICJQeXRob24gYW5hbHl6ZXIiCiAgICAgICAgICAgICAgICBub3RpZmljYXRvciA9IGNvbXBvbmVudCAiTm90aWZpY2F0b3IiICJHZW5lcmF0ZSBub3RpZmljYXRpb25zIGFuZCBzZW5kIGl0IiAKICAgICAgICAgICAgICAgIHNjaGVkdWxlTWFuYWdlciA9IGNvbXBvbmVudCAiU2NoZWR1bGUgTWFuYWdlciIgIkNyZWF0ZS9EZWxldGUvVXBkYXRlIFNjaGVkdWxlIgogICAgICAgICAgICAgICAgZW1haWxTZW5kZXIgPSBjb21wb25lbnQgIkVtYWlsIFNlbmRlciIgIlNlbmRzIG5vdGlmaWNhdGlvbnMgdmlhIGVtYWlscyIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIGNsaWVudCA9IGNvbnRhaW5lciAiQ2xpZW50IEFwcGxpY2F0aW9uIiAiRGFzaGJvYXJkLCBDYWxlbmRhciwgRm9ybXMiIHsKICAgICAgICAgICAgICAgIHZpZXdDb250cm9sbGVyID0gY29tcG9uZW50ICJWaWV3IENvbnRyb2xsZXIiICJQcm92aWRlIHZpZXcgZm9yIGRpZmZlcmVudCB1c2VycyAoQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50KSIKICAgICAgICAgICAgICAgIGNvbW1pdHRlZVZpZXcgPSBjb21wb25lbnQgIkNvbW1pdHRlZSBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciBjb21taXR0ZWUgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyBjcmVhdGUsIHZhbGlkYXRlLCBvciBjaGFuZ2Ugc2NoZWR1bGUiCiAgICAgICAgICAgICAgICB0ZWFjaGVyVmlldyA9IGNvbXBvbmVudCAiVGVhY2hlciBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciB0ZWFjaGVyIGluIHdlYiBicm93c2VyIHN1Y2ggYXMgcmVxdWVzdGluZyBzY2hlZHVsZSIKICAgICAgICAgICAgICAgIHN0dWRlbnRWaWV3ID0gY29tcG9uZW50ICJTdHVkZW50IFZpZXciICJQcm92aWRlIGZ1bmN0aW9uYWxpdHkgZm9yIHN0dWRlbnQgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyB2aWV3aW5nIHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBjYWxlbmRhciA9IGNvbXBvbmVudCAiQ2FsZW5kYXIgKGZvciBDb21taXR0ZWUpIiAiRGlzcGxheSBzY2hlZHVsZSB3aXRoIGNhbGVuZGFyIHZpZXciCiAgICAgICAgICAgICAgICBzdWJqZWN0cyA9IGNvbXBvbmVudCAiTGlzdCBvZiBTdWJqZWN0cyAoZm9yIENvbW1pdHRlZSkiICJEaXNwbGF5IGEgbGlzdCBvZiBzdWJqZWN0cyIKICAgICAgICAgICAgICAgIHNldHRpbmdzID0gY29tcG9uZW50ICJVc2VyIFNldHRpbmdzIgogICAgICAgICAgICAgICAgc2NoZWR1bGUgPSBjb21wb25lbnQgIlNjaGVkdWxlIiAiRGlzcGxheSB0ZWFjaGVyIGFuZCBzdHVkZW50IHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBub3RpZmljYXRpb25DbGllbnQgPSBjb21wb25lbnQgIk5vdGlmaWNhdGlvbnMiICJBIHBhcnQgb2YgdGhlIHZpZXcgZGlzcGxheWluZyBhbGVydHMgdmlhIEFQSSIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9ybSA9IGNvbXBvbmVudCAiUmVxdWVzdGVkIEZvcm0iICJSZXF1ZXN0IHByZWZlcnJlZCBzY2hlZHVsZSBieSB0ZWFjaGVyIHRvIGNvbW1pdHRlZSIKICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHVzZXIgLT4gdGhpcyAiSW50ZXJhY3Qgd2l0aCBhcHAiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXBpID0gY29udGFpbmVyICJBUEkiICJEZWZpbmVzIHRoZSBtZXRob2RzIGFuZCBkYXRhIGZvcm1hdHMgdGhhdCB1c2UgdG8gY29tbXVuaWNhdGUgd2l0aCBzeXN0ZW1zIGFuZCBkYXRhYmFzZS4gSXQgaXMgYSBjb21tdW5pY2F0aW9uIGNlbnRlciBmb3IgdGhlIHN5c3RlbS4iIHsKICAgICAgICAgICAgICAgIGludGVybmFsQVBJID0gY29tcG9uZW50ICJJbnRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIFNjaGVkdWxlIFN5c3RlbSIKICAgICAgICAgICAgICAgIGV4dGVybmFsQVBJID0gY29tcG9uZW50ICJFeHRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIGV4dGVybmFsIHN5c3RlbXMiCiAgICAgICAgICAgICAgICBkYXRhYmFzZUFQSSA9IGNvbXBvbmVudCAiRGF0YUJhc2UgQVBJIiAiQ29tbXVuaWNhdGUgd2l0aCBTY2hlZHVsZSBEYXRhQmFzZSIKICAgICAgICAgICAgICAgIGFuYSA9IGNvbXBvbmVudCAiQXV0aGVudGljYXRpb24gYW5kIEF1dGhvcml6YXRpb24iICJJbXBsZW1lbnQgc2VjdXJpdHkgbWVhc3VyZXMgdG8gZW5zdXJlIHRoYXQgb25seSBhdXRob3JpemVkIHVzZXJzIGNhbiBhY2Nlc3Mgb3IgbW9kaWZ5IGRhdGEuIFRoaXMgbWlnaHQgaW52b2x2ZSBPQXV0aCB0b2tlbnMsIEFQSSBrZXlzLCBvciBvdGhlciBzZWN1cml0eSBwcm90b2NvbHMuIgogICAgICAgICAgICAgICAgZGF0YVZhbGlkYXRpb24gPSBjb21wb25lbnQgIkV4dGVybmFsIERhdGEgVmFsaWRhdGlvbiIgIlZhbGlkYXRlIGluY29taW5nIGRhdGEgZm9yIGNvcnJlY3RuZXNzIGFuZCBjb21wbGV0ZW5lc3MgYmVmb3JlIGl0IGlzIHByb2Nlc3NlZCBvciBzdG9yZWQiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgIWRvY3MgZG9jcwogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIGV4dGVybmFsIHN5c3RlbQogICAgICAgIGVucm9sbG1lbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiRW5yb2xsbWVudCBTeXN0ZW0iICJTdG9yZSBlbnJvbGxtZW50IHJlY29yZHMgc3VjaCBhcyBhdmFpbGFibGUgc3ViamVjdHMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgZW5yb2xsREIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiCiAgICAgICAgfQogICAgICAgIHN0dWRlbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU3R1ZGVudCBTeXN0ZW0iICJTdG9yZSBzdHVkZW50IHJlY29yZHMgc3VjaCBhcyBuYW1lLCBhZ2UsIGRlcGFydG1lbnQsIGV0Yy4iICJFeGlzdGluZyBTeXN0ZW0iewogICAgICAgICAgICBzdHVkZW50REIgPSBjb250YWluZXIgIlN0dWRlbnQgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRpbmcgU3lzdGVtIiAiU3RvcmUgcmVjb3JkcyBzdWNoIGFzIGF2YWlsYWJsZSBidWlsZGluZ3MsIHJvb21zLCBldGMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgYnVpbGRpbmdEQiA9IGNvbnRhaW5lciAiQnVpbGRpbmcgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGJldHdlZW4gZXh0ZXJuYWwgc3lzdGVtcyBhbmQgc2NoZWR1bGVTeXN0ZW0KICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBlbnJvbGxtZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgZW5yb2xsbWVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBzdHVkZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgc3R1ZGVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBidWlsZGluZ1N5c3RlbSAiTWFrZSBBUEkgY2FsbHMgdG8gZ2V0IGJ1aWxkaW5nIGRhdGEuIgogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHVzZXJzIGFuZCBzY2hlZHVsZVN5c3RlbQogICAgICAgIGNvbW1pdHRlZSAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldywgY3JlYXRlLCBhbmQgdmFsaWRhdGUgc2NoZWR1bGUiCiAgICAgICAgdGVhY2hlciAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBhbmQgcmVxdWVzdCBhIGNoYW5nZWQgc2NoZWR1bGUiCiAgICAgICAgc3R1ZGVudCAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBzY2hlZHVsZSIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHJlbGF0aW9uc2hpcHMgYmV0d2VlbiBjb250YWluZXJzCiAgICAgICAgYXBpIC0+IGRiICJGZXRjaGVzIGFuZCBzdG9yZXMgZGF0YSBmcm9tIERCIgogICAgICAgIGFwaSAtPiBlbnJvbGxtZW50U3lzdGVtICJGZXRjaGVzIGRhdGEgZnJvbSBzeXN0ZW0iCiAgICAgICAgYXBpIC0+IHN0dWRlbnRTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICBhcGkgLT4gYnVpbGRpbmdTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICAKICAgICAgICBlbnJvbGxtZW50U3lzdGVtIC0+IGFwaSAiUmVxdWVzdCBkYXRhIGZyb20gc2NoZWR1bGUgc3lzdGVtIgogICAgICAgIHN0dWRlbnRTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgY2xpZW50IC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgYXBpIC0+IHdlYmFwcCAiSW50ZXJhY3RzIHdpdGggYXBwbGljYXRpb24iCiAgICAgICAgCiAgICAgICAgd2ViYXBwIC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIFdlYiBhcHAKICAgICAgICBhcGkgLT4gZm9ybU1hbmFnZXIgIlJldHJpZXZlIGZvcm0iCiAgICAgICAgZm9ybU1hbmFnZXIgLT4gc2NoZWR1bGVNYW5hZ2VyICJSZXF1ZXN0IHNjaGVkdWxlIHVwZGF0ZSIKICAgICAgICBzY2hlZHVsZU1hbmFnZXIgLT4gYXBpICJGZXRjaCBkYXRhIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBzY2hlZHVsZUFuYWx5emVyICJWYWxpZGF0ZSBzY2hlZHVsZSIKICAgICAgICBzY2hlZHVsZUFuYWx5emVyIC0+IHNjaGVkdWxlTWFuYWdlciAiU2VuZCByZXNwb25zZSIKICAgICAgICBub3RpZmljYXRvciAtPiBhcGkgIlNlbmQgYWxlcnRzIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBub3RpZmljYXRvciAiUmVxdWVzdCB0byBjcmVhdGUgbm90aWZpY2F0aW9uIgogICAgICAgIGFwaSAtPiBzY2hlZHVsZU1hbmFnZXIgIlJlcXVlc3QgY2hhbmdlcyBpbiB0aGUgc2NoZWR1bGUiCiAgICAgICAgbm90aWZpY2F0b3IgLT4gZW1haWxTZW5kZXIgIlJlcXVlc3QgdG8gc2VuZCBlbWFpbCIKICAgICAgICBlbWFpbFNlbmRlciAtPiBhcGkgIkZldGNoIEVtYWlscyIKICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIEFQSSBhcHAKICAgICAgICBjbGllbnQgLT4gYW5hICJSZXF1ZXN0IGRhdGEiCiAgICAgICAgaW50ZXJuYWxBUEkgLT4gY2xpZW50ICJSZXNwb25zZSBkYXRhIgogICAgICAgIGFuYSAtPiBpbnRlcm5hbEFQSSAiQXV0aGVudGljYXRlIFVzZXIgUmVxdWVzdCIKICAgICAgICBpbnRlcm5hbEFQSSAtPiB3ZWJhcHAgIlNlbmQgUmVxdWVzdCIKICAgICAgICAKICAgICAgICBkYXRhYmFzZUFQSSAtPiBkYiAiUmVhZCBhbmQgd3JpdGUgZGF0YSIKICAgICAgICB3ZWJhcHAgLT4gZGF0YWJhc2VBUEkgIlJlcXVlc3QgZGF0YSIKICAgICAgICBkYXRhYmFzZUFQSSAtPiB3ZWJhcHAgIlNlbmQgZGF0YSIKICAgICAgICAKICAgICAgICB3ZWJhcHAgLT4gaW50ZXJuYWxBUEkgIlNlbmQgYSByZXNwb25kIgogICAgICAgIHdlYmFwcCAtPiBleHRlcm5hbEFQSSAiUmVxdWVzdCBkYXRhIgogICAgICAgIAogICAgICAgIGV4dGVybmFsQVBJIC0+IGRhdGFWYWxpZGF0aW9uICJTZW5kIEV4dGVybmFsIERhdGEiCiAgICAgICAgZXh0ZXJuYWxBUEkgLT4gd2ViYXBwICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZGF0YVZhbGlkYXRpb24gLT4gd2ViYXBwICJFeHRlcm5hbCBEYXRhIFZhbGlkYXRpb24gUmVzdWx0cyIKICAgICAgICAKICAgICAgICBleHRlcm5hbEFQSSAtPiBlbnJvbGxtZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZW5yb2xsbWVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBzdHVkZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgc3R1ZGVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBidWlsZGluZ1N5c3RlbSAiUmVxdWVzdCBEYXRhIgogICAgICAgIGJ1aWxkaW5nU3lzdGVtIC0+IGV4dGVybmFsQVBJICJSZXNwb25zZSBEYXRhIgogICAgICAgIAogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBpbiBDbGllbnQgYXBwCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gY2FsZW5kYXIgIkdldHMgY29tcG9uZW50IgogICAgICAgIHZpZXdDb250cm9sbGVyIC0+IHN1YmplY3RzICJHZXRzIGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzZXR0aW5ncyAiR2V0cyB1c2VyIGRhdGEiCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gZm9ybSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzY2hlZHVsZSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBub3RpZmljYXRpb25DbGllbnQgIkdldCBjb21wb25lbnQiCiAgICAgICAgCiAgICAgICAgY29tbWl0dGVlVmlldyAtPiB2aWV3Q29udHJvbGxlciAiR2V0IGNvbnRlbnQiCiAgICAgICAgdGVhY2hlclZpZXcgLT4gdmlld0NvbnRyb2xsZXIgIkdldCBjb250ZW50IgogICAgICAgIHN0dWRlbnRWaWV3IC0+IHZpZXdDb250cm9sbGVyICJHZXQgY29udGVudCIKICAgICAKICAgICAgICBmb3JtIC0+IGFwaSAiUG9zdCByZXF1ZXN0IgogICAgICAgIHNldHRpbmdzIC0+IGFwaSAiR2V0cy9TZXRzIHNldHRpbmdzIgogICAgICAgIHN1YmplY3RzIC0+IGFwaSAiRmV0Y2hlcyBzdWJqZWN0cyIKICAgICAgICBjYWxlbmRhciAtPiBhcGkgIkZldGNoZXMgc3ViamVjdHMiCiAgICAgICAgc2NoZWR1bGUgLT4gYXBpICJGZXRjaGVzIGRhdGEiCiAgICAgICAgbm90aWZpY2F0aW9uQ2xpZW50IC0+IGFwaSAiU2VuZCByZXF1ZXN0IGZvciBhbnkgYWxlcnRzIgogICAgICAgIAogICAgICAgICMgZGVwbG95bWVudCAKICAgICAgICBkZXBsb3ltZW50RW52aXJvbm1lbnQgImRlcGxveW1lbnREaWFncmFtIiAgICB7CiAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJVc2VyJ3MgV2ViIFNlcnZlciIgIiIgIiIgICAgewogICAgICAgICAgICAgICAgY2xpZW50QXBwSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBjbGllbnQKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQXBwbGljYXRpb24gU2VydmVyIDEiICIiICJVYnVudHUgMTguMDQgTFRTIiAgIHsKICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJXZWIgc2VydmVyIiAiIiAiQXBhY2hlIFRvbWNhdCAxMC4xLjE1IiAgewogICAgICAgICAgICAgICAgICAgIHdlYmFwcEluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViYXBwCiAgICAgICAgICAgICAgICAgICAgYXBpSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBhcGkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGF0YWJhc2UgU2VydmVyIiAiIiAiVWJ1bnR1IDE4LjA0IExUUyIgICB7CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUmVsYXRpb25hbCBEQiIgIiIgIk9yYWNsZSAxOS4xLjAiIHsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZURCSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBkYgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzY2hlZHVsZVN5c3RlbSB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIgLT4gc2NoZWR1bGVTeXN0ZW0iCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIiCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc2NoZWR1bGVTeXN0ZW0gIkNvbnRhaW5lcnMiewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgIyBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbXBvbmVudCBjbGllbnQgImNsaWVudERpYWdyYW0iewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgd2ViYXBwICJ3ZWJhcHBEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgYXBpICJhcGlEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBkZXBsb3ltZW50IHNjaGVkdWxlU3lzdGVtICJkZXBsb3ltZW50RGlhZ3JhbSIgImRlcGxveW1lbnREaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgRnJvbnQtRW5kIiAgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiAgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K"
+    "structurizr.dsl" : "d29ya3NwYWNlICJTSVMiICJEZXNjcmlwdGlvbiJ7CgogICAgbW9kZWwgewogICAgICAgICMgYWN0b3IKICAgICAgICB1c2VyID0gcGVyc29uICJVc2VyIiAiQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50IgogICAgICAgIGNvbW1pdHRlZSA9IHBlcnNvbiAiQ29tbWl0dGVlIiAiQXNzZXNzZXMgZW5yb2xsbWVudCBhbmQgYnVpbGRpbmcgZGF0YSB0byBjcmVhdGUgdGhlIHNjaGVkdWxlIgogICAgICAgIHRlYWNoZXIgPSBwZXJzb24gIlRlYWNoZXIiICJWaWV3IHNjaGVkdWxlIGFuZCByZXF1ZXN0IGZvciBzY2hlZHVsZSBjaGFuZ2UgIgogICAgICAgIHN0dWRlbnQgPSBwZXJzb24gIlN0dWRlbnQiICJWaWV3IFNjaGVkdWxlIgogICAgICAgIGFkbWluID0gcGVyc29uICJUZWNobmljYWwgYWRtaW5pc3RyYXRvciIgIkFkbWluaXN0ZXJzIG1lYXN1cmluZyBkZXZpY2VzLiIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHNvZnR3YXJlIHN5c3RlbQogICAgICAgIHNjaGVkdWxlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNjaGVkdWxlIFN5c3RlbSIgIkNyZWF0ZSBhbmQgdmlldyBzY2hlZHVsZSIgewogICAgICAgICAgICB3ZWJhcHAgPSBjb250YWluZXIgIldlYiBBcHBsaWNhdGlvbiIgIkNyZWF0ZSwgYW5hbHl6ZSwgYW5kIHZhbGlkYXRlIHNjaGVkdWxlLiIgewogICAgICAgICAgICAgICAgZm9ybU1hbmFnZXIgPSBjb21wb25lbnQgIkZvcm0gTWFuYWdlciIgIkZvcm1zIHN1Ym1pdHRlZCBieSB1c2VycyIKICAgICAgICAgICAgICAgIHNjaGVkdWxlQW5hbHl6ZXIgPSBjb21wb25lbnQgIlNjaGVkdWxlIGFuYWx5emVyIiAiQW5hbHl6ZSBzY2hlZHVsZS4iICJQeXRob24gYW5hbHl6ZXIiCiAgICAgICAgICAgICAgICBub3RpZmljYXRvciA9IGNvbXBvbmVudCAiTm90aWZpY2F0b3IiICJHZW5lcmF0ZSBub3RpZmljYXRpb25zIGFuZCBzZW5kIGl0IiAKICAgICAgICAgICAgICAgIHNjaGVkdWxlTWFuYWdlciA9IGNvbXBvbmVudCAiU2NoZWR1bGUgTWFuYWdlciIgIkNyZWF0ZS9EZWxldGUvVXBkYXRlIFNjaGVkdWxlIgogICAgICAgICAgICAgICAgZW1haWxTZW5kZXIgPSBjb21wb25lbnQgIkVtYWlsIFNlbmRlciIgIlNlbmRzIG5vdGlmaWNhdGlvbnMgdmlhIGVtYWlscyIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIGNsaWVudCA9IGNvbnRhaW5lciAiQ2xpZW50IEFwcGxpY2F0aW9uIiAiRGFzaGJvYXJkLCBDYWxlbmRhciwgRm9ybXMiIHsKICAgICAgICAgICAgICAgIHZpZXdDb250cm9sbGVyID0gY29tcG9uZW50ICJWaWV3IENvbnRyb2xsZXIiICJQcm92aWRlIHZpZXcgZm9yIGRpZmZlcmVudCB1c2VycyAoQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50KSIKICAgICAgICAgICAgICAgIGNvbW1pdHRlZVZpZXcgPSBjb21wb25lbnQgIkNvbW1pdHRlZSBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciBjb21taXR0ZWUgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyBjcmVhdGUsIHZhbGlkYXRlLCBvciBjaGFuZ2Ugc2NoZWR1bGUiCiAgICAgICAgICAgICAgICB0ZWFjaGVyVmlldyA9IGNvbXBvbmVudCAiVGVhY2hlciBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciB0ZWFjaGVyIGluIHdlYiBicm93c2VyIHN1Y2ggYXMgcmVxdWVzdGluZyBzY2hlZHVsZSIKICAgICAgICAgICAgICAgIHN0dWRlbnRWaWV3ID0gY29tcG9uZW50ICJTdHVkZW50IFZpZXciICJQcm92aWRlIGZ1bmN0aW9uYWxpdHkgZm9yIHN0dWRlbnQgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyB2aWV3aW5nIHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBjYWxlbmRhciA9IGNvbXBvbmVudCAiQ2FsZW5kYXIgKGZvciBDb21taXR0ZWUpIiAiRGlzcGxheSBzY2hlZHVsZSB3aXRoIGNhbGVuZGFyIHZpZXciCiAgICAgICAgICAgICAgICBzdWJqZWN0cyA9IGNvbXBvbmVudCAiTGlzdCBvZiBTdWJqZWN0cyAoZm9yIENvbW1pdHRlZSkiICJEaXNwbGF5IGEgbGlzdCBvZiBzdWJqZWN0cyIKICAgICAgICAgICAgICAgIHNldHRpbmdzID0gY29tcG9uZW50ICJVc2VyIFNldHRpbmdzIgogICAgICAgICAgICAgICAgc2NoZWR1bGUgPSBjb21wb25lbnQgIlNjaGVkdWxlIiAiRGlzcGxheSB0ZWFjaGVyIGFuZCBzdHVkZW50IHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBub3RpZmljYXRpb25DbGllbnQgPSBjb21wb25lbnQgIk5vdGlmaWNhdGlvbnMiICJBIHBhcnQgb2YgdGhlIHZpZXcgZGlzcGxheWluZyBhbGVydHMgdmlhIEFQSSIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9ybSA9IGNvbXBvbmVudCAiUmVxdWVzdGVkIEZvcm0iICJSZXF1ZXN0IHByZWZlcnJlZCBzY2hlZHVsZSBieSB0ZWFjaGVyIHRvIGNvbW1pdHRlZSIKICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHVzZXIgLT4gdGhpcyAiSW50ZXJhY3Qgd2l0aCBhcHAiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXBpID0gY29udGFpbmVyICJBUEkiICJEZWZpbmVzIHRoZSBtZXRob2RzIGFuZCBkYXRhIGZvcm1hdHMgdGhhdCB1c2UgdG8gY29tbXVuaWNhdGUgd2l0aCBzeXN0ZW1zIGFuZCBkYXRhYmFzZS4gSXQgaXMgYSBjb21tdW5pY2F0aW9uIGNlbnRlciBmb3IgdGhlIHN5c3RlbS4iIHsKICAgICAgICAgICAgICAgIGludGVybmFsQVBJID0gY29tcG9uZW50ICJJbnRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIFNjaGVkdWxlIFN5c3RlbSIKICAgICAgICAgICAgICAgIGV4dGVybmFsQVBJID0gY29tcG9uZW50ICJFeHRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIGV4dGVybmFsIHN5c3RlbXMiCiAgICAgICAgICAgICAgICBkYXRhYmFzZUFQSSA9IGNvbXBvbmVudCAiRGF0YUJhc2UgQVBJIiAiQ29tbXVuaWNhdGUgd2l0aCBTY2hlZHVsZSBEYXRhQmFzZSIKICAgICAgICAgICAgICAgIGFuYSA9IGNvbXBvbmVudCAiQXV0aGVudGljYXRpb24gYW5kIEF1dGhvcml6YXRpb24iICJJbXBsZW1lbnQgc2VjdXJpdHkgbWVhc3VyZXMgdG8gZW5zdXJlIHRoYXQgb25seSBhdXRob3JpemVkIHVzZXJzIGNhbiBhY2Nlc3Mgb3IgbW9kaWZ5IGRhdGEuIFRoaXMgbWlnaHQgaW52b2x2ZSBPQXV0aCB0b2tlbnMsIEFQSSBrZXlzLCBvciBvdGhlciBzZWN1cml0eSBwcm90b2NvbHMuIgogICAgICAgICAgICAgICAgZGF0YVZhbGlkYXRpb24gPSBjb21wb25lbnQgIkV4dGVybmFsIERhdGEgVmFsaWRhdGlvbiIgIlZhbGlkYXRlIGluY29taW5nIGRhdGEgZm9yIGNvcnJlY3RuZXNzIGFuZCBjb21wbGV0ZW5lc3MgYmVmb3JlIGl0IGlzIHByb2Nlc3NlZCBvciBzdG9yZWQiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgIWRvY3MgZG9jcwogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIGV4dGVybmFsIHN5c3RlbQogICAgICAgIGVucm9sbG1lbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiRW5yb2xsbWVudCBTeXN0ZW0iICJTdG9yZSBlbnJvbGxtZW50IHJlY29yZHMgc3VjaCBhcyBhdmFpbGFibGUgc3ViamVjdHMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgZW5yb2xsREIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiCiAgICAgICAgfQogICAgICAgIHN0dWRlbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU3R1ZGVudCBTeXN0ZW0iICJTdG9yZSBzdHVkZW50IHJlY29yZHMgc3VjaCBhcyBuYW1lLCBhZ2UsIGRlcGFydG1lbnQsIGV0Yy4iICJFeGlzdGluZyBTeXN0ZW0iewogICAgICAgICAgICBzdHVkZW50REIgPSBjb250YWluZXIgIlN0dWRlbnQgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRpbmcgU3lzdGVtIiAiU3RvcmUgcmVjb3JkcyBzdWNoIGFzIGF2YWlsYWJsZSBidWlsZGluZ3MsIHJvb21zLCBldGMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgYnVpbGRpbmdEQiA9IGNvbnRhaW5lciAiQnVpbGRpbmcgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGJldHdlZW4gZXh0ZXJuYWwgc3lzdGVtcyBhbmQgc2NoZWR1bGVTeXN0ZW0KICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBlbnJvbGxtZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgZW5yb2xsbWVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBzdHVkZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgc3R1ZGVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBidWlsZGluZ1N5c3RlbSAiTWFrZSBBUEkgY2FsbHMgdG8gZ2V0IGJ1aWxkaW5nIGRhdGEuIgogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHVzZXJzIGFuZCBzY2hlZHVsZVN5c3RlbQogICAgICAgIGNvbW1pdHRlZSAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldywgY3JlYXRlLCBhbmQgdmFsaWRhdGUgc2NoZWR1bGUiCiAgICAgICAgdGVhY2hlciAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBhbmQgcmVxdWVzdCBhIGNoYW5nZWQgc2NoZWR1bGUiCiAgICAgICAgc3R1ZGVudCAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBzY2hlZHVsZSIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHJlbGF0aW9uc2hpcHMgYmV0d2VlbiBjb250YWluZXJzCiAgICAgICAgYXBpIC0+IGRiICJGZXRjaGVzIGFuZCBzdG9yZXMgZGF0YSBmcm9tIERCIgogICAgICAgIGFwaSAtPiBlbnJvbGxtZW50U3lzdGVtICJGZXRjaGVzIGRhdGEgZnJvbSBzeXN0ZW0iCiAgICAgICAgYXBpIC0+IHN0dWRlbnRTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICBhcGkgLT4gYnVpbGRpbmdTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICAKICAgICAgICBlbnJvbGxtZW50U3lzdGVtIC0+IGFwaSAiUmVxdWVzdCBkYXRhIGZyb20gc2NoZWR1bGUgc3lzdGVtIgogICAgICAgIHN0dWRlbnRTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgY2xpZW50IC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgYXBpIC0+IHdlYmFwcCAiSW50ZXJhY3RzIHdpdGggYXBwbGljYXRpb24iCiAgICAgICAgCiAgICAgICAgd2ViYXBwIC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIFdlYiBhcHAKICAgICAgICBhcGkgLT4gZm9ybU1hbmFnZXIgIlJldHJpZXZlIGZvcm0iCiAgICAgICAgZm9ybU1hbmFnZXIgLT4gc2NoZWR1bGVNYW5hZ2VyICJSZXF1ZXN0IHNjaGVkdWxlIHVwZGF0ZSIKICAgICAgICBzY2hlZHVsZU1hbmFnZXIgLT4gYXBpICJGZXRjaCBkYXRhIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBzY2hlZHVsZUFuYWx5emVyICJWYWxpZGF0ZSBzY2hlZHVsZSIKICAgICAgICBzY2hlZHVsZUFuYWx5emVyIC0+IHNjaGVkdWxlTWFuYWdlciAiU2VuZCByZXNwb25zZSIKICAgICAgICBub3RpZmljYXRvciAtPiBhcGkgIlNlbmQgYWxlcnRzIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBub3RpZmljYXRvciAiUmVxdWVzdCB0byBjcmVhdGUgbm90aWZpY2F0aW9uIgogICAgICAgIGFwaSAtPiBzY2hlZHVsZU1hbmFnZXIgIlJlcXVlc3QgY2hhbmdlcyBpbiB0aGUgc2NoZWR1bGUiCiAgICAgICAgbm90aWZpY2F0b3IgLT4gZW1haWxTZW5kZXIgIlJlcXVlc3QgdG8gc2VuZCBlbWFpbCIKICAgICAgICBlbWFpbFNlbmRlciAtPiBhcGkgIkZldGNoIEVtYWlscyIKICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIEFQSSBhcHAKICAgICAgICBjbGllbnQgLT4gYW5hICJSZXF1ZXN0IGRhdGEiCiAgICAgICAgaW50ZXJuYWxBUEkgLT4gY2xpZW50ICJSZXNwb25zZSBkYXRhIgogICAgICAgIGFuYSAtPiBpbnRlcm5hbEFQSSAiQXV0aGVudGljYXRlIFVzZXIgUmVxdWVzdCIKICAgICAgICBpbnRlcm5hbEFQSSAtPiB3ZWJhcHAgIlNlbmQgUmVxdWVzdCIKICAgICAgICAKICAgICAgICBkYXRhYmFzZUFQSSAtPiBkYiAiUmVhZCBhbmQgd3JpdGUgZGF0YSIKICAgICAgICB3ZWJhcHAgLT4gZGF0YWJhc2VBUEkgIlJlcXVlc3QgZGF0YSIKICAgICAgICBkYXRhYmFzZUFQSSAtPiB3ZWJhcHAgIlNlbmQgZGF0YSIKICAgICAgICAKICAgICAgICB3ZWJhcHAgLT4gaW50ZXJuYWxBUEkgIlNlbmQgYSByZXNwb25kIgogICAgICAgIHdlYmFwcCAtPiBleHRlcm5hbEFQSSAiUmVxdWVzdCBkYXRhIgogICAgICAgIAogICAgICAgIGV4dGVybmFsQVBJIC0+IGRhdGFWYWxpZGF0aW9uICJTZW5kIEV4dGVybmFsIERhdGEiCiAgICAgICAgZXh0ZXJuYWxBUEkgLT4gd2ViYXBwICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZGF0YVZhbGlkYXRpb24gLT4gd2ViYXBwICJFeHRlcm5hbCBEYXRhIFZhbGlkYXRpb24gUmVzdWx0cyIKICAgICAgICAKICAgICAgICBleHRlcm5hbEFQSSAtPiBlbnJvbGxtZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZW5yb2xsbWVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBzdHVkZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgc3R1ZGVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBidWlsZGluZ1N5c3RlbSAiUmVxdWVzdCBEYXRhIgogICAgICAgIGJ1aWxkaW5nU3lzdGVtIC0+IGV4dGVybmFsQVBJICJSZXNwb25zZSBEYXRhIgogICAgICAgIAogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBpbiBDbGllbnQgYXBwCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gY2FsZW5kYXIgIkdldHMgY29tcG9uZW50IgogICAgICAgIHZpZXdDb250cm9sbGVyIC0+IHN1YmplY3RzICJHZXRzIGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzZXR0aW5ncyAiR2V0cyB1c2VyIGRhdGEiCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gZm9ybSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzY2hlZHVsZSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBub3RpZmljYXRpb25DbGllbnQgIkdldCBjb21wb25lbnQiCiAgICAgICAgCiAgICAgICAgY29tbWl0dGVlVmlldyAtPiB2aWV3Q29udHJvbGxlciAiR2V0IGNvbnRlbnQiCiAgICAgICAgdGVhY2hlclZpZXcgLT4gdmlld0NvbnRyb2xsZXIgIkdldCBjb250ZW50IgogICAgICAgIHN0dWRlbnRWaWV3IC0+IHZpZXdDb250cm9sbGVyICJHZXQgY29udGVudCIKICAgICAKICAgICAgICBmb3JtIC0+IGFwaSAiUG9zdCByZXF1ZXN0IgogICAgICAgIHNldHRpbmdzIC0+IGFwaSAiR2V0cy9TZXRzIHNldHRpbmdzIgogICAgICAgIHN1YmplY3RzIC0+IGFwaSAiRmV0Y2hlcyBzdWJqZWN0cyIKICAgICAgICBjYWxlbmRhciAtPiBhcGkgIkZldGNoZXMgc3ViamVjdHMiCiAgICAgICAgc2NoZWR1bGUgLT4gYXBpICJGZXRjaGVzIGRhdGEiCiAgICAgICAgbm90aWZpY2F0aW9uQ2xpZW50IC0+IGFwaSAiU2VuZCByZXF1ZXN0IGZvciBhbnkgYWxlcnRzIgogICAgICAgIAogICAgICAgICMgZGVwbG95bWVudCAKICAgICAgICBkZXBsb3ltZW50RW52aXJvbm1lbnQgImRlcGxveW1lbnREaWFncmFtIiAgICB7CiAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJVc2VyJ3MgV2ViIFNlcnZlciIgIiIgIiIgICAgewogICAgICAgICAgICAgICAgY2xpZW50QXBwSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBjbGllbnQKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQXBwbGljYXRpb24gU2VydmVyIDEiICIiICJVYnVudHUgMTguMDQgTFRTIiAgIHsKICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJXZWIgc2VydmVyIiAiIiAiQXBhY2hlIFRvbWNhdCAxMC4xLjE1IiAgewogICAgICAgICAgICAgICAgICAgIHdlYmFwcEluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViYXBwCiAgICAgICAgICAgICAgICAgICAgYXBpSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBhcGkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGF0YWJhc2UgU2VydmVyIiAiIiAiVWJ1bnR1IDE4LjA0IExUUyIgICB7CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUmVsYXRpb25hbCBEQiIgIiIgIk9yYWNsZSAxOS4xLjAiIHsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZURCSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBkYgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzY2hlZHVsZVN5c3RlbSAiU2NoZWR1bGVTdHlzdGVtIiAiU2NoZWR1bGVTdHlzdGVtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIgLT4gc2NoZWR1bGVTeXN0ZW0iCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIiCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc2NoZWR1bGVTeXN0ZW0gIkNvbnRhaW5lcnMiewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgIyBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbXBvbmVudCBjbGllbnQgImNsaWVudERpYWdyYW0iewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgd2ViYXBwICJ3ZWJhcHBEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgYXBpICJhcGlEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBkZXBsb3ltZW50IHNjaGVkdWxlU3lzdGVtICJkZXBsb3ltZW50RGlhZ3JhbSIgImRlcGxveW1lbnREaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgRnJvbnQtRW5kIiAgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiAgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K"
   },
   "configuration" : { },
   "model" : {
@@ -20,7 +20,7 @@
         "id" : "24",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "f2d08ee8-98be-4908-999f-14583745737a"
+          "structurizr.dsl.identifier" : "487d22a8-ddeb-41d6-bcb2-a0837ad4c2cb"
         },
         "sourceId" : "1",
         "destinationId" : "13",
@@ -45,7 +45,7 @@
         "id" : "42",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "93b30243-5da7-4ea0-a2a9-a618aba596e6"
+          "structurizr.dsl.identifier" : "f8752de2-a7c9-4c58-9355-99976fee2659"
         },
         "sourceId" : "2",
         "destinationId" : "6",
@@ -64,7 +64,7 @@
         "id" : "43",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "338d7d72-60d3-4152-a78f-aa1b98f6e32e"
+          "structurizr.dsl.identifier" : "31c53bb2-2563-4d74-a7ab-3a2c44133aee"
         },
         "sourceId" : "3",
         "destinationId" : "6",
@@ -83,7 +83,7 @@
         "id" : "44",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "14fed014-dfc9-4443-9f66-c94006e943d3"
+          "structurizr.dsl.identifier" : "754ef27c-d2f1-4ea2-9d8f-88697f79d1fb"
         },
         "sourceId" : "4",
         "destinationId" : "6",
@@ -112,7 +112,7 @@
         "id" : "39",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "fc5dee22-34b2-4934-a85a-897fae332b89"
+          "structurizr.dsl.identifier" : "51425a81-cbce-48bc-830b-7128becf6145"
         },
         "sourceId" : "6",
         "destinationId" : "33",
@@ -121,7 +121,7 @@
         "id" : "40",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "cee6b7a4-6bce-43af-acd1-67edc33ed077"
+          "structurizr.dsl.identifier" : "9767d600-4e97-41a1-b281-aff989d0b457"
         },
         "sourceId" : "6",
         "destinationId" : "35",
@@ -130,7 +130,7 @@
         "id" : "41",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "7b0f5cb6-0cb8-44ff-9065-4d0135e785fd"
+          "structurizr.dsl.identifier" : "4480444c-e71b-4bb9-8e3d-aad4b67bc740"
         },
         "sourceId" : "6",
         "destinationId" : "37",
@@ -149,7 +149,7 @@
           "id" : "57",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "6332dc8f-20e3-41fc-9138-3aa9e0a75fb9"
+            "structurizr.dsl.identifier" : "dc2271d1-4ee2-4a30-bcfd-97d3470d4f01"
           },
           "sourceId" : "7",
           "destinationId" : "26",
@@ -158,7 +158,7 @@
           "id" : "74",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "babd7052-f09b-44b1-b47e-99dc8b2f1373"
+            "structurizr.dsl.identifier" : "834bca69-c564-4579-b26d-9c51d926ceec"
           },
           "sourceId" : "7",
           "destinationId" : "29",
@@ -167,7 +167,7 @@
           "id" : "76",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "51a2671d-5a8b-4f62-911b-03e4fd202b05"
+            "structurizr.dsl.identifier" : "4957019f-d453-49ff-8534-87c4cde05359"
           },
           "sourceId" : "7",
           "destinationId" : "27",
@@ -176,29 +176,57 @@
           "id" : "77",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "83c31fec-f4ad-4b57-8be9-52396de4ce0a"
+            "structurizr.dsl.identifier" : "826ccb7d-aeaa-4355-bfbd-acdf20a0ead6"
           },
           "sourceId" : "7",
           "destinationId" : "28",
           "description" : "Request data"
         } ],
         "components" : [ {
-          "id" : "12",
+          "id" : "8",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "emailsender"
+            "structurizr.dsl.identifier" : "formmanager"
           },
-          "name" : "Email Sender",
-          "description" : "Sends notifications via emails",
+          "name" : "Form Manager",
+          "description" : "Forms submitted by users",
           "relationships" : [ {
-            "id" : "67",
+            "id" : "59",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "9ea75290-f39f-43d9-9ec3-d234f17800c6"
+              "structurizr.dsl.identifier" : "20945473-9d7c-4745-9c51-d976debc3012"
             },
-            "sourceId" : "12",
+            "sourceId" : "8",
+            "destinationId" : "11",
+            "description" : "Request schedule update"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "10",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "notificator"
+          },
+          "name" : "Notificator",
+          "description" : "Generate notifications and send it",
+          "relationships" : [ {
+            "id" : "63",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "017c7a75-7d38-4ca7-a305-0c56ed114c44"
+            },
+            "sourceId" : "10",
             "destinationId" : "26",
-            "description" : "Fetch Emails"
+            "description" : "Send alerts"
+          }, {
+            "id" : "66",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "423e1b36-839f-4666-baf3-8ab1133fa681"
+            },
+            "sourceId" : "10",
+            "destinationId" : "12",
+            "description" : "Request to send email"
           } ],
           "documentation" : { }
         }, {
@@ -213,7 +241,7 @@
             "id" : "60",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "5d152a49-bd21-48b9-91d2-fea1b2059cfa"
+              "structurizr.dsl.identifier" : "115ff60b-d24e-4df5-8938-82e0d532a91b"
             },
             "sourceId" : "11",
             "destinationId" : "26",
@@ -222,7 +250,7 @@
             "id" : "61",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "7140056a-ea58-477b-b603-f3071f59ca99"
+              "structurizr.dsl.identifier" : "95dee0df-1efb-4dfa-8989-f6445a79536a"
             },
             "sourceId" : "11",
             "destinationId" : "9",
@@ -231,7 +259,7 @@
             "id" : "64",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "746c3f8c-a45a-48d2-8f7d-4af46cf2b1fe"
+              "structurizr.dsl.identifier" : "3f3b7306-3c37-47a4-bf3f-77f84af4a97f"
             },
             "sourceId" : "11",
             "destinationId" : "10",
@@ -250,7 +278,7 @@
             "id" : "62",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "8f8faa73-9493-4a33-9dcd-a1beaf4b0bed"
+              "structurizr.dsl.identifier" : "b2008add-ddf7-4498-961f-f3cbcab518cf"
             },
             "sourceId" : "9",
             "destinationId" : "11",
@@ -259,62 +287,25 @@
           "technology" : "Python analyzer",
           "documentation" : { }
         }, {
-          "id" : "10",
+          "id" : "12",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "notificator"
+            "structurizr.dsl.identifier" : "emailsender"
           },
-          "name" : "Notificator",
-          "description" : "Generate notifications and send it",
+          "name" : "Email Sender",
+          "description" : "Sends notifications via emails",
           "relationships" : [ {
-            "id" : "63",
+            "id" : "67",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "3ce17896-1fdf-43b8-9ba1-c2accee93dff"
+              "structurizr.dsl.identifier" : "e48f1a8a-ceda-4216-af5e-4995a72aede6"
             },
-            "sourceId" : "10",
+            "sourceId" : "12",
             "destinationId" : "26",
-            "description" : "Send alerts"
-          }, {
-            "id" : "66",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "1200ae25-c865-4281-9861-6acf472ca6a9"
-            },
-            "sourceId" : "10",
-            "destinationId" : "12",
-            "description" : "Request to send email"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "8",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "formmanager"
-          },
-          "name" : "Form Manager",
-          "description" : "Forms submitted by users",
-          "relationships" : [ {
-            "id" : "59",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "1ea220f3-b002-42ef-83c1-b14aafa4bf89"
-            },
-            "sourceId" : "8",
-            "destinationId" : "11",
-            "description" : "Request schedule update"
+            "description" : "Fetch Emails"
           } ],
           "documentation" : { }
         } ],
-        "documentation" : { }
-      }, {
-        "id" : "32",
-        "tags" : "Element,Container,Database",
-        "properties" : {
-          "structurizr.dsl.identifier" : "db"
-        },
-        "name" : "Schedule Database",
-        "description" : "Store schedule, history, forms",
         "documentation" : { }
       }, {
         "id" : "13",
@@ -328,7 +319,7 @@
           "id" : "55",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "3abb0b9d-20ac-411a-b707-6cbbf3558396"
+            "structurizr.dsl.identifier" : "9eaa1638-5176-4799-9e3f-e8c45ec6fcec"
           },
           "sourceId" : "13",
           "destinationId" : "26",
@@ -337,153 +328,13 @@
           "id" : "68",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "bd214895-f36c-42db-a64e-094b20112872"
+            "structurizr.dsl.identifier" : "e70f828c-8810-4f9f-a09a-7d7c459f762a"
           },
           "sourceId" : "13",
           "destinationId" : "30",
           "description" : "Request data"
         } ],
         "components" : [ {
-          "id" : "14",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "viewcontroller"
-          },
-          "name" : "View Controller",
-          "description" : "Provide view for different users (Committee, Teacher, Student)",
-          "relationships" : [ {
-            "id" : "87",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "57de44f7-29a3-4f18-8d4a-d8c6dc12c6a7"
-            },
-            "sourceId" : "14",
-            "destinationId" : "18",
-            "description" : "Gets component"
-          }, {
-            "id" : "88",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "5156b407-e915-4d49-8217-3cfb77459f71"
-            },
-            "sourceId" : "14",
-            "destinationId" : "19",
-            "description" : "Gets component"
-          }, {
-            "id" : "89",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "fe811f69-9d0d-4d66-a3fb-4e9fbf0a54a2"
-            },
-            "sourceId" : "14",
-            "destinationId" : "20",
-            "description" : "Gets user data"
-          }, {
-            "id" : "90",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "c2a635e9-fb3e-4aab-addc-1a5644bb5770"
-            },
-            "sourceId" : "14",
-            "destinationId" : "23",
-            "description" : "Get component"
-          }, {
-            "id" : "91",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "2ad7da7f-1c40-4a37-b40f-75d303fc3397"
-            },
-            "sourceId" : "14",
-            "destinationId" : "21",
-            "description" : "Get component"
-          }, {
-            "id" : "92",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "9ecee1c6-938f-41da-a06f-7aa70474b3ee"
-            },
-            "sourceId" : "14",
-            "destinationId" : "22",
-            "description" : "Get component"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "17",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "studentview"
-          },
-          "name" : "Student View",
-          "description" : "Provide functionality for student in web browser such as viewing schedule",
-          "relationships" : [ {
-            "id" : "95",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "dc541817-6bda-4653-b8ba-6e670eef59ca"
-            },
-            "sourceId" : "17",
-            "destinationId" : "14",
-            "description" : "Get content"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "18",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "calendar"
-          },
-          "name" : "Calendar (for Committee)",
-          "description" : "Display schedule with calendar view",
-          "relationships" : [ {
-            "id" : "99",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "f88cb3f1-0960-41d8-ac52-e0c59703d3d6"
-            },
-            "sourceId" : "18",
-            "destinationId" : "26",
-            "description" : "Fetches subjects"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "19",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "subjects"
-          },
-          "name" : "List of Subjects (for Committee)",
-          "description" : "Display a list of subjects",
-          "relationships" : [ {
-            "id" : "98",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "a08bdc28-e0a5-47fb-9a5f-413b8d905623"
-            },
-            "sourceId" : "19",
-            "destinationId" : "26",
-            "description" : "Fetches subjects"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "15",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "committeeview"
-          },
-          "name" : "Committee View",
-          "description" : "Provide functionality for committee in web browser such as create, validate, or change schedule",
-          "relationships" : [ {
-            "id" : "93",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "d8d031b5-630b-4eaa-8f05-77ff1df2c38e"
-            },
-            "sourceId" : "15",
-            "destinationId" : "14",
-            "description" : "Get content"
-          } ],
-          "documentation" : { }
-        }, {
           "id" : "16",
           "tags" : "Element,Component",
           "properties" : {
@@ -495,7 +346,7 @@
             "id" : "94",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "2b4f7183-8117-4450-8a81-9e5e2fdbaee3"
+              "structurizr.dsl.identifier" : "c60c4bc7-a374-4db0-9cba-d59ccc76bb03"
             },
             "sourceId" : "16",
             "destinationId" : "14",
@@ -513,30 +364,11 @@
             "id" : "97",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "a1f28eeb-be94-4ac5-98d9-c56f4b72b1a3"
+              "structurizr.dsl.identifier" : "63a62b6b-911e-4162-afe8-e705dd4b98b5"
             },
             "sourceId" : "20",
             "destinationId" : "26",
             "description" : "Gets/Sets settings"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "22",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "notificationclient"
-          },
-          "name" : "Notifications",
-          "description" : "A part of the view displaying alerts via API",
-          "relationships" : [ {
-            "id" : "101",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "bdf38df4-402d-4862-bed6-9449b533b13d"
-            },
-            "sourceId" : "22",
-            "destinationId" : "26",
-            "description" : "Send request for any alerts"
           } ],
           "documentation" : { }
         }, {
@@ -551,11 +383,170 @@
             "id" : "96",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "a8fd71e9-4059-462a-806d-5a218a6c49b8"
+              "structurizr.dsl.identifier" : "8366eda9-179f-4291-a066-c381c919437f"
             },
             "sourceId" : "23",
             "destinationId" : "26",
             "description" : "Post request"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "19",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "subjects"
+          },
+          "name" : "List of Subjects (for Committee)",
+          "description" : "Display a list of subjects",
+          "relationships" : [ {
+            "id" : "98",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "504494a1-7dac-4231-8344-36d942ede575"
+            },
+            "sourceId" : "19",
+            "destinationId" : "26",
+            "description" : "Fetches subjects"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "22",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "notificationclient"
+          },
+          "name" : "Notifications",
+          "description" : "A part of the view displaying alerts via API",
+          "relationships" : [ {
+            "id" : "101",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "1b62f8de-6621-453b-980c-fcd505b63736"
+            },
+            "sourceId" : "22",
+            "destinationId" : "26",
+            "description" : "Send request for any alerts"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "18",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "calendar"
+          },
+          "name" : "Calendar (for Committee)",
+          "description" : "Display schedule with calendar view",
+          "relationships" : [ {
+            "id" : "99",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "6a8e9235-9959-4874-8869-71d56b4c06e1"
+            },
+            "sourceId" : "18",
+            "destinationId" : "26",
+            "description" : "Fetches subjects"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "17",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "studentview"
+          },
+          "name" : "Student View",
+          "description" : "Provide functionality for student in web browser such as viewing schedule",
+          "relationships" : [ {
+            "id" : "95",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "385c4552-a0a6-4e30-9067-f58dd0c691ce"
+            },
+            "sourceId" : "17",
+            "destinationId" : "14",
+            "description" : "Get content"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "15",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "committeeview"
+          },
+          "name" : "Committee View",
+          "description" : "Provide functionality for committee in web browser such as create, validate, or change schedule",
+          "relationships" : [ {
+            "id" : "93",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "2ae38523-6e51-4f2d-b7ce-bbb980c7ab4f"
+            },
+            "sourceId" : "15",
+            "destinationId" : "14",
+            "description" : "Get content"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "14",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "viewcontroller"
+          },
+          "name" : "View Controller",
+          "description" : "Provide view for different users (Committee, Teacher, Student)",
+          "relationships" : [ {
+            "id" : "87",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "6d4021a1-0c56-4608-b2b9-618f0c359f35"
+            },
+            "sourceId" : "14",
+            "destinationId" : "18",
+            "description" : "Gets component"
+          }, {
+            "id" : "88",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "71174e5a-9795-47c6-bc4c-b3e5f9bbe6f1"
+            },
+            "sourceId" : "14",
+            "destinationId" : "19",
+            "description" : "Gets component"
+          }, {
+            "id" : "89",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "8eeacf76-5d96-4ce9-85c1-4c1acd33798e"
+            },
+            "sourceId" : "14",
+            "destinationId" : "20",
+            "description" : "Gets user data"
+          }, {
+            "id" : "90",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "2d0140a9-602a-4dfb-a423-ba270b3d7c3c"
+            },
+            "sourceId" : "14",
+            "destinationId" : "23",
+            "description" : "Get component"
+          }, {
+            "id" : "91",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "c2f6eb3f-cb93-4e02-a7db-1d1438234090"
+            },
+            "sourceId" : "14",
+            "destinationId" : "21",
+            "description" : "Get component"
+          }, {
+            "id" : "92",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "7d169e6a-1927-4a1b-a289-26930da8aaeb"
+            },
+            "sourceId" : "14",
+            "destinationId" : "22",
+            "description" : "Get component"
           } ],
           "documentation" : { }
         }, {
@@ -570,7 +561,7 @@
             "id" : "100",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "7e14d8cc-3dfe-48a0-875b-edf3adcbafae"
+              "structurizr.dsl.identifier" : "b9c61cbc-b44e-413e-bb70-fa6b3570c61f"
             },
             "sourceId" : "21",
             "destinationId" : "26",
@@ -591,7 +582,7 @@
           "id" : "45",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "95a68d0c-6339-4957-b575-41194e33872b"
+            "structurizr.dsl.identifier" : "3a49d97b-3c21-4c25-86b2-ffb183dc0d3f"
           },
           "sourceId" : "26",
           "destinationId" : "32",
@@ -600,7 +591,7 @@
           "id" : "46",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "f5269a8a-cdc4-4e73-be23-3b8245a82b79"
+            "structurizr.dsl.identifier" : "96c8e571-5509-4d2b-aed7-2472904f1495"
           },
           "sourceId" : "26",
           "destinationId" : "33",
@@ -609,7 +600,7 @@
           "id" : "47",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "e4538f6e-6e70-4065-95b7-aac5d0f4fee2"
+            "structurizr.dsl.identifier" : "1f23eb18-f3b7-4112-a9f2-00a9c2bb2abe"
           },
           "sourceId" : "26",
           "destinationId" : "35",
@@ -618,7 +609,7 @@
           "id" : "48",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "a211d8b8-ad64-4a58-afba-40a6cad937b7"
+            "structurizr.dsl.identifier" : "59984647-d715-4b00-9a30-c3bf40f2ee03"
           },
           "sourceId" : "26",
           "destinationId" : "37",
@@ -627,7 +618,7 @@
           "id" : "56",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "d3fb6289-c558-4156-8f86-189ec8ae78dd"
+            "structurizr.dsl.identifier" : "d2a83f08-d67e-4500-beb5-5e6ed8030962"
           },
           "sourceId" : "26",
           "destinationId" : "7",
@@ -636,7 +627,7 @@
           "id" : "58",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "25188966-5fd2-4a14-a2d2-f920be732494"
+            "structurizr.dsl.identifier" : "7ba05ece-ba7a-4315-b927-974790862b98"
           },
           "sourceId" : "26",
           "destinationId" : "8",
@@ -645,7 +636,7 @@
           "id" : "65",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "1cbbce39-9dc7-4ac1-88d1-0f617b0f6964"
+            "structurizr.dsl.identifier" : "c91d27a8-b2e0-4edf-a9dc-562d40499bf3"
           },
           "sourceId" : "26",
           "destinationId" : "11",
@@ -658,22 +649,58 @@
           "linkedRelationshipId" : "69"
         } ],
         "components" : [ {
-          "id" : "30",
+          "id" : "28",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "ana"
+            "structurizr.dsl.identifier" : "externalapi"
           },
-          "name" : "Authentication and Authorization",
-          "description" : "Implement security measures to ensure that only authorized users can access or modify data. This might involve OAuth tokens, API keys, or other security protocols.",
+          "name" : "External API",
+          "description" : "Communicate with external systems",
           "relationships" : [ {
-            "id" : "71",
+            "id" : "78",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "255235d0-dbbf-4b0e-b669-24ab96fa310a"
+              "structurizr.dsl.identifier" : "bca8daaa-fc26-466a-9a3b-5fa2d9af3313"
             },
-            "sourceId" : "30",
-            "destinationId" : "27",
-            "description" : "Authenticate User Request"
+            "sourceId" : "28",
+            "destinationId" : "31",
+            "description" : "Send External Data"
+          }, {
+            "id" : "79",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "f54eec7e-5f3c-4e10-99d9-d005b53011ab"
+            },
+            "sourceId" : "28",
+            "destinationId" : "7",
+            "description" : "Request Data"
+          }, {
+            "id" : "81",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "d66a2e8f-cc6a-47f7-87f1-b6949b308dc6"
+            },
+            "sourceId" : "28",
+            "destinationId" : "33",
+            "description" : "Request Data"
+          }, {
+            "id" : "83",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "5f1f993f-2c5a-425a-8d04-b238bccb9a42"
+            },
+            "sourceId" : "28",
+            "destinationId" : "35",
+            "description" : "Request Data"
+          }, {
+            "id" : "85",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "fef0818e-6485-4579-93b1-52b6c2c55631"
+            },
+            "sourceId" : "28",
+            "destinationId" : "37",
+            "description" : "Request Data"
           } ],
           "documentation" : { }
         }, {
@@ -688,7 +715,7 @@
             "id" : "73",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "06244202-984f-4967-b4d3-d6e0acda7b26"
+              "structurizr.dsl.identifier" : "c52a5f4b-355d-4a1f-844d-597fdc26a6c8"
             },
             "sourceId" : "29",
             "destinationId" : "32",
@@ -697,7 +724,7 @@
             "id" : "75",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "3a254b11-b732-4f4c-af1b-e415f545c916"
+              "structurizr.dsl.identifier" : "1ffa6b9b-92f0-4bbf-a8e5-7dcfb9c4710f"
             },
             "sourceId" : "29",
             "destinationId" : "7",
@@ -705,58 +732,22 @@
           } ],
           "documentation" : { }
         }, {
-          "id" : "28",
+          "id" : "30",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "externalapi"
+            "structurizr.dsl.identifier" : "ana"
           },
-          "name" : "External API",
-          "description" : "Communicate with external systems",
+          "name" : "Authentication and Authorization",
+          "description" : "Implement security measures to ensure that only authorized users can access or modify data. This might involve OAuth tokens, API keys, or other security protocols.",
           "relationships" : [ {
-            "id" : "78",
+            "id" : "71",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "d7e4df87-c7aa-475c-a1f8-ba80311ffbd4"
+              "structurizr.dsl.identifier" : "d2bcbea9-44eb-47f6-b67a-1c6d06e4aaca"
             },
-            "sourceId" : "28",
-            "destinationId" : "31",
-            "description" : "Send External Data"
-          }, {
-            "id" : "79",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "694f5b19-7641-475a-94ba-66feb8e4dd6f"
-            },
-            "sourceId" : "28",
-            "destinationId" : "7",
-            "description" : "Request Data"
-          }, {
-            "id" : "81",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "8cb15316-6abd-498b-b5af-a065fbe215ee"
-            },
-            "sourceId" : "28",
-            "destinationId" : "33",
-            "description" : "Request Data"
-          }, {
-            "id" : "83",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "1f297cad-551a-425a-b725-4bc16d9ce0a7"
-            },
-            "sourceId" : "28",
-            "destinationId" : "35",
-            "description" : "Request Data"
-          }, {
-            "id" : "85",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "e2e85891-ebb5-4285-b2ca-e4f0bc53046f"
-            },
-            "sourceId" : "28",
-            "destinationId" : "37",
-            "description" : "Request Data"
+            "sourceId" : "30",
+            "destinationId" : "27",
+            "description" : "Authenticate User Request"
           } ],
           "documentation" : { }
         }, {
@@ -771,7 +762,7 @@
             "id" : "80",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "c89a73f4-7d3c-46f9-89bd-3413281a03d2"
+              "structurizr.dsl.identifier" : "9a25c273-5dfa-4f44-9744-d63847cc933c"
             },
             "sourceId" : "31",
             "destinationId" : "7",
@@ -790,7 +781,7 @@
             "id" : "69",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "19cd5487-3808-454a-9018-86b24eef5aa2"
+              "structurizr.dsl.identifier" : "8b693125-6b8b-4f99-b9a7-d598062992ea"
             },
             "sourceId" : "27",
             "destinationId" : "13",
@@ -799,7 +790,7 @@
             "id" : "72",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "b63e39a9-46ac-4edb-a0f2-3e0ca9ca9990"
+              "structurizr.dsl.identifier" : "7cc174df-ef3a-4225-bbfb-1affab053500"
             },
             "sourceId" : "27",
             "destinationId" : "7",
@@ -807,6 +798,15 @@
           } ],
           "documentation" : { }
         } ],
+        "documentation" : { }
+      }, {
+        "id" : "32",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "db"
+        },
+        "name" : "Schedule Database",
+        "description" : "Store schedule, history, forms",
         "documentation" : { }
       } ],
       "documentation" : {
@@ -816,7 +816,7 @@
           "order" : 1,
           "title" : ""
         }, {
-          "content" : "## Context\n**Schedule System** is a comprehensive scheduling solution that allows users to effectively manage and view academic schedules. The system provides three core features:\n\n1. **Schedule Creation:** Committee members use enrollment and building data to create and validate the academic schedule.\n2. **Teacher Schedule Management:** Teachers can conveniently access their assigned schedules and submit requests for modifications when necessary.\n3. **Student Schedule Access:** Students can view their schedule and keep track of their study time accordingly.\n\n**Schedule System** seamlessly integrates with three external systems to streamline operations and enhance data integrity:\n\n1. **Enrollment System:** Real-time enrollment data is extracted to ensure accurate schedule creation.\n2. **Building System:** Building availability and capacity are considered during schedule creation to prevent scheduling conflicts.\n3. **Student System:** Student information is integrated to retrieve information and display schedules.\n",
+          "content" : "## Context\n**Schedule System** is a comprehensive scheduling solution that allows users to effectively manage and view academic schedules. The system provides three core features:\n\n1. **Schedule Creation:** Committee members use enrollment and building data to create and validate the academic schedule.\n2. **Teacher Schedule Management:** Teachers can conveniently access their assigned schedules and submit requests for modifications when necessary.\n3. **Student Schedule Access:** Students can view their schedule and keep track of their study time accordingly.\n\n**Schedule System** seamlessly integrates with three external systems to streamline operations and enhance data integrity:\n\n1. **Enrollment System:** Real-time enrollment data is extracted to ensure accurate schedule creation.\n2. **Building System:** Building availability and capacity are considered during schedule creation to prevent scheduling conflicts.\n3. **Student System:** Student information is integrated to retrieve information and display schedules.\n\n![](embed:ScheduleStystem)\n",
           "format" : "Markdown",
           "filename" : "02-context.md",
           "order" : 2,
@@ -841,7 +841,7 @@
         "id" : "49",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "947e733e-127e-43cf-a0e0-c86652d1b969"
+          "structurizr.dsl.identifier" : "c994900c-203c-483d-92af-6e723badcc44"
         },
         "sourceId" : "33",
         "destinationId" : "26",
@@ -856,7 +856,7 @@
         "id" : "82",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "ea594186-5e1d-4480-ad19-f2c856de8f08"
+          "structurizr.dsl.identifier" : "c1cb20f2-4d7a-484d-b8fc-85161c6bcfa0"
         },
         "sourceId" : "33",
         "destinationId" : "28",
@@ -886,7 +886,7 @@
         "id" : "51",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "0ba3c2c6-8914-48c3-bc2e-578e9c340caf"
+          "structurizr.dsl.identifier" : "8b7b8808-e5b6-4029-9891-12198c06b83e"
         },
         "sourceId" : "35",
         "destinationId" : "26",
@@ -901,7 +901,7 @@
         "id" : "84",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "a6af9fc1-672c-4dd4-ba0f-577cb4df5a70"
+          "structurizr.dsl.identifier" : "56cbe2d2-0c8b-4cc4-85e9-a294353ae289"
         },
         "sourceId" : "35",
         "destinationId" : "28",
@@ -931,7 +931,7 @@
         "id" : "53",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "e9b155fa-364b-45f1-a604-646100185fec"
+          "structurizr.dsl.identifier" : "4b14ec0e-85a3-4a80-a570-86b0c15b980f"
         },
         "sourceId" : "37",
         "destinationId" : "26",
@@ -946,7 +946,7 @@
         "id" : "86",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "13655adb-ace7-44dc-b6ed-6c1c8000f5d3"
+          "structurizr.dsl.identifier" : "990eb1b4-cc80-402b-bbb2-703adacf5b54"
         },
         "sourceId" : "37",
         "destinationId" : "28",
@@ -969,7 +969,7 @@
       "id" : "102",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "ad9f800b-5ffc-429d-a778-f664ec43c955"
+        "structurizr.dsl.identifier" : "3c295ca3-003a-403d-8969-8a2aa58e2cd7"
       },
       "name" : "User's Web Server",
       "environment" : "deploymentDiagram",
@@ -996,7 +996,7 @@
       "id" : "104",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "25c79e83-a85d-4de4-91b6-ec7c9eba9972"
+        "structurizr.dsl.identifier" : "f1aae73b-078a-4f80-b997-4b741082b3e7"
       },
       "name" : "Application Server 1",
       "environment" : "deploymentDiagram",
@@ -1006,7 +1006,7 @@
         "id" : "105",
         "tags" : "Element,Deployment Node",
         "properties" : {
-          "structurizr.dsl.identifier" : "7ef0a728-7b19-4595-8188-6ffcb6b09e1f"
+          "structurizr.dsl.identifier" : "d5dbc04f-3e41-4bd2-9ef3-2fe675df1a03"
         },
         "name" : "Web server",
         "environment" : "deploymentDiagram",
@@ -1064,7 +1064,7 @@
       "id" : "112",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "977b1d56-29a4-4b93-83c5-4513536b49a5"
+        "structurizr.dsl.identifier" : "8c96b338-ea9e-44cf-8c80-a26e1c0a78dc"
       },
       "name" : "Database Server",
       "environment" : "deploymentDiagram",
@@ -1074,7 +1074,7 @@
         "id" : "113",
         "tags" : "Element,Deployment Node",
         "properties" : {
-          "structurizr.dsl.identifier" : "eb705b7a-a68a-454a-95df-93bf30ee6eb8"
+          "structurizr.dsl.identifier" : "b2f2b57f-df51-496d-924e-c468ca4c564d"
         },
         "name" : "Relational DB",
         "environment" : "deploymentDiagram",
@@ -1097,8 +1097,9 @@
   "documentation" : { },
   "views" : {
     "systemContextViews" : [ {
-      "key" : "SystemContext-001",
+      "key" : "ScheduleStystem",
       "order" : 1,
+      "description" : "ScheduleStystem",
       "softwareSystemId" : "6",
       "automaticLayout" : {
         "implementation" : "Graphviz",
@@ -1144,9 +1145,9 @@
       }, {
         "id" : "40"
       }, {
-        "id" : "41"
-      }, {
         "id" : "52"
+      }, {
+        "id" : "41"
       }, {
         "id" : "42"
       }, {
@@ -1228,13 +1229,13 @@
           "y" : 1542
         } ]
       }, {
-        "id" : "45"
-      }, {
         "id" : "56",
         "vertices" : [ {
           "x" : 2343,
           "y" : 1209
         } ]
+      }, {
+        "id" : "45"
       }, {
         "id" : "57",
         "vertices" : [ {
@@ -1256,94 +1257,131 @@
       } ]
     } ],
     "componentViews" : [ {
-      "key" : "clientDiagram",
-      "order" : 3,
-      "automaticLayout" : {
-        "implementation" : "Graphviz",
-        "rankDirection" : "LeftRight",
-        "rankSeparation" : 300,
-        "nodeSeparation" : 300,
-        "edgeSeparation" : 0,
-        "vertices" : false,
-        "applied" : false
+      "key" : "apiDiagram",
+      "order" : 5,
+      "dimensions" : {
+        "width" : 3100,
+        "height" : 3128
       },
-      "containerId" : "13",
+      "containerId" : "26",
       "externalContainerBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "22",
-        "x" : 0,
-        "y" : 0
+        "id" : "33",
+        "x" : 125,
+        "y" : 170
       }, {
-        "id" : "23",
-        "x" : 0,
-        "y" : 0
+        "id" : "35",
+        "x" : 110,
+        "y" : 875
       }, {
-        "id" : "14",
-        "x" : 0,
-        "y" : 0
+        "id" : "13",
+        "x" : 1315,
+        "y" : 25
       }, {
-        "id" : "26",
-        "x" : 0,
-        "y" : 0
+        "id" : "37",
+        "x" : 160,
+        "y" : 1650
       }, {
-        "id" : "15",
-        "x" : 0,
-        "y" : 0
+        "id" : "27",
+        "x" : 1750,
+        "y" : 600
       }, {
-        "id" : "16",
-        "x" : 0,
-        "y" : 0
+        "id" : "28",
+        "x" : 1000,
+        "y" : 1200
       }, {
-        "id" : "17",
-        "x" : 0,
-        "y" : 0
+        "id" : "7",
+        "x" : 2400,
+        "y" : 2460
       }, {
-        "id" : "18",
-        "x" : 0,
-        "y" : 0
+        "id" : "29",
+        "x" : 1000,
+        "y" : 1800
       }, {
-        "id" : "19",
-        "x" : 0,
-        "y" : 0
+        "id" : "30",
+        "x" : 1000,
+        "y" : 600
       }, {
-        "id" : "20",
-        "x" : 0,
-        "y" : 0
+        "id" : "31",
+        "x" : 1750,
+        "y" : 1200
       }, {
-        "id" : "21",
-        "x" : 0,
-        "y" : 0
+        "id" : "32",
+        "x" : 155,
+        "y" : 2515
       } ],
       "relationships" : [ {
-        "id" : "93"
+        "id" : "82"
       }, {
-        "id" : "94"
+        "id" : "83",
+        "vertices" : [ {
+          "x" : 840,
+          "y" : 1075
+        } ]
       }, {
-        "id" : "91"
+        "id" : "80"
       }, {
-        "id" : "92"
+        "id" : "72",
+        "vertices" : [ {
+          "x" : 2575,
+          "y" : 1330
+        } ]
       }, {
-        "id" : "97"
+        "id" : "81",
+        "vertices" : [ {
+          "x" : 805,
+          "y" : 595
+        } ]
       }, {
-        "id" : "87"
+        "id" : "71"
       }, {
-        "id" : "98"
+        "id" : "86",
+        "vertices" : [ {
+          "x" : 870,
+          "y" : 1685
+        } ]
       }, {
-        "id" : "95"
+        "id" : "74"
       }, {
-        "id" : "96"
+        "id" : "73"
       }, {
-        "id" : "90"
+        "id" : "84",
+        "vertices" : [ {
+          "x" : 775,
+          "y" : 1240
+        } ]
       }, {
-        "id" : "100"
+        "id" : "76",
+        "vertices" : [ {
+          "x" : 2355,
+          "y" : 1365
+        } ]
       }, {
-        "id" : "99"
+        "id" : "85",
+        "vertices" : [ {
+          "x" : 756,
+          "y" : 1532
+        } ]
       }, {
-        "id" : "88"
+        "id" : "75",
+        "vertices" : [ {
+          "x" : 1680,
+          "y" : 2310
+        } ]
       }, {
-        "id" : "89"
+        "id" : "78"
       }, {
-        "id" : "101"
+        "id" : "77",
+        "vertices" : [ {
+          "x" : 2025,
+          "y" : 1868
+        } ]
+      }, {
+        "id" : "69"
+      }, {
+        "id" : "79"
+      }, {
+        "id" : "68"
       } ]
     }, {
       "key" : "webappDiagram",
@@ -1417,131 +1455,94 @@
         "id" : "59"
       } ]
     }, {
-      "key" : "apiDiagram",
-      "order" : 5,
-      "dimensions" : {
-        "width" : 3100,
-        "height" : 3128
+      "key" : "clientDiagram",
+      "order" : 3,
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "LeftRight",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false,
+        "applied" : false
       },
-      "containerId" : "26",
+      "containerId" : "13",
       "externalContainerBoundariesVisible" : true,
       "elements" : [ {
-        "id" : "33",
-        "x" : 125,
-        "y" : 170
+        "id" : "22",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "13",
-        "x" : 1315,
-        "y" : 25
+        "id" : "23",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "35",
-        "x" : 110,
-        "y" : 875
+        "id" : "14",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "37",
-        "x" : 160,
-        "y" : 1650
+        "id" : "26",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "27",
-        "x" : 1750,
-        "y" : 600
+        "id" : "15",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "28",
-        "x" : 1000,
-        "y" : 1200
+        "id" : "16",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "29",
-        "x" : 1000,
-        "y" : 1800
+        "id" : "17",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "7",
-        "x" : 2400,
-        "y" : 2460
+        "id" : "18",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "30",
-        "x" : 1000,
-        "y" : 600
+        "id" : "19",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "31",
-        "x" : 1750,
-        "y" : 1200
+        "id" : "20",
+        "x" : 0,
+        "y" : 0
       }, {
-        "id" : "32",
-        "x" : 155,
-        "y" : 2515
+        "id" : "21",
+        "x" : 0,
+        "y" : 0
       } ],
       "relationships" : [ {
-        "id" : "82"
+        "id" : "93"
       }, {
-        "id" : "83",
-        "vertices" : [ {
-          "x" : 840,
-          "y" : 1075
-        } ]
+        "id" : "94"
       }, {
-        "id" : "80"
+        "id" : "91"
       }, {
-        "id" : "72",
-        "vertices" : [ {
-          "x" : 2575,
-          "y" : 1330
-        } ]
+        "id" : "92"
       }, {
-        "id" : "81",
-        "vertices" : [ {
-          "x" : 805,
-          "y" : 595
-        } ]
+        "id" : "97"
       }, {
-        "id" : "71"
+        "id" : "98"
       }, {
-        "id" : "74"
+        "id" : "87"
       }, {
-        "id" : "86",
-        "vertices" : [ {
-          "x" : 870,
-          "y" : 1685
-        } ]
+        "id" : "95"
       }, {
-        "id" : "73"
+        "id" : "96"
       }, {
-        "id" : "84",
-        "vertices" : [ {
-          "x" : 775,
-          "y" : 1240
-        } ]
+        "id" : "90"
       }, {
-        "id" : "76",
-        "vertices" : [ {
-          "x" : 2355,
-          "y" : 1365
-        } ]
+        "id" : "100"
       }, {
-        "id" : "75",
-        "vertices" : [ {
-          "x" : 1680,
-          "y" : 2310
-        } ]
+        "id" : "99"
       }, {
-        "id" : "85",
-        "vertices" : [ {
-          "x" : 756,
-          "y" : 1532
-        } ]
+        "id" : "88"
       }, {
-        "id" : "78"
+        "id" : "101"
       }, {
-        "id" : "77",
-        "vertices" : [ {
-          "x" : 2025,
-          "y" : 1868
-        } ]
-      }, {
-        "id" : "69"
-      }, {
-        "id" : "68"
-      }, {
-        "id" : "79"
+        "id" : "89"
       } ]
     } ],
     "deploymentViews" : [ {
