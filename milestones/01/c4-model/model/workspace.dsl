@@ -190,7 +190,7 @@ workspace "SIS" "Description"{
             include *
             # autolayout lr
         }
-        deployment scheduleSystem "deploymentDiagram" {
+        deployment scheduleSystem "deploymentDiagram" "deploymentDiagram" {
             include *
             autolayout lr
         }

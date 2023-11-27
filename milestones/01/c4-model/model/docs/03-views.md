@@ -128,10 +128,11 @@ The API container is responsible for:
 
 ![](embed:apiDiagram)
 
-## Deployment
-![](embed:deploymentDiagram)
+### Deployment
+
 Our deployment topology are
 - User's Web Server: Serves as the front-end for user interactions.
 - Application Server: Hosts web applications and APIs.
 - Database Server: Manages the relational database for scheduling.
 
+![](embed:deploymentDiagram)
