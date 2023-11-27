@@ -114,6 +114,7 @@ workspace "SIS" "Description"{
         webapp -> externalAPI "Request data"
         
         externalAPI -> dataValidation "Send External Data"
+        externalAPI -> webapp "Request Data"
         dataValidation -> webapp "External Data Validation Results"
         
         externalAPI -> enrollmentSystem "Request Data"
@@ -151,16 +152,9 @@ workspace "SIS" "Description"{
             deploymentNode "Application Server 1" "" "Ubuntu 18.04 LTS"   {
                 deploymentNode "Web server" "" "Apache Tomcat 10.1.15"  {
                     webappInstance = containerInstance webapp
-                    # apiInstance = containerInstance api
-                }
-            }
-            deploymentNode "Application Server 2" "" "Ubuntu 18.04 LTS"   {
-                deploymentNode "Web server" "" "Apache Tomcat 10.1.15"  {
-                    # webappInstance = containerInstance webapp
                     apiInstance = containerInstance api
                 }
-            }
-            
+            }            
             deploymentNode "Database Server" "" "Ubuntu 18.04 LTS"   {
                 deploymentNode "Relational DB" "" "Oracle 19.1.0" {
                     scheduleDBInstance = containerInstance db
