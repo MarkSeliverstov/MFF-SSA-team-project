@@ -2,7 +2,7 @@
   "id" : 1,
   "name" : "SIS",
   "description" : "Description",
-  "lastModifiedDate" : "2023-11-27T13:25:20Z",
+  "lastModifiedDate" : "2023-11-27T13:34:06Z",
   "properties" : {
     "structurizr.dsl" : "d29ya3NwYWNlICJTSVMiICJEZXNjcmlwdGlvbiJ7CgogICAgbW9kZWwgewogICAgICAgICMgYWN0b3IKICAgICAgICB1c2VyID0gcGVyc29uICJVc2VyIiAiQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50IgogICAgICAgIGNvbW1pdHRlZSA9IHBlcnNvbiAiQ29tbWl0dGVlIiAiQXNzZXNzZXMgZW5yb2xsbWVudCBhbmQgYnVpbGRpbmcgZGF0YSB0byBjcmVhdGUgdGhlIHNjaGVkdWxlIgogICAgICAgIHRlYWNoZXIgPSBwZXJzb24gIlRlYWNoZXIiICJWaWV3IHNjaGVkdWxlIGFuZCByZXF1ZXN0IGZvciBzY2hlZHVsZSBjaGFuZ2UgIgogICAgICAgIHN0dWRlbnQgPSBwZXJzb24gIlN0dWRlbnQiICJWaWV3IFNjaGVkdWxlIgogICAgICAgIGFkbWluID0gcGVyc29uICJUZWNobmljYWwgYWRtaW5pc3RyYXRvciIgIkFkbWluaXN0ZXJzIG1lYXN1cmluZyBkZXZpY2VzLiIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHNvZnR3YXJlIHN5c3RlbQogICAgICAgIHNjaGVkdWxlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIlNjaGVkdWxlIFN5c3RlbSIgIkNyZWF0ZSBhbmQgdmlldyBzY2hlZHVsZSIgewogICAgICAgICAgICB3ZWJhcHAgPSBjb250YWluZXIgIldlYiBBcHBsaWNhdGlvbiIgIkNyZWF0ZSwgYW5hbHl6ZSwgYW5kIHZhbGlkYXRlIHNjaGVkdWxlLiIgewogICAgICAgICAgICAgICAgZm9ybU1hbmFnZXIgPSBjb21wb25lbnQgIkZvcm0gTWFuYWdlciIgIkZvcm1zIHN1Ym1pdHRlZCBieSB1c2VycyIKICAgICAgICAgICAgICAgIHNjaGVkdWxlQW5hbHl6ZXIgPSBjb21wb25lbnQgIlNjaGVkdWxlIGFuYWx5emVyIiAiQW5hbHl6ZSBzY2hlZHVsZS4iICJQeXRob24gYW5hbHl6ZXIiCiAgICAgICAgICAgICAgICBub3RpZmljYXRvciA9IGNvbXBvbmVudCAiTm90aWZpY2F0b3IiICJHZW5lcmF0ZSBub3RpZmljYXRpb25zIGFuZCBzZW5kIGl0IiAKICAgICAgICAgICAgICAgIHNjaGVkdWxlTWFuYWdlciA9IGNvbXBvbmVudCAiU2NoZWR1bGUgTWFuYWdlciIgIkNyZWF0ZS9EZWxldGUvVXBkYXRlIFNjaGVkdWxlIgogICAgICAgICAgICAgICAgZW1haWxTZW5kZXIgPSBjb21wb25lbnQgIkVtYWlsIFNlbmRlciIgIlNlbmRzIG5vdGlmaWNhdGlvbnMgdmlhIGVtYWlscyIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgICAgIGNsaWVudCA9IGNvbnRhaW5lciAiQ2xpZW50IEFwcGxpY2F0aW9uIiAiRGFzaGJvYXJkLCBDYWxlbmRhciwgRm9ybXMiIHsKICAgICAgICAgICAgICAgIHZpZXdDb250cm9sbGVyID0gY29tcG9uZW50ICJWaWV3IENvbnRyb2xsZXIiICJQcm92aWRlIHZpZXcgZm9yIGRpZmZlcmVudCB1c2VycyAoQ29tbWl0dGVlLCBUZWFjaGVyLCBTdHVkZW50KSIKICAgICAgICAgICAgICAgIGNvbW1pdHRlZVZpZXcgPSBjb21wb25lbnQgIkNvbW1pdHRlZSBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciBjb21taXR0ZWUgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyBjcmVhdGUsIHZhbGlkYXRlLCBvciBjaGFuZ2Ugc2NoZWR1bGUiCiAgICAgICAgICAgICAgICB0ZWFjaGVyVmlldyA9IGNvbXBvbmVudCAiVGVhY2hlciBWaWV3IiAiUHJvdmlkZSBmdW5jdGlvbmFsaXR5IGZvciB0ZWFjaGVyIGluIHdlYiBicm93c2VyIHN1Y2ggYXMgcmVxdWVzdGluZyBzY2hlZHVsZSIKICAgICAgICAgICAgICAgIHN0dWRlbnRWaWV3ID0gY29tcG9uZW50ICJTdHVkZW50IFZpZXciICJQcm92aWRlIGZ1bmN0aW9uYWxpdHkgZm9yIHN0dWRlbnQgaW4gd2ViIGJyb3dzZXIgc3VjaCBhcyB2aWV3aW5nIHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBjYWxlbmRhciA9IGNvbXBvbmVudCAiQ2FsZW5kYXIgKGZvciBDb21taXR0ZWUpIiAiRGlzcGxheSBzY2hlZHVsZSB3aXRoIGNhbGVuZGFyIHZpZXciCiAgICAgICAgICAgICAgICBzdWJqZWN0cyA9IGNvbXBvbmVudCAiTGlzdCBvZiBTdWJqZWN0cyAoZm9yIENvbW1pdHRlZSkiICJEaXNwbGF5IGEgbGlzdCBvZiBzdWJqZWN0cyIKICAgICAgICAgICAgICAgIHNldHRpbmdzID0gY29tcG9uZW50ICJVc2VyIFNldHRpbmdzIgogICAgICAgICAgICAgICAgc2NoZWR1bGUgPSBjb21wb25lbnQgIlNjaGVkdWxlIiAiRGlzcGxheSB0ZWFjaGVyIGFuZCBzdHVkZW50IHNjaGVkdWxlIgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBub3RpZmljYXRpb25DbGllbnQgPSBjb21wb25lbnQgIk5vdGlmaWNhdGlvbnMiICJBIHBhcnQgb2YgdGhlIHZpZXcgZGlzcGxheWluZyBhbGVydHMgdmlhIEFQSSIKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9ybSA9IGNvbXBvbmVudCAiUmVxdWVzdGVkIEZvcm0iICJSZXF1ZXN0IHByZWZlcnJlZCBzY2hlZHVsZSBieSB0ZWFjaGVyIHRvIGNvbW1pdHRlZSIKICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHVzZXIgLT4gdGhpcyAiSW50ZXJhY3Qgd2l0aCBhcHAiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgYXBpID0gY29udGFpbmVyICJBUEkiICJEZWZpbmVzIHRoZSBtZXRob2RzIGFuZCBkYXRhIGZvcm1hdHMgdGhhdCB1c2UgdG8gY29tbXVuaWNhdGUgd2l0aCBzeXN0ZW1zIGFuZCBkYXRhYmFzZS4gSXQgaXMgYSBjb21tdW5pY2F0aW9uIGNlbnRlciBmb3IgdGhlIHN5c3RlbS4iIHsKICAgICAgICAgICAgICAgIGludGVybmFsQVBJID0gY29tcG9uZW50ICJJbnRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIFNjaGVkdWxlIFN5c3RlbSIKICAgICAgICAgICAgICAgIGV4dGVybmFsQVBJID0gY29tcG9uZW50ICJFeHRlcm5hbCBBUEkiICJDb21tdW5pY2F0ZSB3aXRoIGV4dGVybmFsIHN5c3RlbXMiCiAgICAgICAgICAgICAgICBkYXRhYmFzZUFQSSA9IGNvbXBvbmVudCAiRGF0YUJhc2UgQVBJIiAiQ29tbXVuaWNhdGUgd2l0aCBTY2hlZHVsZSBEYXRhQmFzZSIKICAgICAgICAgICAgICAgIGFuYSA9IGNvbXBvbmVudCAiQXV0aGVudGljYXRpb24gYW5kIEF1dGhvcml6YXRpb24iICJJbXBsZW1lbnQgc2VjdXJpdHkgbWVhc3VyZXMgdG8gZW5zdXJlIHRoYXQgb25seSBhdXRob3JpemVkIHVzZXJzIGNhbiBhY2Nlc3Mgb3IgbW9kaWZ5IGRhdGEuIFRoaXMgbWlnaHQgaW52b2x2ZSBPQXV0aCB0b2tlbnMsIEFQSSBrZXlzLCBvciBvdGhlciBzZWN1cml0eSBwcm90b2NvbHMuIgogICAgICAgICAgICAgICAgZGF0YVZhbGlkYXRpb24gPSBjb21wb25lbnQgIkV4dGVybmFsIERhdGEgVmFsaWRhdGlvbiIgIlZhbGlkYXRlIGluY29taW5nIGRhdGEgZm9yIGNvcnJlY3RuZXNzIGFuZCBjb21wbGV0ZW5lc3MgYmVmb3JlIGl0IGlzIHByb2Nlc3NlZCBvciBzdG9yZWQiCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZGIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiIHsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgIWRvY3MgZG9jcwogICAgICAgIH0KICAgICAgICAKICAgICAgICAjIGV4dGVybmFsIHN5c3RlbQogICAgICAgIGVucm9sbG1lbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiRW5yb2xsbWVudCBTeXN0ZW0iICJTdG9yZSBlbnJvbGxtZW50IHJlY29yZHMgc3VjaCBhcyBhdmFpbGFibGUgc3ViamVjdHMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgZW5yb2xsREIgPSBjb250YWluZXIgIlNjaGVkdWxlIERhdGFiYXNlIiAiU3RvcmUgc2NoZWR1bGUsIGhpc3RvcnksIGZvcm1zIiAiIiAiRGF0YWJhc2UiCiAgICAgICAgfQogICAgICAgIHN0dWRlbnRTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiU3R1ZGVudCBTeXN0ZW0iICJTdG9yZSBzdHVkZW50IHJlY29yZHMgc3VjaCBhcyBuYW1lLCBhZ2UsIGRlcGFydG1lbnQsIGV0Yy4iICJFeGlzdGluZyBTeXN0ZW0iewogICAgICAgICAgICBzdHVkZW50REIgPSBjb250YWluZXIgIlN0dWRlbnQgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRpbmcgU3lzdGVtIiAiU3RvcmUgcmVjb3JkcyBzdWNoIGFzIGF2YWlsYWJsZSBidWlsZGluZ3MsIHJvb21zLCBldGMuIiAiRXhpc3RpbmcgU3lzdGVtInsKICAgICAgICAgICAgYnVpbGRpbmdEQiA9IGNvbnRhaW5lciAiQnVpbGRpbmcgRGF0YWJhc2UiICIiICJEYXRhYmFzZSIKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGJldHdlZW4gZXh0ZXJuYWwgc3lzdGVtcyBhbmQgc2NoZWR1bGVTeXN0ZW0KICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBlbnJvbGxtZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgZW5yb2xsbWVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBzdHVkZW50U3lzdGVtICJNYWtlIEFQSSBjYWxscyB0byBnZXQgc3R1ZGVudCBkYXRhLiIKICAgICAgICBzY2hlZHVsZVN5c3RlbSAtPiBidWlsZGluZ1N5c3RlbSAiTWFrZSBBUEkgY2FsbHMgdG8gZ2V0IGJ1aWxkaW5nIGRhdGEuIgogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBiZXR3ZWVuIHVzZXJzIGFuZCBzY2hlZHVsZVN5c3RlbQogICAgICAgIGNvbW1pdHRlZSAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldywgY3JlYXRlLCBhbmQgdmFsaWRhdGUgc2NoZWR1bGUiCiAgICAgICAgdGVhY2hlciAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBhbmQgcmVxdWVzdCBhIGNoYW5nZWQgc2NoZWR1bGUiCiAgICAgICAgc3R1ZGVudCAtPiBzY2hlZHVsZVN5c3RlbSAiVmlldyBzY2hlZHVsZSIKICAgICAgICAKICAgICAgICAKICAgICAgICAjIHJlbGF0aW9uc2hpcHMgYmV0d2VlbiBjb250YWluZXJzCiAgICAgICAgYXBpIC0+IGRiICJGZXRjaGVzIGFuZCBzdG9yZXMgZGF0YSBmcm9tIERCIgogICAgICAgIGFwaSAtPiBlbnJvbGxtZW50U3lzdGVtICJGZXRjaGVzIGRhdGEgZnJvbSBzeXN0ZW0iCiAgICAgICAgYXBpIC0+IHN0dWRlbnRTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICBhcGkgLT4gYnVpbGRpbmdTeXN0ZW0gIkZldGNoZXMgZGF0YSBmcm9tIHN5c3RlbSIKICAgICAgICAKICAgICAgICBlbnJvbGxtZW50U3lzdGVtIC0+IGFwaSAiUmVxdWVzdCBkYXRhIGZyb20gc2NoZWR1bGUgc3lzdGVtIgogICAgICAgIHN0dWRlbnRTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgYnVpbGRpbmdTeXN0ZW0gLT4gYXBpICJSZXF1ZXN0IGRhdGEgZnJvbSBzY2hlZHVsZSBzeXN0ZW0iCiAgICAgICAgY2xpZW50IC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgYXBpIC0+IHdlYmFwcCAiSW50ZXJhY3RzIHdpdGggYXBwbGljYXRpb24iCiAgICAgICAgCiAgICAgICAgd2ViYXBwIC0+IGFwaSAiQ29tbXVuaWNhdGlvbiB3aXRoIGFwcCBBUEkiCiAgICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIFdlYiBhcHAKICAgICAgICBhcGkgLT4gZm9ybU1hbmFnZXIgIlJldHJpZXZlIGZvcm0iCiAgICAgICAgZm9ybU1hbmFnZXIgLT4gc2NoZWR1bGVNYW5hZ2VyICJSZXF1ZXN0IHNjaGVkdWxlIHVwZGF0ZSIKICAgICAgICBzY2hlZHVsZU1hbmFnZXIgLT4gYXBpICJGZXRjaCBkYXRhIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBzY2hlZHVsZUFuYWx5emVyICJWYWxpZGF0ZSBzY2hlZHVsZSIKICAgICAgICBzY2hlZHVsZUFuYWx5emVyIC0+IHNjaGVkdWxlTWFuYWdlciAiU2VuZCByZXNwb25zZSIKICAgICAgICBub3RpZmljYXRvciAtPiBhcGkgIlNlbmQgYWxlcnRzIgogICAgICAgIHNjaGVkdWxlTWFuYWdlciAtPiBub3RpZmljYXRvciAiUmVxdWVzdCB0byBjcmVhdGUgbm90aWZpY2F0aW9uIgogICAgICAgIGFwaSAtPiBzY2hlZHVsZU1hbmFnZXIgIlJlcXVlc3QgY2hhbmdlcyBpbiB0aGUgc2NoZWR1bGUiCiAgICAgICAgbm90aWZpY2F0b3IgLT4gZW1haWxTZW5kZXIgIlJlcXVlc3QgdG8gc2VuZCBlbWFpbCIKICAgICAgICBlbWFpbFNlbmRlciAtPiBhcGkgIkZldGNoIEVtYWlscyIKICAgICAgCiAgICAgICAgIyByZWxhdGlvbnNoaXBzIGluIEFQSSBhcHAKICAgICAgICBjbGllbnQgLT4gYW5hICJSZXF1ZXN0IGRhdGEiCiAgICAgICAgaW50ZXJuYWxBUEkgLT4gY2xpZW50ICJSZXNwb25zZSBkYXRhIgogICAgICAgIGFuYSAtPiBpbnRlcm5hbEFQSSAiQXV0aGVudGljYXRlIFVzZXIgUmVxdWVzdCIKICAgICAgICBpbnRlcm5hbEFQSSAtPiB3ZWJhcHAgIlNlbmQgUmVxdWVzdCIKICAgICAgICAKICAgICAgICBkYXRhYmFzZUFQSSAtPiBkYiAiUmVhZCBhbmQgd3JpdGUgZGF0YSIKICAgICAgICB3ZWJhcHAgLT4gZGF0YWJhc2VBUEkgIlJlcXVlc3QgZGF0YSIKICAgICAgICBkYXRhYmFzZUFQSSAtPiB3ZWJhcHAgIlNlbmQgZGF0YSIKICAgICAgICAKICAgICAgICB3ZWJhcHAgLT4gaW50ZXJuYWxBUEkgIlNlbmQgYSByZXNwb25kIgogICAgICAgIHdlYmFwcCAtPiBleHRlcm5hbEFQSSAiUmVxdWVzdCBkYXRhIgogICAgICAgIAogICAgICAgIGV4dGVybmFsQVBJIC0+IGRhdGFWYWxpZGF0aW9uICJTZW5kIEV4dGVybmFsIERhdGEiCiAgICAgICAgZXh0ZXJuYWxBUEkgLT4gd2ViYXBwICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZGF0YVZhbGlkYXRpb24gLT4gd2ViYXBwICJFeHRlcm5hbCBEYXRhIFZhbGlkYXRpb24gUmVzdWx0cyIKICAgICAgICAKICAgICAgICBleHRlcm5hbEFQSSAtPiBlbnJvbGxtZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgZW5yb2xsbWVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBzdHVkZW50U3lzdGVtICJSZXF1ZXN0IERhdGEiCiAgICAgICAgc3R1ZGVudFN5c3RlbSAtPiBleHRlcm5hbEFQSSAiUmVzcG9uc2UgRGF0YSIKICAgICAgICBleHRlcm5hbEFQSSAtPiBidWlsZGluZ1N5c3RlbSAiUmVxdWVzdCBEYXRhIgogICAgICAgIGJ1aWxkaW5nU3lzdGVtIC0+IGV4dGVybmFsQVBJICJSZXNwb25zZSBEYXRhIgogICAgICAgIAogICAgICAgIAogICAgICAgICMgcmVsYXRpb25zaGlwcyBpbiBDbGllbnQgYXBwCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gY2FsZW5kYXIgIkdldHMgY29tcG9uZW50IgogICAgICAgIHZpZXdDb250cm9sbGVyIC0+IHN1YmplY3RzICJHZXRzIGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzZXR0aW5ncyAiR2V0cyB1c2VyIGRhdGEiCiAgICAgICAgdmlld0NvbnRyb2xsZXIgLT4gZm9ybSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBzY2hlZHVsZSAiR2V0IGNvbXBvbmVudCIKICAgICAgICB2aWV3Q29udHJvbGxlciAtPiBub3RpZmljYXRpb25DbGllbnQgIkdldCBjb21wb25lbnQiCiAgICAgICAgCiAgICAgICAgY29tbWl0dGVlVmlldyAtPiB2aWV3Q29udHJvbGxlciAiR2V0IGNvbnRlbnQiCiAgICAgICAgdGVhY2hlclZpZXcgLT4gdmlld0NvbnRyb2xsZXIgIkdldCBjb250ZW50IgogICAgICAgIHN0dWRlbnRWaWV3IC0+IHZpZXdDb250cm9sbGVyICJHZXQgY29udGVudCIKICAgICAKICAgICAgICBmb3JtIC0+IGFwaSAiUG9zdCByZXF1ZXN0IgogICAgICAgIHNldHRpbmdzIC0+IGFwaSAiR2V0cy9TZXRzIHNldHRpbmdzIgogICAgICAgIHN1YmplY3RzIC0+IGFwaSAiRmV0Y2hlcyBzdWJqZWN0cyIKICAgICAgICBjYWxlbmRhciAtPiBhcGkgIkZldGNoZXMgc3ViamVjdHMiCiAgICAgICAgc2NoZWR1bGUgLT4gYXBpICJGZXRjaGVzIGRhdGEiCiAgICAgICAgbm90aWZpY2F0aW9uQ2xpZW50IC0+IGFwaSAiU2VuZCByZXF1ZXN0IGZvciBhbnkgYWxlcnRzIgogICAgICAgIAogICAgICAgICMgZGVwbG95bWVudCAKICAgICAgICBkZXBsb3ltZW50RW52aXJvbm1lbnQgImRlcGxveW1lbnREaWFncmFtIiAgICB7CiAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJVc2VyJ3MgV2ViIFNlcnZlciIgIiIgIiIgICAgewogICAgICAgICAgICAgICAgY2xpZW50QXBwSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBjbGllbnQKICAgICAgICAgICAgfQogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiQXBwbGljYXRpb24gU2VydmVyIDEiICIiICJVYnVudHUgMTguMDQgTFRTIiAgIHsKICAgICAgICAgICAgICAgIGRlcGxveW1lbnROb2RlICJXZWIgc2VydmVyIiAiIiAiQXBhY2hlIFRvbWNhdCAxMC4xLjE1IiAgewogICAgICAgICAgICAgICAgICAgIHdlYmFwcEluc3RhbmNlID0gY29udGFpbmVySW5zdGFuY2Ugd2ViYXBwCiAgICAgICAgICAgICAgICAgICAgYXBpSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBhcGkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSAgICAgICAgICAgIAogICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiRGF0YWJhc2UgU2VydmVyIiAiIiAiVWJ1bnR1IDE4LjA0IExUUyIgICB7CiAgICAgICAgICAgICAgICBkZXBsb3ltZW50Tm9kZSAiUmVsYXRpb25hbCBEQiIgIiIgIk9yYWNsZSAxOS4xLjAiIHsKICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZURCSW5zdGFuY2UgPSBjb250YWluZXJJbnN0YW5jZSBkYgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0KICAgIH0KCiAgICB2aWV3cyB7CiAgICAgICAgc3lzdGVtQ29udGV4dCBzY2hlZHVsZVN5c3RlbSAiU2NoZWR1bGVTdHlzdGVtIiAiU2NoZWR1bGVTdHlzdGVtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIgLT4gc2NoZWR1bGVTeXN0ZW0iCiAgICAgICAgICAgIGV4Y2x1ZGUgInVzZXIiCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgc2NoZWR1bGVTeXN0ZW0gIkNvbnRhaW5lcnMiewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgIyBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQogICAgICAgIAogICAgICAgIGNvbXBvbmVudCBjbGllbnQgImNsaWVudERpYWdyYW0iewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgd2ViYXBwICJ3ZWJhcHBEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBjb21wb25lbnQgYXBpICJhcGlEaWFncmFtInsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgICMgYXV0b2xheW91dCBscgogICAgICAgIH0KICAgICAgICBkZXBsb3ltZW50IHNjaGVkdWxlU3lzdGVtICJkZXBsb3ltZW50RGlhZ3JhbSIgImRlcGxveW1lbnREaWFncmFtIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBhdXRvbGF5b3V0IGxyCiAgICAgICAgfQoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICAgICAgCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAiRXhpc3RpbmcgU3lzdGVtIiB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kICM5OTk5OTkKICAgICAgICAgICAgICAgIGNvbG9yICNmZmZmZmYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbGVtZW50ICJXZWIgRnJvbnQtRW5kIiAgewogICAgICAgICAgICAgICAgc2hhcGUgV2ViQnJvd3NlcgogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsZW1lbnQgIkRhdGFiYXNlIiAgewogICAgICAgICAgICAgICAgc2hhcGUgQ3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K"
   },
@@ -20,7 +20,7 @@
         "id" : "24",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "487d22a8-ddeb-41d6-bcb2-a0837ad4c2cb"
+          "structurizr.dsl.identifier" : "e2da3c79-2507-4fbc-941b-ce952c80fd16"
         },
         "sourceId" : "1",
         "destinationId" : "13",
@@ -45,7 +45,7 @@
         "id" : "42",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "f8752de2-a7c9-4c58-9355-99976fee2659"
+          "structurizr.dsl.identifier" : "08ca71c2-410d-405a-8aca-cc4f47c9a636"
         },
         "sourceId" : "2",
         "destinationId" : "6",
@@ -64,7 +64,7 @@
         "id" : "43",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "31c53bb2-2563-4d74-a7ab-3a2c44133aee"
+          "structurizr.dsl.identifier" : "8b6d4a0d-a85f-46e6-b331-c0a41269e445"
         },
         "sourceId" : "3",
         "destinationId" : "6",
@@ -83,7 +83,7 @@
         "id" : "44",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "754ef27c-d2f1-4ea2-9d8f-88697f79d1fb"
+          "structurizr.dsl.identifier" : "9dca4e54-7448-4494-8a2e-e293169eb3ba"
         },
         "sourceId" : "4",
         "destinationId" : "6",
@@ -112,7 +112,7 @@
         "id" : "39",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "51425a81-cbce-48bc-830b-7128becf6145"
+          "structurizr.dsl.identifier" : "8d4a605b-a01b-42b2-8eb3-63af862ed447"
         },
         "sourceId" : "6",
         "destinationId" : "33",
@@ -121,7 +121,7 @@
         "id" : "40",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "9767d600-4e97-41a1-b281-aff989d0b457"
+          "structurizr.dsl.identifier" : "f04210ae-7550-47ff-9567-887f70ae1df2"
         },
         "sourceId" : "6",
         "destinationId" : "35",
@@ -130,7 +130,7 @@
         "id" : "41",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "4480444c-e71b-4bb9-8e3d-aad4b67bc740"
+          "structurizr.dsl.identifier" : "197b51bd-d71f-4e04-88a4-c69145ff8bce"
         },
         "sourceId" : "6",
         "destinationId" : "37",
@@ -138,6 +138,15 @@
       } ],
       "location" : "Unspecified",
       "containers" : [ {
+        "id" : "32",
+        "tags" : "Element,Container,Database",
+        "properties" : {
+          "structurizr.dsl.identifier" : "db"
+        },
+        "name" : "Schedule Database",
+        "description" : "Store schedule, history, forms",
+        "documentation" : { }
+      }, {
         "id" : "7",
         "tags" : "Element,Container",
         "properties" : {
@@ -149,7 +158,7 @@
           "id" : "57",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "dc2271d1-4ee2-4a30-bcfd-97d3470d4f01"
+            "structurizr.dsl.identifier" : "dfaa1f3c-e68e-49dd-9fce-c7b36ec7bebb"
           },
           "sourceId" : "7",
           "destinationId" : "26",
@@ -158,7 +167,7 @@
           "id" : "74",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "834bca69-c564-4579-b26d-9c51d926ceec"
+            "structurizr.dsl.identifier" : "68089341-ead2-47a4-b89e-c3865a9bf5f9"
           },
           "sourceId" : "7",
           "destinationId" : "29",
@@ -167,7 +176,7 @@
           "id" : "76",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "4957019f-d453-49ff-8534-87c4cde05359"
+            "structurizr.dsl.identifier" : "a8eb2cf9-4273-48be-ac5a-7046e0c7f912"
           },
           "sourceId" : "7",
           "destinationId" : "27",
@@ -176,13 +185,70 @@
           "id" : "77",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "826ccb7d-aeaa-4355-bfbd-acdf20a0ead6"
+            "structurizr.dsl.identifier" : "d0d25a6c-7a24-45d9-b81b-54665fc3fa71"
           },
           "sourceId" : "7",
           "destinationId" : "28",
           "description" : "Request data"
         } ],
         "components" : [ {
+          "id" : "9",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "scheduleanalyzer"
+          },
+          "name" : "Schedule analyzer",
+          "description" : "Analyze schedule.",
+          "relationships" : [ {
+            "id" : "62",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "ce63cf19-a349-4fbe-8db4-1b67e5de3fa1"
+            },
+            "sourceId" : "9",
+            "destinationId" : "11",
+            "description" : "Send response"
+          } ],
+          "technology" : "Python analyzer",
+          "documentation" : { }
+        }, {
+          "id" : "11",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "schedulemanager"
+          },
+          "name" : "Schedule Manager",
+          "description" : "Create/Delete/Update Schedule",
+          "relationships" : [ {
+            "id" : "60",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "6f64dd0b-f342-48a7-bc4d-4785b4664910"
+            },
+            "sourceId" : "11",
+            "destinationId" : "26",
+            "description" : "Fetch data"
+          }, {
+            "id" : "61",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "ff15badd-e34f-486e-a752-751f61bd8cda"
+            },
+            "sourceId" : "11",
+            "destinationId" : "9",
+            "description" : "Validate schedule"
+          }, {
+            "id" : "64",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "0adfca28-fcd3-4c5e-bf1c-ce00befda22f"
+            },
+            "sourceId" : "11",
+            "destinationId" : "10",
+            "description" : "Request to create notification"
+          } ],
+          "documentation" : { }
+        }, {
           "id" : "8",
           "tags" : "Element,Component",
           "properties" : {
@@ -194,7 +260,7 @@
             "id" : "59",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "20945473-9d7c-4745-9c51-d976debc3012"
+              "structurizr.dsl.identifier" : "4fd7f97c-9dd7-4c0c-bc9a-946716814dc1"
             },
             "sourceId" : "8",
             "destinationId" : "11",
@@ -213,7 +279,7 @@
             "id" : "63",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "017c7a75-7d38-4ca7-a305-0c56ed114c44"
+              "structurizr.dsl.identifier" : "78f9cfbc-7ca0-4795-8770-1596ac3b6c9b"
             },
             "sourceId" : "10",
             "destinationId" : "26",
@@ -222,69 +288,12 @@
             "id" : "66",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "423e1b36-839f-4666-baf3-8ab1133fa681"
+              "structurizr.dsl.identifier" : "3d1e80fa-0cf6-434a-baa3-7de972b2d301"
             },
             "sourceId" : "10",
             "destinationId" : "12",
             "description" : "Request to send email"
           } ],
-          "documentation" : { }
-        }, {
-          "id" : "11",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "schedulemanager"
-          },
-          "name" : "Schedule Manager",
-          "description" : "Create/Delete/Update Schedule",
-          "relationships" : [ {
-            "id" : "60",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "115ff60b-d24e-4df5-8938-82e0d532a91b"
-            },
-            "sourceId" : "11",
-            "destinationId" : "26",
-            "description" : "Fetch data"
-          }, {
-            "id" : "61",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "95dee0df-1efb-4dfa-8989-f6445a79536a"
-            },
-            "sourceId" : "11",
-            "destinationId" : "9",
-            "description" : "Validate schedule"
-          }, {
-            "id" : "64",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "3f3b7306-3c37-47a4-bf3f-77f84af4a97f"
-            },
-            "sourceId" : "11",
-            "destinationId" : "10",
-            "description" : "Request to create notification"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "9",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "scheduleanalyzer"
-          },
-          "name" : "Schedule analyzer",
-          "description" : "Analyze schedule.",
-          "relationships" : [ {
-            "id" : "62",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "b2008add-ddf7-4498-961f-f3cbcab518cf"
-            },
-            "sourceId" : "9",
-            "destinationId" : "11",
-            "description" : "Send response"
-          } ],
-          "technology" : "Python analyzer",
           "documentation" : { }
         }, {
           "id" : "12",
@@ -298,7 +307,7 @@
             "id" : "67",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "e48f1a8a-ceda-4216-af5e-4995a72aede6"
+              "structurizr.dsl.identifier" : "70b60bee-4d67-44fa-bf0a-12917bd8effa"
             },
             "sourceId" : "12",
             "destinationId" : "26",
@@ -319,7 +328,7 @@
           "id" : "55",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "9eaa1638-5176-4799-9e3f-e8c45ec6fcec"
+            "structurizr.dsl.identifier" : "af04f67d-fef5-4e06-9f9b-4bcbd4226d05"
           },
           "sourceId" : "13",
           "destinationId" : "26",
@@ -328,27 +337,186 @@
           "id" : "68",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "e70f828c-8810-4f9f-a09a-7d7c459f762a"
+            "structurizr.dsl.identifier" : "834dacfa-f635-42e9-91c4-89c61a81046c"
           },
           "sourceId" : "13",
           "destinationId" : "30",
           "description" : "Request data"
         } ],
         "components" : [ {
-          "id" : "16",
+          "id" : "17",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "teacherview"
+            "structurizr.dsl.identifier" : "studentview"
           },
-          "name" : "Teacher View",
-          "description" : "Provide functionality for teacher in web browser such as requesting schedule",
+          "name" : "Student View",
+          "description" : "Provide functionality for student in web browser such as viewing schedule",
           "relationships" : [ {
-            "id" : "94",
+            "id" : "95",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "c60c4bc7-a374-4db0-9cba-d59ccc76bb03"
+              "structurizr.dsl.identifier" : "423076ab-178c-465d-9f3a-decbc48dc566"
             },
-            "sourceId" : "16",
+            "sourceId" : "17",
+            "destinationId" : "14",
+            "description" : "Get content"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "21",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "schedule"
+          },
+          "name" : "Schedule",
+          "description" : "Display teacher and student schedule",
+          "relationships" : [ {
+            "id" : "100",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "1e9421e3-6306-4d78-801d-ab2b91910f22"
+            },
+            "sourceId" : "21",
+            "destinationId" : "26",
+            "description" : "Fetches data"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "22",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "notificationclient"
+          },
+          "name" : "Notifications",
+          "description" : "A part of the view displaying alerts via API",
+          "relationships" : [ {
+            "id" : "101",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "9ef81814-50f6-406a-aff9-73e5396bca9e"
+            },
+            "sourceId" : "22",
+            "destinationId" : "26",
+            "description" : "Send request for any alerts"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "19",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "subjects"
+          },
+          "name" : "List of Subjects (for Committee)",
+          "description" : "Display a list of subjects",
+          "relationships" : [ {
+            "id" : "98",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "88f8cb1c-6cd8-44ee-8e03-7ca5f52dfec1"
+            },
+            "sourceId" : "19",
+            "destinationId" : "26",
+            "description" : "Fetches subjects"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "14",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "viewcontroller"
+          },
+          "name" : "View Controller",
+          "description" : "Provide view for different users (Committee, Teacher, Student)",
+          "relationships" : [ {
+            "id" : "87",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "763a4a46-76e5-4569-bae5-f7ea66736476"
+            },
+            "sourceId" : "14",
+            "destinationId" : "18",
+            "description" : "Gets component"
+          }, {
+            "id" : "88",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "2585679e-ff3d-4462-ab1d-6bca7c7f85e0"
+            },
+            "sourceId" : "14",
+            "destinationId" : "19",
+            "description" : "Gets component"
+          }, {
+            "id" : "89",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "22725a5a-8b3a-44b7-9844-a64b0be698cf"
+            },
+            "sourceId" : "14",
+            "destinationId" : "20",
+            "description" : "Gets user data"
+          }, {
+            "id" : "90",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "ea4b1fd0-b388-4f4f-a953-7935417f6e98"
+            },
+            "sourceId" : "14",
+            "destinationId" : "23",
+            "description" : "Get component"
+          }, {
+            "id" : "91",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "d509651f-eb24-4f9e-b218-40cf493b57e9"
+            },
+            "sourceId" : "14",
+            "destinationId" : "21",
+            "description" : "Get component"
+          }, {
+            "id" : "92",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "29b122aa-911e-4cb9-9b60-60729f4aef5e"
+            },
+            "sourceId" : "14",
+            "destinationId" : "22",
+            "description" : "Get component"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "23",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "form"
+          },
+          "name" : "Requested Form",
+          "description" : "Request preferred schedule by teacher to committee",
+          "relationships" : [ {
+            "id" : "96",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "c6202848-b9fe-4a1b-bcf2-ccd3369272ab"
+            },
+            "sourceId" : "23",
+            "destinationId" : "26",
+            "description" : "Post request"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "15",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "committeeview"
+          },
+          "name" : "Committee View",
+          "description" : "Provide functionality for committee in web browser such as create, validate, or change schedule",
+          "relationships" : [ {
+            "id" : "93",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "a1e31773-c9dc-4818-b7e0-cf2f494ec5a0"
+            },
+            "sourceId" : "15",
             "destinationId" : "14",
             "description" : "Get content"
           } ],
@@ -364,7 +532,7 @@
             "id" : "97",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "63a62b6b-911e-4162-afe8-e705dd4b98b5"
+              "structurizr.dsl.identifier" : "e721e823-fb12-4d5a-bb97-9ce6e21790b2"
             },
             "sourceId" : "20",
             "destinationId" : "26",
@@ -372,60 +540,22 @@
           } ],
           "documentation" : { }
         }, {
-          "id" : "23",
+          "id" : "16",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "form"
+            "structurizr.dsl.identifier" : "teacherview"
           },
-          "name" : "Requested Form",
-          "description" : "Request preferred schedule by teacher to committee",
+          "name" : "Teacher View",
+          "description" : "Provide functionality for teacher in web browser such as requesting schedule",
           "relationships" : [ {
-            "id" : "96",
+            "id" : "94",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "8366eda9-179f-4291-a066-c381c919437f"
+              "structurizr.dsl.identifier" : "35dd8faf-e9ce-49b7-aaad-2ac2ef2d723e"
             },
-            "sourceId" : "23",
-            "destinationId" : "26",
-            "description" : "Post request"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "19",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "subjects"
-          },
-          "name" : "List of Subjects (for Committee)",
-          "description" : "Display a list of subjects",
-          "relationships" : [ {
-            "id" : "98",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "504494a1-7dac-4231-8344-36d942ede575"
-            },
-            "sourceId" : "19",
-            "destinationId" : "26",
-            "description" : "Fetches subjects"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "22",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "notificationclient"
-          },
-          "name" : "Notifications",
-          "description" : "A part of the view displaying alerts via API",
-          "relationships" : [ {
-            "id" : "101",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "1b62f8de-6621-453b-980c-fcd505b63736"
-            },
-            "sourceId" : "22",
-            "destinationId" : "26",
-            "description" : "Send request for any alerts"
+            "sourceId" : "16",
+            "destinationId" : "14",
+            "description" : "Get content"
           } ],
           "documentation" : { }
         }, {
@@ -440,132 +570,11 @@
             "id" : "99",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "6a8e9235-9959-4874-8869-71d56b4c06e1"
+              "structurizr.dsl.identifier" : "bca8a700-69b3-4552-ac23-ce3b84fe0063"
             },
             "sourceId" : "18",
             "destinationId" : "26",
             "description" : "Fetches subjects"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "17",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "studentview"
-          },
-          "name" : "Student View",
-          "description" : "Provide functionality for student in web browser such as viewing schedule",
-          "relationships" : [ {
-            "id" : "95",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "385c4552-a0a6-4e30-9067-f58dd0c691ce"
-            },
-            "sourceId" : "17",
-            "destinationId" : "14",
-            "description" : "Get content"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "15",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "committeeview"
-          },
-          "name" : "Committee View",
-          "description" : "Provide functionality for committee in web browser such as create, validate, or change schedule",
-          "relationships" : [ {
-            "id" : "93",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "2ae38523-6e51-4f2d-b7ce-bbb980c7ab4f"
-            },
-            "sourceId" : "15",
-            "destinationId" : "14",
-            "description" : "Get content"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "14",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "viewcontroller"
-          },
-          "name" : "View Controller",
-          "description" : "Provide view for different users (Committee, Teacher, Student)",
-          "relationships" : [ {
-            "id" : "87",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "6d4021a1-0c56-4608-b2b9-618f0c359f35"
-            },
-            "sourceId" : "14",
-            "destinationId" : "18",
-            "description" : "Gets component"
-          }, {
-            "id" : "88",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "71174e5a-9795-47c6-bc4c-b3e5f9bbe6f1"
-            },
-            "sourceId" : "14",
-            "destinationId" : "19",
-            "description" : "Gets component"
-          }, {
-            "id" : "89",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "8eeacf76-5d96-4ce9-85c1-4c1acd33798e"
-            },
-            "sourceId" : "14",
-            "destinationId" : "20",
-            "description" : "Gets user data"
-          }, {
-            "id" : "90",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "2d0140a9-602a-4dfb-a423-ba270b3d7c3c"
-            },
-            "sourceId" : "14",
-            "destinationId" : "23",
-            "description" : "Get component"
-          }, {
-            "id" : "91",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "c2f6eb3f-cb93-4e02-a7db-1d1438234090"
-            },
-            "sourceId" : "14",
-            "destinationId" : "21",
-            "description" : "Get component"
-          }, {
-            "id" : "92",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "7d169e6a-1927-4a1b-a289-26930da8aaeb"
-            },
-            "sourceId" : "14",
-            "destinationId" : "22",
-            "description" : "Get component"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "21",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "schedule"
-          },
-          "name" : "Schedule",
-          "description" : "Display teacher and student schedule",
-          "relationships" : [ {
-            "id" : "100",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "b9c61cbc-b44e-413e-bb70-fa6b3570c61f"
-            },
-            "sourceId" : "21",
-            "destinationId" : "26",
-            "description" : "Fetches data"
           } ],
           "documentation" : { }
         } ],
@@ -582,7 +591,7 @@
           "id" : "45",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "3a49d97b-3c21-4c25-86b2-ffb183dc0d3f"
+            "structurizr.dsl.identifier" : "c29bc1a4-a0f4-4b9b-9022-147b51de1466"
           },
           "sourceId" : "26",
           "destinationId" : "32",
@@ -591,7 +600,7 @@
           "id" : "46",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "96c8e571-5509-4d2b-aed7-2472904f1495"
+            "structurizr.dsl.identifier" : "4f9aeb4d-717a-45ce-afba-40ecbc113344"
           },
           "sourceId" : "26",
           "destinationId" : "33",
@@ -600,7 +609,7 @@
           "id" : "47",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "1f23eb18-f3b7-4112-a9f2-00a9c2bb2abe"
+            "structurizr.dsl.identifier" : "c83977a6-2e01-4640-8c8f-ee4354e063ee"
           },
           "sourceId" : "26",
           "destinationId" : "35",
@@ -609,7 +618,7 @@
           "id" : "48",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "59984647-d715-4b00-9a30-c3bf40f2ee03"
+            "structurizr.dsl.identifier" : "0bd1e570-8cfe-4062-a44c-c64f5d895137"
           },
           "sourceId" : "26",
           "destinationId" : "37",
@@ -618,7 +627,7 @@
           "id" : "56",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "d2a83f08-d67e-4500-beb5-5e6ed8030962"
+            "structurizr.dsl.identifier" : "4e7c715a-e7ae-4eaa-a142-5178e14f746b"
           },
           "sourceId" : "26",
           "destinationId" : "7",
@@ -627,7 +636,7 @@
           "id" : "58",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "7ba05ece-ba7a-4315-b927-974790862b98"
+            "structurizr.dsl.identifier" : "dc50a63f-457f-4e56-8c02-849b2804b620"
           },
           "sourceId" : "26",
           "destinationId" : "8",
@@ -636,7 +645,7 @@
           "id" : "65",
           "tags" : "Relationship",
           "properties" : {
-            "structurizr.dsl.identifier" : "c91d27a8-b2e0-4edf-a9dc-562d40499bf3"
+            "structurizr.dsl.identifier" : "9c990238-21ce-4426-8b58-30c6a07e4004"
           },
           "sourceId" : "26",
           "destinationId" : "11",
@@ -649,58 +658,22 @@
           "linkedRelationshipId" : "69"
         } ],
         "components" : [ {
-          "id" : "28",
+          "id" : "30",
           "tags" : "Element,Component",
           "properties" : {
-            "structurizr.dsl.identifier" : "externalapi"
+            "structurizr.dsl.identifier" : "ana"
           },
-          "name" : "External API",
-          "description" : "Communicate with external systems",
+          "name" : "Authentication and Authorization",
+          "description" : "Implement security measures to ensure that only authorized users can access or modify data. This might involve OAuth tokens, API keys, or other security protocols.",
           "relationships" : [ {
-            "id" : "78",
+            "id" : "71",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "bca8daaa-fc26-466a-9a3b-5fa2d9af3313"
+              "structurizr.dsl.identifier" : "4442a861-85ac-4d75-867e-90a8f37f0104"
             },
-            "sourceId" : "28",
-            "destinationId" : "31",
-            "description" : "Send External Data"
-          }, {
-            "id" : "79",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "f54eec7e-5f3c-4e10-99d9-d005b53011ab"
-            },
-            "sourceId" : "28",
-            "destinationId" : "7",
-            "description" : "Request Data"
-          }, {
-            "id" : "81",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "d66a2e8f-cc6a-47f7-87f1-b6949b308dc6"
-            },
-            "sourceId" : "28",
-            "destinationId" : "33",
-            "description" : "Request Data"
-          }, {
-            "id" : "83",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "5f1f993f-2c5a-425a-8d04-b238bccb9a42"
-            },
-            "sourceId" : "28",
-            "destinationId" : "35",
-            "description" : "Request Data"
-          }, {
-            "id" : "85",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "fef0818e-6485-4579-93b1-52b6c2c55631"
-            },
-            "sourceId" : "28",
-            "destinationId" : "37",
-            "description" : "Request Data"
+            "sourceId" : "30",
+            "destinationId" : "27",
+            "description" : "Authenticate User Request"
           } ],
           "documentation" : { }
         }, {
@@ -715,7 +688,7 @@
             "id" : "73",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "c52a5f4b-355d-4a1f-844d-597fdc26a6c8"
+              "structurizr.dsl.identifier" : "9dbd4336-ffa5-41f7-96e6-986049c50662"
             },
             "sourceId" : "29",
             "destinationId" : "32",
@@ -724,49 +697,11 @@
             "id" : "75",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "1ffa6b9b-92f0-4bbf-a8e5-7dcfb9c4710f"
+              "structurizr.dsl.identifier" : "5d9e7257-3178-423d-bece-46bdd27928f2"
             },
             "sourceId" : "29",
             "destinationId" : "7",
             "description" : "Send data"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "30",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "ana"
-          },
-          "name" : "Authentication and Authorization",
-          "description" : "Implement security measures to ensure that only authorized users can access or modify data. This might involve OAuth tokens, API keys, or other security protocols.",
-          "relationships" : [ {
-            "id" : "71",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "d2bcbea9-44eb-47f6-b67a-1c6d06e4aaca"
-            },
-            "sourceId" : "30",
-            "destinationId" : "27",
-            "description" : "Authenticate User Request"
-          } ],
-          "documentation" : { }
-        }, {
-          "id" : "31",
-          "tags" : "Element,Component",
-          "properties" : {
-            "structurizr.dsl.identifier" : "datavalidation"
-          },
-          "name" : "External Data Validation",
-          "description" : "Validate incoming data for correctness and completeness before it is processed or stored",
-          "relationships" : [ {
-            "id" : "80",
-            "tags" : "Relationship",
-            "properties" : {
-              "structurizr.dsl.identifier" : "9a25c273-5dfa-4f44-9744-d63847cc933c"
-            },
-            "sourceId" : "31",
-            "destinationId" : "7",
-            "description" : "External Data Validation Results"
           } ],
           "documentation" : { }
         }, {
@@ -781,7 +716,7 @@
             "id" : "69",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "8b693125-6b8b-4f99-b9a7-d598062992ea"
+              "structurizr.dsl.identifier" : "d8a34be9-eaeb-42a4-8060-d405a7754f3a"
             },
             "sourceId" : "27",
             "destinationId" : "13",
@@ -790,23 +725,88 @@
             "id" : "72",
             "tags" : "Relationship",
             "properties" : {
-              "structurizr.dsl.identifier" : "7cc174df-ef3a-4225-bbfb-1affab053500"
+              "structurizr.dsl.identifier" : "05eaaf93-c61c-46c4-8f83-cfc340305a8d"
             },
             "sourceId" : "27",
             "destinationId" : "7",
             "description" : "Send Request"
           } ],
           "documentation" : { }
+        }, {
+          "id" : "31",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "datavalidation"
+          },
+          "name" : "External Data Validation",
+          "description" : "Validate incoming data for correctness and completeness before it is processed or stored",
+          "relationships" : [ {
+            "id" : "80",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "90c6bd05-ac2a-43fe-9972-f71ab45990aa"
+            },
+            "sourceId" : "31",
+            "destinationId" : "7",
+            "description" : "External Data Validation Results"
+          } ],
+          "documentation" : { }
+        }, {
+          "id" : "28",
+          "tags" : "Element,Component",
+          "properties" : {
+            "structurizr.dsl.identifier" : "externalapi"
+          },
+          "name" : "External API",
+          "description" : "Communicate with external systems",
+          "relationships" : [ {
+            "id" : "78",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "0bb0d3fc-a169-4086-b0c4-e00f40ad7db0"
+            },
+            "sourceId" : "28",
+            "destinationId" : "31",
+            "description" : "Send External Data"
+          }, {
+            "id" : "79",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "df7ecdfe-9d58-41fe-99b9-bb3a02f4a450"
+            },
+            "sourceId" : "28",
+            "destinationId" : "7",
+            "description" : "Request Data"
+          }, {
+            "id" : "81",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "716eeea2-ccc2-46fa-b0ec-61e81ebbbfa0"
+            },
+            "sourceId" : "28",
+            "destinationId" : "33",
+            "description" : "Request Data"
+          }, {
+            "id" : "83",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "1085758e-0bad-41fe-aae8-3b3890bcec4d"
+            },
+            "sourceId" : "28",
+            "destinationId" : "35",
+            "description" : "Request Data"
+          }, {
+            "id" : "85",
+            "tags" : "Relationship",
+            "properties" : {
+              "structurizr.dsl.identifier" : "b27ddec6-164f-4937-9c4f-e89cacfa4eff"
+            },
+            "sourceId" : "28",
+            "destinationId" : "37",
+            "description" : "Request Data"
+          } ],
+          "documentation" : { }
         } ],
-        "documentation" : { }
-      }, {
-        "id" : "32",
-        "tags" : "Element,Container,Database",
-        "properties" : {
-          "structurizr.dsl.identifier" : "db"
-        },
-        "name" : "Schedule Database",
-        "description" : "Store schedule, history, forms",
         "documentation" : { }
       } ],
       "documentation" : {
@@ -822,7 +822,7 @@
           "order" : 2,
           "title" : ""
         }, {
-          "content" : "## Views\n\n### Web Application\n\nThe Schedule System's Web Application is a core component of the Schedule System, \nintricately designed to handle various aspects of schedule logic. It designed to \nstreamline the process of creating, analyzing, and validating academic schedules.\n\n**Components of the Web Application**\n\n- Form Manager: Handles the submission and management of forms by Teachers, where\neach teacher can send a form for requestting changes of his schedule.\n\n- Schedule Analyzer: A component that analyzes and validates the schedules, ensuring\nthey meet set criteria and constraints, such as time slots, teacher availability, \nand room assignments.\n\n- Notificator: It keeps all users informed by sending out timely notifications about\nschedule updates, changes, or important alerts. This feature is vital for maintaining \nclear communication within the system.\n\n- Schedule Manager: At the heart of the application, this component oversees the \ncreation, updating, and deletion of schedules. It ensures that the scheduling process \nruns smoothly and efficiently.\n\n- Email Sender: Facilitates communication by sending out email notifications, \nworking in tandem with the Notificator to ensure timely and accurate information \ndissemination.\n\n![](embed:webappDiagram)\n\n### Client Application\n\nThe Client Application in the Schedule System serves as a presentation layer of our \nSystem, providing an interactive and intuitive interface for Committee members, Teachers, \nand Students.The controller determines which component to show to the user, constructs \ncomponents using data from database extracted via the API and shows the user\n\n**Components of the Client Application**\n\n- **View Controller**: This component acts as the central hub for managing the user interface. \nIt dynamically provides the appropriate view based on the user type – Committee, Teacher, \nor Student.\n\n- **Committee View**: Tailored for committee members, this component offers functionalities \nlike creating, validating, or changing schedules. It's designed for users who manage and \noversee the scheduling process.\n\n- **Teacher View**: This component is customized for teachers, allowing them to view their \nschedules and submit requests for schedule changes.\n\n- **Student View**: Designed for students, this component enables them to view their class \nschedules. It's a straightforward interface focused on accessibility and clarity.\n\n- **Calendar**: Specifically for Committee use, this component displays the schedule in a \ncalendar view, making it easier to visualize and manage time slots and assignments.\n\n- **List of Subjects**: Another feature for the Committee, this component displays a \ncomprehensive list of subjects, aiding in the scheduling process. Upon selecting a \nsubject, Committee members can seamlessly switch to the Calendar component. This integration \nallows for a smooth transition from viewing the list of subjects to visualizing them in the \ncalendar, aiding in efficient schedule planning.\n\n- **User Settings**: This component allows all users to customize settings, manage profiles,\n and configure preferences, enhancing the overall user experience.\n\n- **Schedule Display**: A vital component for Teachers and Students, it shows their respective \nschedules in an easy-to-understand format.\n\n- **Notifications**: Integrated within the application, this component alerts users about schedule \nchanges, updates, or other important information.\n\n- **Requested Form**: Available to Teachers, this component allows them to submit forms requesting\nschedule changes, which are then processed by the system.\n\n![](embed:clientDiagram)\n\n### API\n\n#### Overview\n\nThe API container serves as the integrative core of the Schedule System, orchestrating the flow of data between internal components and external systems. It manages incoming and outgoing requests, ensuring that each component of the Schedule System communicates effectively. The API container's role encompasses the authentication of requests, validation of data, and the provision of a structured conduit through which all data passes, thus maintaining the system's integrity and operational efficiency.\n\n#### Responsibilities\n\nThe API container is responsible for:\n\n- Managing the bidirectional routing of requests and data between the Client Application and the Web Application.\n- Offering the means for the Web Application to interface with the Schedule Database, allowing for efficient data querying and updates.\n- Handling authentication and authorization to ensure secure access to the system's functionalities.\n- Serving as an intermediary between the system and external systems, such as the Enrollment, Student, and Building Systems.\n- Validating incoming data to maintain the integrity of the information processed by the system.\n\n#### Components\n\n**Authentication and Authorization (A&A)**\n\n- **Description:** Enforces security by managing user access rights.\n- **Functionality:** Validates user credentials and determines the user's permissions for specific actions within the system. Upon confirming that the user is permitted to perform the requested operation, A&A forwards the request to the Internal API.\n\n**Internal API**\n\n- **Description:** Manages communication between the Client Application and the Web Application.\n- **Functionality:**\n    - Receives data requests that have been validated and authorized by A&A from the Client Application.\n    - Directs these verified requests to the Web Application and conveys the results back to the originating Client Application.\n\n**External API**\n\n- **Description:** Manages the exchange of data between the Schedule System and external systems.\n- **Functionality:**\n    - Sends requests from Web Application to and receives responses from external systems like the Enrollment, Student, and Building Systems.\n    - Coordinates with the External Data Validation component to ensure data integrity.\n\n**External Data Validation**\n\n- **Description:** Validates the correctness and completeness of incoming data.\n- **Functionality:**\n    - Validates and reformats data from external sources to meet the Web Application's requirements.\n    - Once validated and formatted, forwards the data to the Web Application for further processing.\n\n**Database API**\n\n- **Description:** Handles all interactions with the Schedule Database.\n- **Functionality:**\n    - Performs read and write operations to the database.\n    - Processes requests for data retrieval and storage from the Web Application.\n\n![](embed:apiDiagram)\n\n### Deployment\n\nOur deployment topology are\n- User's Web Server: Serves as the front-end for user interactions.\n- Application Server: Hosts web applications and APIs.\n- Database Server: Manages the relational database for scheduling.\n\n![](embed:deploymentDiagram)\n",
+          "content" : "## Views\n\n### Overview\n\n**Schedule System use a 3-tier architecture with API comprised of four interconnected components:**\n\n- Client Application: serves as a presentation layer of our system, providing an interactive and intuitive interface for Committee members, Teachers, and Students.\n- Web Application: a core component of the Schedule System, intricately designed to handle various aspects of schedule logic. It designed to streamline the process of creating, analyzing, and validating academic schedules. \n- API: serves as the integrative core of the Schedule System, orchestrating the flow of data between internal components and external systems. \n- Database: Store data\nCommittees, Teachers, Students use the Client Application to manage and view schedules. The Client Application sends user requests through the API to the Web Application, where the requested tasks are executed. The API plays a pivotal role in both internal communication and external data exchange with integrated systems.\n\n![](embed:Containers)\n\n### Web Application\n\nThe Schedule System's Web Application is a core component of the Schedule System, \nintricately designed to handle various aspects of schedule logic. It designed to \nstreamline the process of creating, analyzing, and validating academic schedules.\n\n**Components of the Web Application**\n\n- Form Manager: Handles the submission and management of forms by Teachers, where\neach teacher can send a form for requestting changes of his schedule.\n\n- Schedule Analyzer: A component that analyzes and validates the schedules, ensuring\nthey meet set criteria and constraints, such as time slots, teacher availability, \nand room assignments.\n\n- Notificator: It keeps all users informed by sending out timely notifications about\nschedule updates, changes, or important alerts. This feature is vital for maintaining \nclear communication within the system.\n\n- Schedule Manager: At the heart of the application, this component oversees the \ncreation, updating, and deletion of schedules. It ensures that the scheduling process \nruns smoothly and efficiently.\n\n- Email Sender: Facilitates communication by sending out email notifications, \nworking in tandem with the Notificator to ensure timely and accurate information \ndissemination.\n\n![](embed:webappDiagram)\n\n### API\n\n#### Overview\n\nThe API container serves as the integrative core of the Schedule System, orchestrating the flow of data between internal components and external systems. It manages incoming and outgoing requests, ensuring that each component of the Schedule System communicates effectively. The API container's role encompasses the authentication of requests, validation of data, and the provision of a structured conduit through which all data passes, thus maintaining the system's integrity and operational efficiency.\n\n#### Responsibilities\n\nThe API container is responsible for:\n\n- Managing the bidirectional routing of requests and data between the Client Application and the Web Application.\n- Offering the means for the Web Application to interface with the Schedule Database, allowing for efficient data querying and updates.\n- Handling authentication and authorization to ensure secure access to the system's functionalities.\n- Serving as an intermediary between the system and external systems, such as the Enrollment, Student, and Building Systems.\n- Validating incoming data to maintain the integrity of the information processed by the system.\n\n#### Components\n\n**Authentication and Authorization (A&A)**\n\n- **Description:** Enforces security by managing user access rights.\n- **Functionality:** Validates user credentials and determines the user's permissions for specific actions within the system. Upon confirming that the user is permitted to perform the requested operation, A&A forwards the request to the Internal API.\n\n**Internal API**\n\n- **Description:** Manages communication between the Client Application and the Web Application.\n- **Functionality:**\n    - Receives data requests that have been validated and authorized by A&A from the Client Application.\n    - Directs these verified requests to the Web Application and conveys the results back to the originating Client Application.\n\n**External API**\n\n- **Description:** Manages the exchange of data between the Schedule System and external systems.\n- **Functionality:**\n    - Sends requests from Web Application to and receives responses from external systems like the Enrollment, Student, and Building Systems.\n    - Coordinates with the External Data Validation component to ensure data integrity.\n\n**External Data Validation**\n\n- **Description:** Validates the correctness and completeness of incoming data.\n- **Functionality:**\n    - Validates and reformats data from external sources to meet the Web Application's requirements.\n    - Once validated and formatted, forwards the data to the Web Application for further processing.\n\n**Database API**\n\n- **Description:** Handles all interactions with the Schedule Database.\n- **Functionality:**\n    - Performs read and write operations to the database.\n    - Processes requests for data retrieval and storage from the Web Application.\n\n![](embed:apiDiagram)\n\n### Client Application\n\nThe Client Application in the Schedule System serves as a presentation layer of our \nSystem, providing an interactive and intuitive interface for Committee members, Teachers, \nand Students.The controller determines which component to show to the user, constructs \ncomponents using data from database extracted via the API and shows the user\n\n**Components of the Client Application**\n\n- **View Controller**: This component acts as the central hub for managing the user interface. \nIt dynamically provides the appropriate view based on the user type – Committee, Teacher, \nor Student.\n\n- **Committee View**: Tailored for committee members, this component offers functionalities \nlike creating, validating, or changing schedules. It's designed for users who manage and \noversee the scheduling process.\n\n- **Teacher View**: This component is customized for teachers, allowing them to view their \nschedules and submit requests for schedule changes.\n\n- **Student View**: Designed for students, this component enables them to view their class \nschedules. It's a straightforward interface focused on accessibility and clarity.\n\n- **Calendar**: Specifically for Committee use, this component displays the schedule in a \ncalendar view, making it easier to visualize and manage time slots and assignments.\n\n- **List of Subjects**: Another feature for the Committee, this component displays a \ncomprehensive list of subjects, aiding in the scheduling process. Upon selecting a \nsubject, Committee members can seamlessly switch to the Calendar component. This integration \nallows for a smooth transition from viewing the list of subjects to visualizing them in the \ncalendar, aiding in efficient schedule planning.\n\n- **User Settings**: This component allows all users to customize settings, manage profiles,\n and configure preferences, enhancing the overall user experience.\n\n- **Schedule Display**: A vital component for Teachers and Students, it shows their respective \nschedules in an easy-to-understand format.\n\n- **Notifications**: Integrated within the application, this component alerts users about schedule \nchanges, updates, or other important information.\n\n- **Requested Form**: Available to Teachers, this component allows them to submit forms requesting\nschedule changes, which are then processed by the system.\n\n![](embed:clientDiagram)\n\n### Deployment\n\nOur deployment topology are\n- User's Web Server: Serves as the front-end for user interactions.\n- Application Server: Hosts web applications and APIs.\n- Database Server: Manages the relational database for scheduling.\n\n![](embed:deploymentDiagram)\n",
           "format" : "Markdown",
           "filename" : "03-views.md",
           "order" : 3,
@@ -841,7 +841,7 @@
         "id" : "49",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "c994900c-203c-483d-92af-6e723badcc44"
+          "structurizr.dsl.identifier" : "182ec394-2be9-4140-bb73-d3e9ddfc6f10"
         },
         "sourceId" : "33",
         "destinationId" : "26",
@@ -856,7 +856,7 @@
         "id" : "82",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "c1cb20f2-4d7a-484d-b8fc-85161c6bcfa0"
+          "structurizr.dsl.identifier" : "72035278-7d5b-4bdd-93e3-a2ae7022e778"
         },
         "sourceId" : "33",
         "destinationId" : "28",
@@ -886,7 +886,7 @@
         "id" : "51",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "8b7b8808-e5b6-4029-9891-12198c06b83e"
+          "structurizr.dsl.identifier" : "fec8b4f5-1418-40c7-98d6-8e1d7ee06e01"
         },
         "sourceId" : "35",
         "destinationId" : "26",
@@ -901,7 +901,7 @@
         "id" : "84",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "56cbe2d2-0c8b-4cc4-85e9-a294353ae289"
+          "structurizr.dsl.identifier" : "50139bfe-710a-403a-a56f-68918463ed31"
         },
         "sourceId" : "35",
         "destinationId" : "28",
@@ -931,7 +931,7 @@
         "id" : "53",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "4b14ec0e-85a3-4a80-a570-86b0c15b980f"
+          "structurizr.dsl.identifier" : "067db0c9-f28d-4064-aa41-733ce1132fe8"
         },
         "sourceId" : "37",
         "destinationId" : "26",
@@ -946,7 +946,7 @@
         "id" : "86",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "990eb1b4-cc80-402b-bbb2-703adacf5b54"
+          "structurizr.dsl.identifier" : "339dbc9f-3e9d-402b-9eba-88c517925aea"
         },
         "sourceId" : "37",
         "destinationId" : "28",
@@ -969,7 +969,7 @@
       "id" : "102",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "3c295ca3-003a-403d-8969-8a2aa58e2cd7"
+        "structurizr.dsl.identifier" : "a9c2fbce-d32a-4634-b2fa-c6664fcb3b0c"
       },
       "name" : "User's Web Server",
       "environment" : "deploymentDiagram",
@@ -996,7 +996,7 @@
       "id" : "104",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "f1aae73b-078a-4f80-b997-4b741082b3e7"
+        "structurizr.dsl.identifier" : "97e756c7-572a-4984-9b0d-126e0464d410"
       },
       "name" : "Application Server 1",
       "environment" : "deploymentDiagram",
@@ -1006,7 +1006,7 @@
         "id" : "105",
         "tags" : "Element,Deployment Node",
         "properties" : {
-          "structurizr.dsl.identifier" : "d5dbc04f-3e41-4bd2-9ef3-2fe675df1a03"
+          "structurizr.dsl.identifier" : "cd0b215f-7675-41f4-b4b2-5634a3c26032"
         },
         "name" : "Web server",
         "environment" : "deploymentDiagram",
@@ -1064,7 +1064,7 @@
       "id" : "112",
       "tags" : "Element,Deployment Node",
       "properties" : {
-        "structurizr.dsl.identifier" : "8c96b338-ea9e-44cf-8c80-a26e1c0a78dc"
+        "structurizr.dsl.identifier" : "1acce98f-5e8e-45ba-ac46-d371b77603ea"
       },
       "name" : "Database Server",
       "environment" : "deploymentDiagram",
@@ -1074,7 +1074,7 @@
         "id" : "113",
         "tags" : "Element,Deployment Node",
         "properties" : {
-          "structurizr.dsl.identifier" : "b2f2b57f-df51-496d-924e-c468ca4c564d"
+          "structurizr.dsl.identifier" : "1815f395-9a2d-4f64-91a1-2288a439cbb6"
         },
         "name" : "Relational DB",
         "environment" : "deploymentDiagram",
@@ -1229,13 +1229,13 @@
           "y" : 1542
         } ]
       }, {
+        "id" : "45"
+      }, {
         "id" : "56",
         "vertices" : [ {
           "x" : 2343,
           "y" : 1209
         } ]
-      }, {
-        "id" : "45"
       }, {
         "id" : "57",
         "vertices" : [ {
@@ -1257,204 +1257,6 @@
       } ]
     } ],
     "componentViews" : [ {
-      "key" : "apiDiagram",
-      "order" : 5,
-      "dimensions" : {
-        "width" : 3100,
-        "height" : 3128
-      },
-      "containerId" : "26",
-      "externalContainerBoundariesVisible" : true,
-      "elements" : [ {
-        "id" : "33",
-        "x" : 125,
-        "y" : 170
-      }, {
-        "id" : "35",
-        "x" : 110,
-        "y" : 875
-      }, {
-        "id" : "13",
-        "x" : 1315,
-        "y" : 25
-      }, {
-        "id" : "37",
-        "x" : 160,
-        "y" : 1650
-      }, {
-        "id" : "27",
-        "x" : 1750,
-        "y" : 600
-      }, {
-        "id" : "28",
-        "x" : 1000,
-        "y" : 1200
-      }, {
-        "id" : "7",
-        "x" : 2400,
-        "y" : 2460
-      }, {
-        "id" : "29",
-        "x" : 1000,
-        "y" : 1800
-      }, {
-        "id" : "30",
-        "x" : 1000,
-        "y" : 600
-      }, {
-        "id" : "31",
-        "x" : 1750,
-        "y" : 1200
-      }, {
-        "id" : "32",
-        "x" : 155,
-        "y" : 2515
-      } ],
-      "relationships" : [ {
-        "id" : "82"
-      }, {
-        "id" : "83",
-        "vertices" : [ {
-          "x" : 840,
-          "y" : 1075
-        } ]
-      }, {
-        "id" : "80"
-      }, {
-        "id" : "72",
-        "vertices" : [ {
-          "x" : 2575,
-          "y" : 1330
-        } ]
-      }, {
-        "id" : "81",
-        "vertices" : [ {
-          "x" : 805,
-          "y" : 595
-        } ]
-      }, {
-        "id" : "71"
-      }, {
-        "id" : "86",
-        "vertices" : [ {
-          "x" : 870,
-          "y" : 1685
-        } ]
-      }, {
-        "id" : "74"
-      }, {
-        "id" : "73"
-      }, {
-        "id" : "84",
-        "vertices" : [ {
-          "x" : 775,
-          "y" : 1240
-        } ]
-      }, {
-        "id" : "76",
-        "vertices" : [ {
-          "x" : 2355,
-          "y" : 1365
-        } ]
-      }, {
-        "id" : "85",
-        "vertices" : [ {
-          "x" : 756,
-          "y" : 1532
-        } ]
-      }, {
-        "id" : "75",
-        "vertices" : [ {
-          "x" : 1680,
-          "y" : 2310
-        } ]
-      }, {
-        "id" : "78"
-      }, {
-        "id" : "77",
-        "vertices" : [ {
-          "x" : 2025,
-          "y" : 1868
-        } ]
-      }, {
-        "id" : "69"
-      }, {
-        "id" : "79"
-      }, {
-        "id" : "68"
-      } ]
-    }, {
-      "key" : "webappDiagram",
-      "order" : 4,
-      "dimensions" : {
-        "width" : 3140,
-        "height" : 1828
-      },
-      "containerId" : "7",
-      "externalContainerBoundariesVisible" : true,
-      "elements" : [ {
-        "id" : "11",
-        "x" : 960,
-        "y" : 790
-      }, {
-        "id" : "12",
-        "x" : 2469,
-        "y" : 820
-      }, {
-        "id" : "26",
-        "x" : 1395,
-        "y" : 1450
-      }, {
-        "id" : "8",
-        "x" : 130,
-        "y" : 815
-      }, {
-        "id" : "9",
-        "x" : 1695,
-        "y" : 315
-      }, {
-        "id" : "10",
-        "x" : 1719,
-        "y" : 820
-      } ],
-      "relationships" : [ {
-        "id" : "61",
-        "vertices" : [ {
-          "x" : 1652,
-          "y" : 746
-        } ]
-      }, {
-        "id" : "60",
-        "vertices" : [ {
-          "x" : 1085,
-          "y" : 1270
-        } ]
-      }, {
-        "id" : "63"
-      }, {
-        "id" : "62",
-        "vertices" : [ {
-          "x" : 1485,
-          "y" : 497
-        } ]
-      }, {
-        "id" : "65"
-      }, {
-        "id" : "64"
-      }, {
-        "id" : "67"
-      }, {
-        "id" : "66"
-      }, {
-        "id" : "58",
-        "vertices" : [ {
-          "x" : 715,
-          "y" : 1285
-        } ]
-      }, {
-        "id" : "59"
-      } ]
-    }, {
       "key" : "clientDiagram",
       "order" : 3,
       "automaticLayout" : {
@@ -1536,13 +1338,211 @@
       }, {
         "id" : "100"
       }, {
-        "id" : "99"
-      }, {
         "id" : "88"
+      }, {
+        "id" : "99"
       }, {
         "id" : "101"
       }, {
         "id" : "89"
+      } ]
+    }, {
+      "key" : "apiDiagram",
+      "order" : 5,
+      "dimensions" : {
+        "width" : 3100,
+        "height" : 3128
+      },
+      "containerId" : "26",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "33",
+        "x" : 125,
+        "y" : 170
+      }, {
+        "id" : "13",
+        "x" : 1315,
+        "y" : 25
+      }, {
+        "id" : "35",
+        "x" : 110,
+        "y" : 875
+      }, {
+        "id" : "37",
+        "x" : 160,
+        "y" : 1650
+      }, {
+        "id" : "27",
+        "x" : 1750,
+        "y" : 600
+      }, {
+        "id" : "28",
+        "x" : 1000,
+        "y" : 1200
+      }, {
+        "id" : "29",
+        "x" : 1000,
+        "y" : 1800
+      }, {
+        "id" : "7",
+        "x" : 2400,
+        "y" : 2460
+      }, {
+        "id" : "30",
+        "x" : 1000,
+        "y" : 600
+      }, {
+        "id" : "31",
+        "x" : 1750,
+        "y" : 1200
+      }, {
+        "id" : "32",
+        "x" : 155,
+        "y" : 2515
+      } ],
+      "relationships" : [ {
+        "id" : "82"
+      }, {
+        "id" : "83",
+        "vertices" : [ {
+          "x" : 840,
+          "y" : 1075
+        } ]
+      }, {
+        "id" : "72",
+        "vertices" : [ {
+          "x" : 2575,
+          "y" : 1330
+        } ]
+      }, {
+        "id" : "80"
+      }, {
+        "id" : "71"
+      }, {
+        "id" : "81",
+        "vertices" : [ {
+          "x" : 805,
+          "y" : 595
+        } ]
+      }, {
+        "id" : "74"
+      }, {
+        "id" : "86",
+        "vertices" : [ {
+          "x" : 870,
+          "y" : 1685
+        } ]
+      }, {
+        "id" : "73"
+      }, {
+        "id" : "76",
+        "vertices" : [ {
+          "x" : 2355,
+          "y" : 1365
+        } ]
+      }, {
+        "id" : "84",
+        "vertices" : [ {
+          "x" : 775,
+          "y" : 1240
+        } ]
+      }, {
+        "id" : "75",
+        "vertices" : [ {
+          "x" : 1680,
+          "y" : 2310
+        } ]
+      }, {
+        "id" : "85",
+        "vertices" : [ {
+          "x" : 756,
+          "y" : 1532
+        } ]
+      }, {
+        "id" : "78"
+      }, {
+        "id" : "77",
+        "vertices" : [ {
+          "x" : 2025,
+          "y" : 1868
+        } ]
+      }, {
+        "id" : "69"
+      }, {
+        "id" : "68"
+      }, {
+        "id" : "79"
+      } ]
+    }, {
+      "key" : "webappDiagram",
+      "order" : 4,
+      "dimensions" : {
+        "width" : 3140,
+        "height" : 1828
+      },
+      "containerId" : "7",
+      "externalContainerBoundariesVisible" : true,
+      "elements" : [ {
+        "id" : "11",
+        "x" : 960,
+        "y" : 790
+      }, {
+        "id" : "12",
+        "x" : 2469,
+        "y" : 820
+      }, {
+        "id" : "26",
+        "x" : 1395,
+        "y" : 1450
+      }, {
+        "id" : "8",
+        "x" : 130,
+        "y" : 815
+      }, {
+        "id" : "9",
+        "x" : 1695,
+        "y" : 315
+      }, {
+        "id" : "10",
+        "x" : 1719,
+        "y" : 820
+      } ],
+      "relationships" : [ {
+        "id" : "61",
+        "vertices" : [ {
+          "x" : 1652,
+          "y" : 746
+        } ]
+      }, {
+        "id" : "60",
+        "vertices" : [ {
+          "x" : 1085,
+          "y" : 1270
+        } ]
+      }, {
+        "id" : "63"
+      }, {
+        "id" : "62",
+        "vertices" : [ {
+          "x" : 1485,
+          "y" : 497
+        } ]
+      }, {
+        "id" : "65"
+      }, {
+        "id" : "64"
+      }, {
+        "id" : "67"
+      }, {
+        "id" : "66"
+      }, {
+        "id" : "58",
+        "vertices" : [ {
+          "x" : 715,
+          "y" : 1285
+        } ]
+      }, {
+        "id" : "59"
       } ]
     } ],
     "deploymentViews" : [ {
@@ -1625,7 +1625,7 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "SystemContext-001"
+      "lastSavedView" : "Containers"
     }
   }
 }

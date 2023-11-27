@@ -1,5 +1,17 @@
 ## Views
 
+### Overview
+
+**Schedule System use a 3-tier architecture with API comprised of four interconnected components:**
+
+- Client Application: serves as a presentation layer of our system, providing an interactive and intuitive interface for Committee members, Teachers, and Students.
+- Web Application: a core component of the Schedule System, intricately designed to handle various aspects of schedule logic. It designed to streamline the process of creating, analyzing, and validating academic schedules. 
+- API: serves as the integrative core of the Schedule System, orchestrating the flow of data between internal components and external systems. 
+- Database: Store data
+Committees, Teachers, Students use the Client Application to manage and view schedules. The Client Application sends user requests through the API to the Web Application, where the requested tasks are executed. The API plays a pivotal role in both internal communication and external data exchange with integrated systems.
+
+![](embed:Containers)
+
 ### Web Application
 
 The Schedule System's Web Application is a core component of the Schedule System, 
